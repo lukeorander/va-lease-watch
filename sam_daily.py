@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-VA Lease Watch - daily SAM.gov pull for The Avens Group.
+VA & GSA Lease Watch - daily SAM.gov pull for The Avens Group.
 
 Every run:
   1. Queries the SAM.gov Get Opportunities API for recent VA lease notices
@@ -29,16 +29,26 @@ import requests
 # ---------------------------------------------------------------------------
 NAICS_CODES = ["531120"]          # Lessors of Nonresidential Buildings (VA lease NAICS)
 TITLE_QUERIES = ["lease"]          # Extra title searches to catch miscoded notices
-AGENCY_MATCH = "VETERANS AFFAIRS"  # Must appear in the notice's agency path
+# Each feed gets its own email, recipients, and portal page. Both share the same API calls.
+FEEDS = [
+    {"key": "va", "name": "VA Lease Watch", "noun": "VA lease notice",
+     "agency": "VETERANS AFFAIRS",                       # must appear in the notice's agency path
+     "data": "docs/data/opportunities.json", "to_env": "EMAIL_TO", "portal_suffix": ""},
+    {"key": "gsa", "name": "GSA Lease Watch", "noun": "GSA lease notice",
+     "agency": "GENERAL SERVICES ADMINISTRATION",
+     "data": "docs/data/gsa.json", "to_env": "EMAIL_TO_GSA", "portal_suffix": "?feed=gsa"},
+]
 # Words that mark a "lease" as NOT real estate live in exclude_words.txt (one per line),
 # so you can edit them in the GitHub website without touching this script.
 STATES = []                        # e.g. ["CO", "WY", "MT", "ID"]; empty = nationwide
-CLOSING_SOON_DAYS = 14
+CLOSING_SOON_DAYS = 60
+# Deadline groups in the email and portal: (last day of group, label)
+DUE_BUCKETS = [(5, "Due within 5 days"), (10, "Due in 6 to 10 days"), (15, "Due in 11 to 15 days"),
+               (30, "Due in 16 to 30 days"), (45, "Due in 31 to 45 days"), (60, "Due in 46 to 60 days")]
 
 # ---------------------------------------------------------------------------
 API_URL = "https://api.sam.gov/opportunities/v2/search"
 ROOT = Path(__file__).resolve().parent
-DATA_FILE = ROOT / "docs" / "data" / "opportunities.json"
 EXCLUDE_FILE = ROOT / "exclude_words.txt"
 
 
@@ -105,10 +115,10 @@ def fetch_all(api_key, days_back):
 
 
 # ----------------------------- Filtering -----------------------------------
-def is_va_lease(o):
+def matches_feed(o, feed):
     path = (o.get("fullParentPathName") or "").upper()
     title = (o.get("title") or "").upper()
-    if AGENCY_MATCH not in path:
+    if feed["agency"] not in path:
         return False
     if is_excluded(title, o.get("noticeId"), o.get("solicitationNumber")):
         return False
@@ -161,9 +171,9 @@ def is_award(rec):
 
 
 # ----------------------------- Storage -------------------------------------
-def load_store():
-    if DATA_FILE.exists():
-        return json.loads(DATA_FILE.read_text())
+def load_store(path):
+    if path.exists():
+        return json.loads(path.read_text())
     return {"updated": None, "items": {}}
 
 
@@ -249,22 +259,49 @@ def section_html(title, recs, empty_text):
     return head + body + '<tr><td style="height:14px;"></td></tr>'
 
 
-def build_email(new, amended, soon, portal_url, first_run):
+def due_section_html(soon):
+    title = f"Responses due in the next {CLOSING_SOON_DAYS} days"
+    if not soon:
+        return section_html(title, [], "No upcoming deadlines.")
+    head = f"""<tr><td style="background:{ORANGE};color:#fff;padding:8px 14px;
+        font-family:'Century Gothic',Arial,sans-serif;font-weight:bold;font-size:14px;">
+        {esc(title)} ({len(soon)})</td></tr>"""
+    body, lo = "", -1
+    for hi, label in DUE_BUCKETS:
+        group = [r for r in soon if lo < days_until(r) <= hi]
+        lo = hi
+        if not group:
+            continue
+        body += f"""<tr><td style="background:{NAVY_TINT};color:{NAVY};padding:6px 14px;
+            font-family:'Century Gothic',Arial,sans-serif;font-weight:bold;font-size:12px;">
+            {esc(label)} ({len(group)})</td></tr>"""
+        body += "".join(row_html(r, i % 2 == 1) for i, r in enumerate(group))
+    return head + body + '<tr><td style="height:14px;"></td></tr>'
+
+
+def days_until(rec):
+    return (dt.date.fromisoformat(rec["deadline"]) - dt.date.today()).days
+
+
+def build_email(feed, new, amended, soon, portal_url, first_run):
+    name = feed["name"]
     fresh = [r for r in new if not is_award(r)]
     awards = [r for r in new + amended if is_award(r)]
     amended = [r for r in amended if not is_award(r)]
     today = dt.date.today().strftime("%A, %B %d, %Y")
+    urgent = sum(1 for r in soon if days_until(r) <= 15)
     intro = ("Initial load: everything posted in the backfill window is listed below."
              if first_run else
-             f"{len(fresh)} new VA lease notice{'s' if len(fresh) != 1 else ''} and "
-             f"{len(soon)} response{'s' if len(soon) != 1 else ''} due in the next {CLOSING_SOON_DAYS} days.")
+             f"{len(fresh)} new {feed['noun']}{'s' if len(fresh) != 1 else ''}. "
+             f"{len(soon)} response{'s' if len(soon) != 1 else ''} due in the next {CLOSING_SOON_DAYS} days, "
+             f"{urgent} of them within 15 days.")
     portal = (f'<p style="margin:0 0 16px;"><a href="{esc(portal_url)}" style="color:{ORANGE};font-weight:bold;">'
-              f'Open the VA Lease Watch portal</a></p>') if portal_url else ""
+              f'Open the {name} portal</a></p>') if portal_url else ""
     body = f"""<html><body style="margin:0;background:#F5F6F8;">
     <table width="100%" cellpadding="0" cellspacing="0" style="background:#F5F6F8;"><tr><td align="center" style="padding:20px 8px;">
     <table width="640" cellpadding="0" cellspacing="0" style="max-width:640px;width:100%;background:#fff;">
       <tr><td style="background:{NAVY};padding:18px 20px;">
-        <div style="font-family:'Calibri Light',Calibri,Arial,sans-serif;color:#fff;font-size:22px;">VA Lease Watch</div>
+        <div style="font-family:'Calibri Light',Calibri,Arial,sans-serif;color:#fff;font-size:22px;">{esc(name)}</div>
         <div style="font-family:'Century Gothic',Arial,sans-serif;color:{NAVY_TINT};font-size:12px;">The Avens Group | SAM.gov daily pull | {today}</div>
       </td></tr>
       <tr><td style="padding:16px 20px 4px;font-family:'Century Gothic',Arial,sans-serif;font-size:14px;color:#000;">
@@ -273,20 +310,20 @@ def build_email(new, amended, soon, portal_url, first_run):
       <tr><td style="padding:0 20px;"><table width="100%" cellpadding="0" cellspacing="0">
         {section_html("New notices", fresh, "Nothing new posted since the last pull.")}
         {section_html("Amendments and updates", amended, "No amendments to notices you're tracking.")}
-        {section_html(f"Responses due in the next {CLOSING_SOON_DAYS} days", soon, "No upcoming deadlines.")}
+        {due_section_html(soon)}
         {section_html("Recent awards", awards, "No new award notices.")}
       </table></td></tr>
       <tr><td style="border-top:3px solid {ORANGE};padding:12px 20px;font-family:'Century Gothic',Arial,sans-serif;
           font-size:11px;color:{SILVER};">The Avens Group | 303-731-0530 | GoAvens.com<br>
           Source: SAM.gov Get Opportunities API. Always confirm details on SAM.gov before responding.</td></tr>
     </table></td></tr></table></body></html>"""
-    subject = (f"VA Lease Watch: initial load ({len(fresh)} notices)" if first_run else
-               f"VA Lease Watch: {len(fresh)} new, {len(soon)} due soon ({dt.date.today():%b %d})")
+    subject = (f"{name}: initial load ({len(fresh)} notices)" if first_run else
+               f"{name}: {len(fresh)} new, {urgent} due within 15 days ({dt.date.today():%b %d})")
     return subject, body
 
 
-def recipients():
-    return [a.strip() for a in env("EMAIL_TO").split(",") if a.strip()]
+def recipients(var):
+    return [a.strip() for a in env(var).split(",") if a.strip()]
 
 
 def send_via_graph(subject, html_body, to):
@@ -294,13 +331,13 @@ def send_via_graph(subject, html_body, to):
     tenant, client_id, secret = env("MS_TENANT_ID"), env("MS_CLIENT_ID"), env("MS_CLIENT_SECRET")
     sender = env("EMAIL_FROM")
     if not sender:
-        sys.exit("EMAIL_FROM must be set to the mailbox that sends the digest (e.g. alerts@goavens.com).")
+        raise RuntimeError("EMAIL_FROM must be set to the mailbox that sends the digest (e.g. alerts@goavens.com).")
     tok = requests.post(
         f"https://login.microsoftonline.com/{tenant}/oauth2/v2.0/token",
         data={"client_id": client_id, "client_secret": secret, "grant_type": "client_credentials",
               "scope": "https://graph.microsoft.com/.default"}, timeout=60)
     if tok.status_code != 200:
-        sys.exit("Microsoft sign-in failed. Check MS_TENANT_ID, MS_CLIENT_ID and MS_CLIENT_SECRET "
+        raise RuntimeError("Microsoft sign-in failed. Check MS_TENANT_ID, MS_CLIENT_ID and MS_CLIENT_SECRET "
                  f"(client secrets expire). Details: {tok.text[:300]}")
     resp = requests.post(
         f"https://graph.microsoft.com/v1.0/users/{sender}/sendMail",
@@ -313,7 +350,7 @@ def send_via_graph(subject, html_body, to):
     if resp.status_code != 202:
         hint = (" Make sure the Mail.Send application permission was added AND admin consent was granted."
                 if resp.status_code == 403 else "")
-        sys.exit(f"Microsoft Graph could not send the email ({resp.status_code}).{hint} Details: {resp.text[:300]}")
+        raise RuntimeError(f"Microsoft Graph could not send the email ({resp.status_code}).{hint} Details: {resp.text[:300]}")
 
 
 def send_via_smtp(subject, html_body, to):
@@ -326,10 +363,10 @@ def send_via_smtp(subject, html_body, to):
         s.sendmail(msg["From"], to, msg.as_string())
 
 
-def send_email(subject, html_body):
-    to = recipients()
+def send_email(subject, html_body, to_var):
+    to = recipients(to_var)
     if not to:
-        print("EMAIL_TO not set; skipping email.")
+        print(f"{to_var} not set; skipping email.")
         return
     if env("MS_CLIENT_ID"):
         send_via_graph(subject, html_body, to)
@@ -345,15 +382,20 @@ def main():
     ap.add_argument("--no-email", action="store_true", help="Skip sending; write email preview to email_preview.html")
     args = ap.parse_args()
 
-    store = load_store()
-    # Re-apply the exclude list to notices already saved, so new words clean up the portal too.
-    removed = [k for k, r in store["items"].items() if is_excluded(r.get("title"), r.get("id"), r.get("solnum"))]
-    for k in removed:
-        del store["items"][k]
-    if removed:
-        print(f"Removed {len(removed)} saved notices matching exclude_words.txt.")
-    first_run = not store["items"]
-    days_back = int(env("BACKFILL_DAYS", "90")) if first_run else int(env("LOOKBACK_DAYS", "4"))
+    stores = {}
+    for feed in FEEDS:
+        path = ROOT / feed["data"]
+        store = load_store(path)
+        # Re-apply the exclude list to saved notices, so new entries clean up the portal too.
+        removed = [k for k, r in store["items"].items()
+                   if is_excluded(r.get("title"), r.get("id"), r.get("solnum"))]
+        for k in removed:
+            del store["items"][k]
+        if removed:
+            print(f"{feed['name']}: removed {len(removed)} saved notices matching exclude_words.txt.")
+        stores[feed["key"]] = (path, store, not store["items"])
+    any_first = any(first for _, _, first in stores.values())
+    days_back = int(env("BACKFILL_DAYS", "90")) if any_first else int(env("LOOKBACK_DAYS", "4"))
 
     if args.sample:
         raw = json.loads(Path(args.sample).read_text()).get("opportunitiesData", [])
@@ -362,30 +404,41 @@ def main():
         if not api_key:
             sys.exit("SAM_API_KEY is not set.")
         raw = fetch_all(api_key, days_back)
+    print(f"Pulled {len(raw)} notices from SAM.gov.")
 
-    seen, records = set(), []
-    for o in raw:
-        if o.get("noticeId") in seen or not is_va_lease(o):
-            continue
-        seen.add(o.get("noticeId"))
-        rec = normalize(o)
-        if STATES and rec["state"] not in STATES:
-            continue
-        records.append(rec)
-    print(f"Pulled {len(raw)} notices, {len(records)} VA lease matches.")
+    errors = []
+    for feed in FEEDS:
+        path, store, first_run = stores[feed["key"]]
+        seen, records = set(), []
+        for o in raw:
+            if o.get("noticeId") in seen or not matches_feed(o, feed):
+                continue
+            seen.add(o.get("noticeId"))
+            rec = normalize(o)
+            if STATES and rec["state"] not in STATES:
+                continue
+            records.append(rec)
 
-    new, amended = merge(store, records, dt.date.today().isoformat())
-    DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
-    DATA_FILE.write_text(json.dumps(store, indent=1, sort_keys=True))
-    print(f"{len(new)} new, {len(amended)} amended. Store holds {len(store['items'])} notices.")
+        new, amended = merge(store, records, dt.date.today().isoformat())
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(json.dumps(store, indent=1, sort_keys=True))
+        print(f"{feed['name']}: {len(records)} matches, {len(new)} new, {len(amended)} amended. "
+              f"Store holds {len(store['items'])} notices.")
 
-    subject, body = build_email(new, amended, closing_soon(store), env("PORTAL_URL"), first_run)
-    if args.no_email:
-        (ROOT / "email_preview.html").write_text(body)
-        print("Wrote email_preview.html")
-    elif new or amended or env("SEND_EMPTY", "true").lower() == "true":
-        send_email(subject, body)
-
+        portal = env("PORTAL_URL")
+        portal = portal + feed["portal_suffix"] if portal else ""
+        subject, body = build_email(feed, new, amended, closing_soon(store), portal, first_run)
+        if args.no_email:
+            (ROOT / f"email_preview_{feed['key']}.html").write_text(body)
+            print(f"Wrote email_preview_{feed['key']}.html")
+        elif new or amended or env("SEND_EMPTY", "true").lower() == "true":
+            try:
+                send_email(subject, body, feed["to_env"])
+            except Exception as e:  # keep going so the other feed still sends
+                print(f"{feed['name']} email failed: {e}")
+                errors.append(feed["name"])
+    if errors:
+        sys.exit(f"Email failed for: {', '.join(errors)}. Portal data was still saved.")
 
 if __name__ == "__main__":
     main()
