@@ -56,7 +56,6 @@
    "deadline": "",
    "firstSeen": "2026-10-08",
    "id": "061aba9867634585af6394a4fb27af3d",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/061aba9867634585af6394a4fb27af3d/view",
    "naics": "532490",
    "office": "241-Network Contract Office 01 (36C241)",
@@ -104,7 +103,6 @@
    "deadline": "",
    "firstSeen": "2026-10-08",
    "id": "130250eceb60473e91f1c4f59df0530b",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/130250eceb60473e91f1c4f59df0530b/view",
    "naics": "532490",
    "office": "241-Network Contract Office 01 (36C241)",
@@ -344,7 +342,6 @@
    "deadline": "",
    "firstSeen": "2026-10-08",
    "id": "412cca448a904315bfbf918dd0827b81",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/412cca448a904315bfbf918dd0827b81/view",
    "naics": "531120",
    "office": "245-Network Contract Office 5 (36C245)",
@@ -608,7 +605,6 @@
    "deadline": "2026-10-26",
    "firstSeen": "2026-10-08",
    "id": "59fab3e298894148a1001535c9255cda",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/59fab3e298894148a1001535c9255cda/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -896,7 +892,6 @@
    "deadline": "2026-10-15",
    "firstSeen": "2026-10-08",
    "id": "798c798132064dac9ccb483fc4aa39d5",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/798c798132064dac9ccb483fc4aa39d5/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -968,7 +963,6 @@
    "deadline": "",
    "firstSeen": "2026-10-08",
    "id": "8390958aa88548e2b64fccd38a4eb19a",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/8390958aa88548e2b64fccd38a4eb19a/view",
    "naics": "531120",
    "office": "Network Contract Office 23 (36C263)",
@@ -1079,30 +1073,6 @@
    "state": "PA",
    "title": "Lease of Space in Sussex County, DE for a CBOC Annex 7,533 RSF / 6,696 ABOA",
    "type": "Combined Synopsis/Solicitation"
-  },
-  "99bade771eba4b91a6f566a5167ba67d": {
-   "active": true,
-   "awardAmount": "",
-   "awardee": "",
-   "city": "",
-   "deadline": "2026-10-22",
-   "firstSeen": "2026-10-08",
-   "id": "99bade771eba4b91a6f566a5167ba67d",
-   "isUpdate": false,
-   "link": "https://sam.gov/workspace/contract/opp/99bade771eba4b91a6f566a5167ba67d/view",
-   "naics": "561421",
-   "office": "245-Network Contract Office 5 (36C245)",
-   "poc": {
-    "email": "cassie.white@va.gov",
-    "name": " Cassie White",
-    "phone": "Email only"
-   },
-   "posted": "2026-10-07",
-   "setAside": "",
-   "solnum": "36C24527Q0022",
-   "state": "",
-   "title": "Q999--GCH Technologies - Vanity Short Codes Annual Lease",
-   "type": "Special Notice"
   },
   "9b7e4165d301410e9002c5758d1df95f": {
    "active": true,
@@ -1424,7 +1394,6 @@
    "deadline": "2026-09-30",
    "firstSeen": "2026-10-08",
    "id": "cd5668f4523444b28773b54af6d5adaf",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/cd5668f4523444b28773b54af6d5adaf/view",
    "naics": "531120",
    "office": "250-Network Contract Office 10 (36C250)",
@@ -1728,30 +1697,6 @@
    "title": "X1DB--Department of Veterans Affairs San Marcos, TX OPC Lease Award 36C10F26L0010",
    "type": "Award Notice"
   },
-  "f4c7b3f462d240feb61914a1f50f8dd6": {
-   "active": true,
-   "awardAmount": "",
-   "awardee": "",
-   "city": "Lebanon,",
-   "deadline": "2026-10-09",
-   "firstSeen": "2026-10-08",
-   "id": "f4c7b3f462d240feb61914a1f50f8dd6",
-   "isUpdate": false,
-   "link": "https://sam.gov/workspace/contract/opp/f4c7b3f462d240feb61914a1f50f8dd6/view",
-   "naics": "621512",
-   "office": "244-Network Contract Office 4 (36C244)",
-   "poc": {
-    "email": "david.santiago2@va.gov",
-    "name": "David Santiago",
-    "phone": "412-822-3746"
-   },
-   "posted": "2026-09-29",
-   "setAside": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
-   "solnum": "36C24426Q0972",
-   "state": "",
-   "title": "Q522--VISN Teleradiology Staffing Services - **Please convert the 21 specialized teleradiology scans on pages 21 thru 23 into FTE hours** This is not a Request for Quote.",
-   "type": "Sources Sought"
-  },
   "f6554a48bb6a41c6b7143e3853aea8a0": {
    "active": true,
    "awardAmount": "",
@@ -1784,7 +1729,6 @@
    "deadline": "",
    "firstSeen": "2026-10-08",
    "id": "f761ad26771643e09794034504743050",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/f761ad26771643e09794034504743050/view",
    "naics": "532490",
    "office": "Network Contract Office 23 (36C263)",
@@ -1928,7 +1872,6 @@
    "deadline": "2026-10-08",
    "firstSeen": "2026-10-08",
    "id": "fe767d68caba47848cc8ce3d38ca4421",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/fe767d68caba47848cc8ce3d38ca4421/view",
    "naics": "531120",
    "office": "256-Network Contract Office 16 (36C256)",
@@ -1945,5 +1888,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-10-08T04:58:00+00:00"
+ "updated": "2026-10-08T05:28:49+00:00"
 }
