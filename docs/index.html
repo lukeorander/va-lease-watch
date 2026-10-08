@@ -75,6 +75,9 @@
   .side select.s-pursuing { border-color: var(--orange); background: var(--orange-tint); }
   .side select.s-watching { background: var(--navy-tint); }
 
+  li.group { background: var(--navy-tint); color: var(--navy-deep); font-weight: 600; font-size: 13px;
+    padding: 7px 14px; border-bottom: 1px solid var(--gray); }
+  li.group span { font-weight: normal; opacity: .7; margin-left: 4px; }
   .empty { padding: 40px 20px; text-align: center; color: #4A5260; background: #fff; border: 1px solid var(--gray); }
   footer { color: var(--silver); font-size: 12px; padding: 0 0 30px; border-top: 3px solid var(--orange); padding-top: 10px; }
 
@@ -100,7 +103,7 @@
     <p class="summary" id="summary"></p>
     <nav class="views" aria-label="Views">
       <button data-view="open" aria-pressed="true">Open<span class="n"></span></button>
-      <button data-view="soon" aria-pressed="false">Due in 14 days<span class="n"></span></button>
+      <button data-view="soon" aria-pressed="false">Due in 60 days<span class="n"></span></button>
       <button data-view="awards" aria-pressed="false">Awards<span class="n"></span></button>
       <button data-view="all" aria-pressed="false">All<span class="n"></span></button>
     </nav>
@@ -127,7 +130,10 @@
 
 <script>
 (() => {
-  const SOON = 14;
+  const SOON = 60, HOT = 15;
+  const BUCKETS = [[5, "Due within 5 days"], [10, "Due in 6 to 10 days"], [15, "Due in 11 to 15 days"],
+                   [30, "Due in 16 to 30 days"], [45, "Due in 31 to 45 days"], [60, "Due in 46 to 60 days"]];
+  const bucketOf = n => BUCKETS.find(b => n <= b[0]);
   const today = new Date(); today.setHours(0, 0, 0, 0);
   let items = [], latestSeen = "", view = "open";
 
@@ -170,7 +176,7 @@
     const n = daysLeft(r);
     if (isAward(r)) return `<div class="clock none"><div class="days">Award</div><div class="date">${r.posted ? fmt(r.posted.slice(0, 10)) : ""}</div></div>`;
     if (n === null) return `<div class="clock none"><div class="days">No date</div><div class="unit">response</div></div>`;
-    const cls = n < 0 ? "past" : n <= SOON ? "hot" : "";
+    const cls = n < 0 ? "past" : n <= HOT ? "hot" : "";
     const unit = n < 0 ? "closed" : n === 1 ? "day left" : "days left";
     return `<div class="clock ${cls}"><div class="days">${n < 0 ? "–" : n}</div><div class="unit">${unit}</div><div class="date">${fmt(r.deadline)}</div></div>`;
   }
@@ -186,7 +192,17 @@
       list.innerHTML = `<li class="empty">No notices match these filters. Clear the search or pick a different view.</li>`;
       return;
     }
+    let lastBucket = null;
     list.innerHTML = rows.map(r => {
+      let groupHead = "";
+      if (view === "soon") {
+        const b = bucketOf(daysLeft(r));
+        if (b !== lastBucket) {
+          const count = rows.filter(x => bucketOf(daysLeft(x)) === b).length;
+          groupHead = `<li class="group">${b[1]} <span>${count}</span></li>`;
+          lastBucket = b;
+        }
+      }
       const s = statusOf(r), note = (marks[r.id] && marks[r.id].note) || "";
       const where = [r.city, r.state].filter(Boolean).join(", ") || "Location not listed";
       const tags = [
@@ -195,7 +211,7 @@
         r.setAside ? `<span class="tag ${/service-disabled|sdvosb/i.test(r.setAside) ? "sdvosb" : ""}">${esc(r.setAside.replace(/\s*\(FAR.*\)$/, ""))}</span>` : "",
         isAward(r) && r.awardee ? `<span class="tag">Awarded to ${esc(r.awardee)}${r.awardAmount ? " | $" + Number(r.awardAmount).toLocaleString() : ""}</span>` : ""
       ].join("");
-      return `<li class="opp ${s === "passed" ? "passed" : ""}" data-id="${esc(r.id)}">
+      return groupHead + `<li class="opp ${s === "passed" ? "passed" : ""}" data-id="${esc(r.id)}">
         ${clock(r)}
         <div class="main">
           <h2><a href="${esc(r.link)}" target="_blank" rel="noopener">${esc(r.title)}</a></h2>
@@ -265,7 +281,7 @@
       const pursuing = items.filter(r => statusOf(r) === "pursuing").length;
       document.getElementById("summary").innerHTML =
         `<b>${fresh}</b> new VA lease notice${fresh === 1 ? "" : "s"} in the latest pull. ` +
-        `<b>${soon}</b> response${soon === 1 ? "" : "s"} due in the next two weeks` +
+        `<b>${soon}</b> response${soon === 1 ? "" : "s"} due in the next 60 days, <b>${items.filter(r => views.soon(r) && daysLeft(r) <= HOT).length}</b> within 15 days` +
         (pursuing ? `, and you're pursuing <b>${pursuing}</b>.` : ".");
       const states = [...new Set(items.map(r => r.state).filter(Boolean))].sort();
       document.getElementById("state").insertAdjacentHTML("beforeend", states.map(s => `<option>${s}</option>`).join(""));
