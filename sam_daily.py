@@ -30,10 +30,8 @@ import requests
 NAICS_CODES = ["531120"]          # Lessors of Nonresidential Buildings (VA lease NAICS)
 TITLE_QUERIES = ["lease"]          # Extra title searches to catch miscoded notices
 AGENCY_MATCH = "VETERANS AFFAIRS"  # Must appear in the notice's agency path
-EXCLUDE_TITLE_WORDS = [            # Drop equipment/vehicle "leases" that aren't real estate
-    "VEHICLE", "COPIER", "EQUIPMENT", "OXYGEN", "MACHINE", "SOFTWARE",
-    "MOBILE MRI", "MOBILE CT", "MOBILE PET", "TRAILER", "LINEN", "UNIFORM",
-]
+# Words that mark a "lease" as NOT real estate live in exclude_words.txt (one per line),
+# so you can edit them in the GitHub website without touching this script.
 STATES = []                        # e.g. ["CO", "WY", "MT", "ID"]; empty = nationwide
 CLOSING_SOON_DAYS = 14
 
@@ -41,6 +39,30 @@ CLOSING_SOON_DAYS = 14
 API_URL = "https://api.sam.gov/opportunities/v2/search"
 ROOT = Path(__file__).resolve().parent
 DATA_FILE = ROOT / "docs" / "data" / "opportunities.json"
+EXCLUDE_FILE = ROOT / "exclude_words.txt"
+
+
+def load_excludes():
+    if not EXCLUDE_FILE.exists():
+        return []
+    out = []
+    for line in EXCLUDE_FILE.read_text().splitlines():
+        w = line.split("#")[0].strip()          # allow trailing comments
+        if "/opp/" in w:                         # a pasted SAM.gov link -> its notice ID
+            w = w.split("/opp/")[1].split("/")[0]
+        if w:
+            out.append(w.upper())
+    return out
+
+
+EXCLUDES = load_excludes()
+
+
+def is_excluded(title, notice_id="", solnum=""):
+    """True if the title contains an excluded word, or the notice ID / solicitation # is listed."""
+    t = (title or "").upper()
+    ids = {(notice_id or "").upper(), (solnum or "").upper()} - {""}
+    return any(w in ids or w in t for w in EXCLUDES)
 NAVY, ORANGE, ORANGE_TINT, NAVY_TINT, GRAY, SILVER = (
     "#44546A", "#ED7D31", "#FAD7BE", "#D6DCE4", "#E7E6E6", "#A5A5A5")
 
@@ -88,7 +110,7 @@ def is_va_lease(o):
     title = (o.get("title") or "").upper()
     if AGENCY_MATCH not in path:
         return False
-    if any(w in title for w in EXCLUDE_TITLE_WORDS):
+    if is_excluded(title, o.get("noticeId"), o.get("solicitationNumber")):
         return False
     return o.get("naicsCode") in NAICS_CODES or "LEASE" in title
 
@@ -263,11 +285,38 @@ def build_email(new, amended, soon, portal_url, first_run):
     return subject, body
 
 
-def send_email(subject, html_body):
-    to = [a.strip() for a in env("EMAIL_TO").split(",") if a.strip()]
-    if not to:
-        print("EMAIL_TO not set; skipping email.")
-        return
+def recipients():
+    return [a.strip() for a in env("EMAIL_TO").split(",") if a.strip()]
+
+
+def send_via_graph(subject, html_body, to):
+    """Send through Microsoft 365 using Microsoft Graph and an Entra app registration (OAuth)."""
+    tenant, client_id, secret = env("MS_TENANT_ID"), env("MS_CLIENT_ID"), env("MS_CLIENT_SECRET")
+    sender = env("EMAIL_FROM")
+    if not sender:
+        sys.exit("EMAIL_FROM must be set to the mailbox that sends the digest (e.g. alerts@goavens.com).")
+    tok = requests.post(
+        f"https://login.microsoftonline.com/{tenant}/oauth2/v2.0/token",
+        data={"client_id": client_id, "client_secret": secret, "grant_type": "client_credentials",
+              "scope": "https://graph.microsoft.com/.default"}, timeout=60)
+    if tok.status_code != 200:
+        sys.exit("Microsoft sign-in failed. Check MS_TENANT_ID, MS_CLIENT_ID and MS_CLIENT_SECRET "
+                 f"(client secrets expire). Details: {tok.text[:300]}")
+    resp = requests.post(
+        f"https://graph.microsoft.com/v1.0/users/{sender}/sendMail",
+        headers={"Authorization": f"Bearer {tok.json()['access_token']}"},
+        json={"message": {"subject": subject,
+                          "body": {"contentType": "HTML", "content": html_body},
+                          "toRecipients": [{"emailAddress": {"address": a}} for a in to]},
+              "saveToSentItems": False},
+        timeout=60)
+    if resp.status_code != 202:
+        hint = (" Make sure the Mail.Send application permission was added AND admin consent was granted."
+                if resp.status_code == 403 else "")
+        sys.exit(f"Microsoft Graph could not send the email ({resp.status_code}).{hint} Details: {resp.text[:300]}")
+
+
+def send_via_smtp(subject, html_body, to):
     msg = MIMEMultipart("alternative")
     msg["Subject"], msg["From"], msg["To"] = subject, env("EMAIL_FROM") or env("SMTP_USER"), ", ".join(to)
     msg.attach(MIMEText(html_body, "html"))
@@ -275,6 +324,17 @@ def send_email(subject, html_body):
         s.starttls()
         s.login(env("SMTP_USER"), env("SMTP_PASS"))
         s.sendmail(msg["From"], to, msg.as_string())
+
+
+def send_email(subject, html_body):
+    to = recipients()
+    if not to:
+        print("EMAIL_TO not set; skipping email.")
+        return
+    if env("MS_CLIENT_ID"):
+        send_via_graph(subject, html_body, to)
+    else:
+        send_via_smtp(subject, html_body, to)
     print(f"Emailed {', '.join(to)}")
 
 
@@ -286,6 +346,12 @@ def main():
     args = ap.parse_args()
 
     store = load_store()
+    # Re-apply the exclude list to notices already saved, so new words clean up the portal too.
+    removed = [k for k, r in store["items"].items() if is_excluded(r.get("title"), r.get("id"), r.get("solnum"))]
+    for k in removed:
+        del store["items"][k]
+    if removed:
+        print(f"Removed {len(removed)} saved notices matching exclude_words.txt.")
     first_run = not store["items"]
     days_back = int(env("BACKFILL_DAYS", "90")) if first_run else int(env("LOOKBACK_DAYS", "4"))
 
