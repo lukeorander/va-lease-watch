@@ -1,0 +1,25 @@
+# Anything listed here is dropped from the email and portal, including notices already saved.
+# One entry per line. Not case-sensitive. Text after # is ignored.
+#
+# You can list:
+#   - a word or phrase from bad titles (drops every title containing it), e.g. OXYGEN
+#   - a solicitation number (drops that one notice and its amendments), e.g. 36C25926Q0001
+#   - a SAM.gov link or notice ID (drops that one notice)
+
+# Words
+VEHICLE
+COPIER
+EQUIPMENT
+OXYGEN
+MACHINE
+SOFTWARE
+MOBILE MRI
+MOBILE CT
+MOBILE PET
+TRAILER
+LINEN
+UNIFORM
+
+# Specific notices
+https://sam.gov/workspace/contract/opp/f4c7b3f462d240feb61914a1f50f8dd6/view
+https://sam.gov/workspace/contract/opp/99bade771eba4b91a6f566a5167ba67d/view
