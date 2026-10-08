@@ -13,6 +13,46 @@ jobs:
   pull:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Pull SAM.gov and send digest
+        run: python sam_daily.py
+        env:
+          SAM_API_KEY: ${{ secrets.SAM_API_KEY }}
+          MS_TENANT_ID: ${{ secrets.MS_TENANT_ID }}
+          MS_CLIENT_ID: ${{ secrets.MS_CLIENT_ID }}
+          MS_CLIENT_SECRET: ${{ secrets.MS_CLIENT_SECRET }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          PORTAL_URL: ${{ vars.PORTAL_URL }}
+
+      - name: Save updated data for the portal
+        run: |
+          git config user.name "va-lease-watch-bot"
+          git config user.email "va-lease-watch-bot@users.noreply.github.com"
+          git add docs/data/opportunities.json
+          git diff --cached --quiet || git commit -m "Daily SAM.gov pull $(date -u +%F)"
+          git pushname: Daily SAM.gov VA lease pull
+
+on:
+  schedule:
+    # 13:00 UTC = 7:00 AM Denver in summer (MDT), 6:00 AM in winter (MST). Weekdays only.
+    - cron: "0 13 * * 1-5"
+  workflow_dispatch:   # adds a "Run workflow" button for manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
