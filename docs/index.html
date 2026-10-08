@@ -23,6 +23,10 @@
   .wrap { max-width: 1100px; margin: 0 auto; padding: 0 20px; }
   .masthead { display: flex; justify-content: space-between; align-items: flex-end; gap: 16px; padding: 22px 0 6px; flex-wrap: wrap; }
   h1 { font: 300 30px/1.1 var(--title); margin: 0; letter-spacing: .01em; }
+  .titlebar { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
+  .feeds { display: flex; border: 1px solid var(--navy-tint); border-radius: 3px; overflow: hidden; }
+  .feeds a { color: var(--navy-tint); text-decoration: none; padding: 4px 14px; font-size: 13px; }
+  .feeds a[aria-current="page"] { background: var(--orange); color: #fff; }
   .stamp { color: var(--navy-tint); font-size: 12px; }
   .summary { font-size: 17px; padding: 6px 0 18px; color: #fff; max-width: 70ch; }
   .summary b { color: var(--orange-tint); font-weight: normal; border-bottom: 2px solid var(--orange); }
@@ -97,7 +101,8 @@
 <header>
   <div class="wrap">
     <div class="masthead">
-      <h1>VA Lease Watch</h1>
+      <div class="titlebar"><h1 id="feedTitle">VA Lease Watch</h1>
+        <nav class="feeds" aria-label="Agency"><a href="./" data-feed="va">VA</a><a href="./?feed=gsa" data-feed="gsa">GSA</a></nav></div>
       <div class="stamp" id="stamp">Loading SAM.gov data…</div>
     </div>
     <p class="summary" id="summary"></p>
@@ -130,6 +135,15 @@
 
 <script>
 (() => {
+  const FEEDS = {
+    va:  { name: "VA Lease Watch",  noun: "VA lease notice",  data: "data/opportunities.json", store: "vlw:" },
+    gsa: { name: "GSA Lease Watch", noun: "GSA lease notice", data: "data/gsa.json",           store: "glw:" }
+  };
+  const feedKey = new URLSearchParams(location.search).get("feed") === "gsa" ? "gsa" : "va";
+  const FEED = FEEDS[feedKey];
+  document.title = FEED.name + " | The Avens Group";
+  document.getElementById("feedTitle").textContent = FEED.name;
+  for (const a of document.querySelectorAll(".feeds a")) a.setAttribute("aria-current", a.dataset.feed === feedKey ? "page" : "false");
   const SOON = 60, HOT = 15;
   const BUCKETS = [[5, "Due within 5 days"], [10, "Due in 6 to 10 days"], [15, "Due in 11 to 15 days"],
                    [30, "Due in 16 to 30 days"], [45, "Due in 31 to 45 days"], [60, "Due in 46 to 60 days"]];
@@ -138,8 +152,8 @@
   let items = [], latestSeen = "", view = "open";
 
   const store = {
-    get(k) { try { return JSON.parse(localStorage.getItem("vlw:" + k)) || {}; } catch { return {}; } },
-    set(k, v) { try { localStorage.setItem("vlw:" + k, JSON.stringify(v)); } catch {} }
+    get(k) { try { return JSON.parse(localStorage.getItem(FEED.store + k)) || {}; } catch { return {}; } },
+    set(k, v) { try { localStorage.setItem(FEED.store + k, JSON.stringify(v)); } catch {} }
   };
   const marks = store.get("marks");   // { id: { status, note } }
 
@@ -256,11 +270,11 @@
         .map(v => `"${String(v ?? "").replace(/"/g, '""')}"`).join(",")));
     const a = document.createElement("a");
     a.href = URL.createObjectURL(new Blob([lines.join("\n")], { type: "text/csv" }));
-    a.download = `va-lease-watch-${new Date().toISOString().slice(0, 10)}.csv`;
+    a.download = `${feedKey}-lease-watch-${new Date().toISOString().slice(0, 10)}.csv`;
     a.click();
   });
 
-  fetch("data/opportunities.json", { cache: "no-store" })
+  fetch(FEED.data, { cache: "no-store" })
     .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(data => {
       items = Object.values(data.items || {});
@@ -280,7 +294,7 @@
       const soon = items.filter(views.soon).length;
       const pursuing = items.filter(r => statusOf(r) === "pursuing").length;
       document.getElementById("summary").innerHTML =
-        `<b>${fresh}</b> new VA lease notice${fresh === 1 ? "" : "s"} in the latest pull. ` +
+        `<b>${fresh}</b> new ${FEED.noun}${fresh === 1 ? "" : "s"} in the latest pull. ` +
         `<b>${soon}</b> response${soon === 1 ? "" : "s"} due in the next 60 days, <b>${items.filter(r => views.soon(r) && daysLeft(r) <= HOT).length}</b> within 15 days` +
         (pursuing ? `, and you're pursuing <b>${pursuing}</b>.` : ".");
       const states = [...new Set(items.map(r => r.state).filter(Boolean))].sort();
