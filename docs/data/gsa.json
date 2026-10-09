@@ -166,6 +166,30 @@
    "title": "General Services Administration (GSA) seeks to lease 383,043 ABOA SF of underground storage space in Independence, MO",
    "type": "Presolicitation"
   },
+  "0eb33c367f33462981a6a7b62f1c50d9": {
+   "active": true,
+   "awardAmount": "9793741.59",
+   "awardee": "BOZIII-WatersEdge II, LLC",
+   "city": "San Antonio",
+   "deadline": "",
+   "firstSeen": "2026-10-09",
+   "id": "0eb33c367f33462981a6a7b62f1c50d9",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/0eb33c367f33462981a6a7b62f1c50d9/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "edward.seifert@gsa.gov",
+    "name": "Edward \"Teddy\" H. Seifert",
+    "phone": "2026524189"
+   },
+   "posted": "2026-10-08",
+   "setAside": "No Set aside used",
+   "solnum": "5TX0805",
+   "state": "TX",
+   "title": "General Services Administration (GSA) seeks to lease the following space: 5TX0805",
+   "type": "Award Notice"
+  },
   "0f4925aabd2d458993c20e5c02be5fa4": {
    "active": true,
    "awardAmount": "",
@@ -381,6 +405,30 @@
    "title": "General Services Administration (GSA) seeks to lease the following space: Solicitation No. 3LA0262",
    "type": "Presolicitation"
   },
+  "1d38ecb45e2d451f8f3dddccccf5233f": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Spokane",
+   "deadline": "2026-10-22",
+   "firstSeen": "2026-10-09",
+   "id": "1d38ecb45e2d451f8f3dddccccf5233f",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/1d38ecb45e2d451f8f3dddccccf5233f/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "ryan.reynolds@gsa.gov",
+    "name": "Ryan Reynolds",
+    "phone": "2023086583"
+   },
+   "posted": "2026-10-08",
+   "setAside": "",
+   "solnum": "6WA0565",
+   "state": "WA",
+   "title": "General Services Administration (GSA) seeks to lease two parking spaces in Spokane, WA",
+   "type": "Presolicitation"
+  },
   "22299b7009194f199c1ac9f5a77cabc0": {
    "active": true,
    "awardAmount": "",
@@ -404,6 +452,30 @@
    "state": "CO",
    "title": "US GOVERNMENT NOTICE OF LEASE REQUIREMENT",
    "type": "Presolicitation"
+  },
+  "24394a3f19514db19cb4678b2963fcee": {
+   "active": true,
+   "awardAmount": "41842155.58",
+   "awardee": "NARA12 FORT WORTH TX, L.P.",
+   "city": "Fort Worth",
+   "deadline": "",
+   "firstSeen": "2026-10-09",
+   "id": "24394a3f19514db19cb4678b2963fcee",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/24394a3f19514db19cb4678b2963fcee/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "edward.seifert@gsa.gov",
+    "name": "Edward \"Teddy\" H. Seifert",
+    "phone": "2026524189"
+   },
+   "posted": "2026-10-08",
+   "setAside": "",
+   "solnum": "4TX0994",
+   "state": "TX",
+   "title": "Award Notice for General Services Administration (GSA): Fort Worth, TX - 4TX0994",
+   "type": "Award Notice"
   },
   "25913866acdc43b2a364c9390584f5fc": {
    "active": true,
@@ -2409,6 +2481,30 @@
    "title": "Lease Space in Scottsbluff, NE",
    "type": "Presolicitation"
   },
+  "e93f5dc170ca48da8f12076b08d2df29": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Baltimore",
+   "deadline": "",
+   "firstSeen": "2026-10-09",
+   "id": "e93f5dc170ca48da8f12076b08d2df29",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/e93f5dc170ca48da8f12076b08d2df29/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "jennifer.kauffmann@gsa.gov",
+    "name": "jennifer kauffmann",
+    "phone": "2672945227"
+   },
+   "posted": "2026-10-08",
+   "setAside": "",
+   "solnum": "0MD2322",
+   "state": "MD",
+   "title": "Redacted Justification for 0MD2322 in Baltimore, MD",
+   "type": "Justification"
+  },
   "ebaad6593a0844b9bc9813a99dc013cb": {
    "active": true,
    "awardAmount": "",
@@ -2650,5 +2746,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-08T13:14:05+00:00"
+ "updated": "2026-10-09T13:12:59+00:00"
 }

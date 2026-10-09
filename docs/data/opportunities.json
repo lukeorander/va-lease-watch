@@ -506,6 +506,30 @@
    "title": "Hopi Flagstaff Vet Center",
    "type": "Solicitation"
   },
+  "4a1ff24e1a0d410b9f15ec0315371d66": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Columbia",
+   "deadline": "2026-10-15",
+   "firstSeen": "2026-10-09",
+   "id": "4a1ff24e1a0d410b9f15ec0315371d66",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/4a1ff24e1a0d410b9f15ec0315371d66/view",
+   "naics": "",
+   "office": "255-Network Contract Office 15 (36C255)",
+   "poc": {
+    "email": "veronica.flores@va.gov",
+    "name": "Betty Flores",
+    "phone": ""
+   },
+   "posted": "2026-10-08",
+   "setAside": "",
+   "solnum": "36C25527Q0020",
+   "state": "MO",
+   "title": "WoundScout Lease and Service",
+   "type": "Special Notice"
+  },
   "4f293229cdae418bad222ae16ad946d5": {
    "active": true,
    "awardAmount": "2729447.89",
@@ -1035,6 +1059,30 @@
    "title": "Lease of Space in Sussex County, DE for a CBOC Annex 7,533 RSF / 6,696 ABOA",
    "type": "Combined Synopsis/Solicitation"
   },
+  "96abb0461c664370adb3cb0a229fbada": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "New Philadelphia",
+   "deadline": "2026-10-20",
+   "firstSeen": "2026-10-09",
+   "id": "96abb0461c664370adb3cb0a229fbada",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/96abb0461c664370adb3cb0a229fbada/view",
+   "naics": "531120",
+   "office": "250-Network Contract Office 10 (36C250)",
+   "poc": {
+    "email": "brian.walton@va.gov",
+    "name": "Brian Walton",
+    "phone": "2164478300x49519"
+   },
+   "posted": "2026-10-08",
+   "setAside": "",
+   "solnum": "36C25027R0016",
+   "state": "OH",
+   "title": "X1DB--New Philadelphia VA Clinic (New Replacing) RLP 36C25027R0016",
+   "type": "Sources Sought"
+  },
   "9b7e4165d301410e9002c5758d1df95f": {
    "active": true,
    "awardAmount": "44280292.44",
@@ -1218,6 +1266,30 @@
    "state": "IN",
    "title": "X1DB--Fort Wayne FY2025 OPC RLP",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "bbdf73032f03419982bf2f936ea717c3": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Las Vegas",
+   "deadline": "2026-10-30",
+   "firstSeen": "2026-10-09",
+   "id": "bbdf73032f03419982bf2f936ea717c3",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/bbdf73032f03419982bf2f936ea717c3/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "dmcgrath@crcre.com",
+    "name": "Dan McGrath",
+    "phone": "NONE"
+   },
+   "posted": "2026-10-08",
+   "setAside": "No Set aside used",
+   "solnum": "36C24W26R0046",
+   "state": "NV",
+   "title": "Request for Lease Proposal (RLP): Las Vegas, NV Medical Facility",
+   "type": "Solicitation"
   },
   "c1237bddaf70436c82289a135e4b3ce5": {
    "active": true,
@@ -1633,6 +1705,54 @@
    "title": "X1DB--Department of Veterans Affairs San Marcos, TX OPC Lease Award 36C10F26L0010",
    "type": "Award Notice"
   },
+  "f4666857216f47b199e6c781b7ed3092": {
+   "active": true,
+   "awardAmount": "50819.97",
+   "awardee": "FARVER DEVELOPMENT, LLC",
+   "city": "Decorah",
+   "deadline": "",
+   "firstSeen": "2026-10-09",
+   "id": "f4666857216f47b199e6c781b7ed3092",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/f4666857216f47b199e6c781b7ed3092/view",
+   "naics": "531190",
+   "office": "Network Contract Office 23 (36C263)",
+   "poc": {
+    "email": "corina.gold@va.gov",
+    "name": "Corina Gold",
+    "phone": ""
+   },
+   "posted": "2026-10-08",
+   "setAside": "",
+   "solnum": "VA263-R-0991",
+   "state": "IA",
+   "title": "Extension of Decorah CBOC Lease FY25",
+   "type": "Award Notice"
+  },
+  "f531bd97fd9645398a60b21295379fdf": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-11-09",
+   "firstSeen": "2026-10-09",
+   "id": "f531bd97fd9645398a60b21295379fdf",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/f531bd97fd9645398a60b21295379fdf/view",
+   "naics": "531120",
+   "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
+   "poc": {
+    "email": "JCALLAHAN@GUVCRE.COM",
+    "name": "Joseph Callahan, GUV Commercial Real Estate LLC",
+    "phone": "(202) 255-8832"
+   },
+   "posted": "2026-10-08",
+   "setAside": "",
+   "solnum": "36C10F25R0048",
+   "state": "",
+   "title": "X1DB--Conroe OPC 229,566 ANSI/BOMA 258,262 RSF",
+   "type": "Combined Synopsis/Solicitation"
+  },
   "f6554a48bb6a41c6b7143e3853aea8a0": {
    "active": true,
    "awardAmount": "",
@@ -1818,5 +1938,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-10-08T13:14:04+00:00"
+ "updated": "2026-10-09T13:12:58+00:00"
 }
