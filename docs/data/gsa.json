@@ -174,7 +174,6 @@
    "deadline": "",
    "firstSeen": "2026-10-09",
    "id": "0eb33c367f33462981a6a7b62f1c50d9",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/0eb33c367f33462981a6a7b62f1c50d9/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -381,6 +380,30 @@
    "title": "Justification for Other than Full and Open Competition 6IL0482",
    "type": "Justification"
   },
+  "1a2f2ce19b6f4f97981c8d9cc5383787": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Bruneau",
+   "deadline": "",
+   "firstSeen": "2026-10-12",
+   "id": "1a2f2ce19b6f4f97981c8d9cc5383787",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/1a2f2ce19b6f4f97981c8d9cc5383787/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "kacy.cameron@gsa.gov",
+    "name": "Kacy Cameron",
+    "phone": "2062495330"
+   },
+   "posted": "2026-10-09",
+   "setAside": "",
+   "solnum": "4ID0159",
+   "state": "ID",
+   "title": "Justification for Lease Extension - 6,690 ABOA SF of Office Space for SSA in Caldwell, ID",
+   "type": "Justification"
+  },
   "1bcac2a80d4042c78397bbe319fc2ca3": {
    "active": true,
    "awardAmount": "",
@@ -413,7 +436,6 @@
    "deadline": "2026-10-22",
    "firstSeen": "2026-10-09",
    "id": "1d38ecb45e2d451f8f3dddccccf5233f",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/1d38ecb45e2d451f8f3dddccccf5233f/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -461,7 +483,6 @@
    "deadline": "",
    "firstSeen": "2026-10-09",
    "id": "24394a3f19514db19cb4678b2963fcee",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/24394a3f19514db19cb4678b2963fcee/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2489,7 +2510,6 @@
    "deadline": "",
    "firstSeen": "2026-10-09",
    "id": "e93f5dc170ca48da8f12076b08d2df29",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/e93f5dc170ca48da8f12076b08d2df29/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2746,5 +2766,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-09T13:12:59+00:00"
+ "updated": "2026-10-12T13:28:00+00:00"
 }

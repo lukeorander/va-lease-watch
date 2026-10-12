@@ -514,7 +514,6 @@
    "deadline": "2026-10-15",
    "firstSeen": "2026-10-09",
    "id": "4a1ff24e1a0d410b9f15ec0315371d66",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/4a1ff24e1a0d410b9f15ec0315371d66/view",
    "naics": "",
    "office": "255-Network Contract Office 15 (36C255)",
@@ -781,6 +780,30 @@
    "solnum": "36C24W26R0046",
    "state": "NV",
    "title": "Request for Lease Proposal (RLP): Las Vegas, NV Medical Facility",
+   "type": "Solicitation"
+  },
+  "68361db7eca646b58c136bc7ebe10524": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Richland Hills",
+   "deadline": "2026-10-23",
+   "firstSeen": "2026-10-12",
+   "id": "68361db7eca646b58c136bc7ebe10524",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/68361db7eca646b58c136bc7ebe10524/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "Tashia.Marsh@va.gov",
+    "name": "TaShia Marsh-Brown",
+    "phone": ""
+   },
+   "posted": "2026-10-09",
+   "setAside": "",
+   "solnum": "36C24W26R0055",
+   "state": "TX",
+   "title": "New Lease for VA Clinic (CBOC) Tarrant County, Texas",
    "type": "Solicitation"
   },
   "69fccb5b0a424adc91204acc92bdd534": {
@@ -1067,7 +1090,6 @@
    "deadline": "2026-10-20",
    "firstSeen": "2026-10-09",
    "id": "96abb0461c664370adb3cb0a229fbada",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/96abb0461c664370adb3cb0a229fbada/view",
    "naics": "531120",
    "office": "250-Network Contract Office 10 (36C250)",
@@ -1275,7 +1297,6 @@
    "deadline": "2026-10-30",
    "firstSeen": "2026-10-09",
    "id": "bbdf73032f03419982bf2f936ea717c3",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/bbdf73032f03419982bf2f936ea717c3/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -1713,7 +1734,6 @@
    "deadline": "",
    "firstSeen": "2026-10-09",
    "id": "f4666857216f47b199e6c781b7ed3092",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/f4666857216f47b199e6c781b7ed3092/view",
    "naics": "531190",
    "office": "Network Contract Office 23 (36C263)",
@@ -1737,7 +1757,6 @@
    "deadline": "2026-11-09",
    "firstSeen": "2026-10-09",
    "id": "f531bd97fd9645398a60b21295379fdf",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/f531bd97fd9645398a60b21295379fdf/view",
    "naics": "531120",
    "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
@@ -1938,5 +1957,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-10-09T13:12:58+00:00"
+ "updated": "2026-10-12T13:27:58+00:00"
 }
