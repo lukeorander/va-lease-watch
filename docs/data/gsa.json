@@ -388,7 +388,6 @@
    "deadline": "",
    "firstSeen": "2026-10-12",
    "id": "1a2f2ce19b6f4f97981c8d9cc5383787",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/1a2f2ce19b6f4f97981c8d9cc5383787/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2766,5 +2765,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-12T13:28:00+00:00"
+ "updated": "2026-10-13T13:19:29+00:00"
 }

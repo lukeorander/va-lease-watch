@@ -322,6 +322,30 @@
    "title": "VISN 12 Office Headquarters Succeeding Lease",
    "type": "Award Notice"
   },
+  "3a57e4beaa37406891d361bd3156b692": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Hagerstown",
+   "deadline": "",
+   "firstSeen": "2026-10-13",
+   "id": "3a57e4beaa37406891d361bd3156b692",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/3a57e4beaa37406891d361bd3156b692/view",
+   "naics": "531120",
+   "office": "245-Network Contract Office 5 (36C245)",
+   "poc": {
+    "email": "Rachael.Hallock@va.gov",
+    "name": "Rachael Hallock",
+    "phone": ""
+   },
+   "posted": "2026-10-13",
+   "setAside": "No Set aside used",
+   "solnum": "36C24526R0005",
+   "state": "MD",
+   "title": "Notice of No Award- RLP. No. 36C24526R0005",
+   "type": "Special Notice"
+  },
   "412cca448a904315bfbf918dd0827b81": {
    "active": true,
    "awardAmount": "4938275.34",
@@ -790,7 +814,6 @@
    "deadline": "2026-10-23",
    "firstSeen": "2026-10-12",
    "id": "68361db7eca646b58c136bc7ebe10524",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/68361db7eca646b58c136bc7ebe10524/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -1957,5 +1980,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-10-12T13:27:58+00:00"
+ "updated": "2026-10-13T13:19:29+00:00"
 }
