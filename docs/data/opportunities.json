@@ -69,6 +69,30 @@
    "title": "W065-- 36-month Olympus Orthopedic Scope Lease",
    "type": "Award Notice"
   },
+  "06337b4acf2d475ab7eda64caf843d9c": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Honolulu",
+   "deadline": "2026-10-30",
+   "firstSeen": "2026-10-14",
+   "id": "06337b4acf2d475ab7eda64caf843d9c",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/06337b4acf2d475ab7eda64caf843d9c/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "Tseifert@ppwashdc.com",
+    "name": "Teddy Seifert - VA Contracted Broker",
+    "phone": "3158251875"
+   },
+   "posted": "2026-10-14",
+   "setAside": "No Set aside used",
+   "solnum": "36C24W25R0073",
+   "state": "HI",
+   "title": "X1DB - RLP - VA ACC ANNEX | HONOLULU, HI",
+   "type": "Solicitation"
+  },
   "118c94e964b147a38fc8f9fb9ccaeca8": {
    "active": true,
    "awardAmount": "35407504.46",
@@ -330,7 +354,6 @@
    "deadline": "",
    "firstSeen": "2026-10-13",
    "id": "3a57e4beaa37406891d361bd3156b692",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/3a57e4beaa37406891d361bd3156b692/view",
    "naics": "531120",
    "office": "245-Network Contract Office 5 (36C245)",
@@ -598,6 +621,30 @@
    "state": "",
    "title": "X1DB--New Lease Relocation Carmel CBOC",
    "type": "Sources Sought"
+  },
+  "54bef5f54a834a7cb2708338ab069edd": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-10-20",
+   "firstSeen": "2026-10-14",
+   "id": "54bef5f54a834a7cb2708338ab069edd",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/54bef5f54a834a7cb2708338ab069edd/view",
+   "naics": "339112",
+   "office": "261-Network Contract Office 21 (36C261)",
+   "poc": {
+    "email": "Mathew.Czeshinski@va.gov",
+    "name": "Mathew B Czeshinski",
+    "phone": ""
+   },
+   "posted": "2026-10-13",
+   "setAside": "",
+   "solnum": "36C26127Q0077",
+   "state": "",
+   "title": "6640--Perfusion Cell Saver Lease and Service",
+   "type": "Solicitation"
   },
   "58a07bc124a1449583fe10a4053f64d2": {
    "active": true,
@@ -1450,6 +1497,30 @@
    "title": "X1AA--Saginaw-Auburn Annex - VA Clinic Award",
    "type": "Award Notice"
   },
+  "cc88b3d5698f4ee0a79802636f05ded2": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Reno",
+   "deadline": "2026-10-14",
+   "firstSeen": "2026-10-14",
+   "id": "cc88b3d5698f4ee0a79802636f05ded2",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/cc88b3d5698f4ee0a79802636f05ded2/view",
+   "naics": "339112",
+   "office": "261-Network Contract Office 21 (36C261)",
+   "poc": {
+    "email": "Mathew.Czeshinski@va.gov",
+    "name": "Mathew B. Czeshinski",
+    "phone": "559-231-1067"
+   },
+   "posted": "2026-10-13",
+   "setAside": "",
+   "solnum": "36C26127Q0077",
+   "state": "NV",
+   "title": "6640--Perfusion Cell Saver Lease and Service",
+   "type": "Presolicitation"
+  },
   "cd5668f4523444b28773b54af6d5adaf": {
    "active": true,
    "awardAmount": "",
@@ -1980,5 +2051,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-10-13T13:19:29+00:00"
+ "updated": "2026-10-14T13:29:21+00:00"
 }
