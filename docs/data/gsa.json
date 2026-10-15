@@ -1,5 +1,29 @@
 {
  "items": {
+  "015ef13faba04b9fa0b676162d25e28b": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Sumner",
+   "deadline": "2026-11-04",
+   "firstSeen": "2026-10-15",
+   "id": "015ef13faba04b9fa0b676162d25e28b",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/015ef13faba04b9fa0b676162d25e28b/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "Darrin.Hotaling@gsa.gov",
+    "name": "Darrin Hotaling - Lease Contracting Officer",
+    "phone": "(303) 963-6576"
+   },
+   "posted": "2026-10-14",
+   "setAside": "",
+   "solnum": "4WA0688",
+   "state": "WA",
+   "title": "General Services Administration (GSA) seeks to lease Warehouse, Office, Light Industrial, and Wareyard space in Sumner, WA",
+   "type": "Solicitation"
+  },
   "01b1e5ab19434610bf7dbc3840d86930": {
    "active": true,
    "awardAmount": "",
@@ -237,6 +261,30 @@
    "title": "Cancellation Notice: 1TX2688 - Fort Worth, TX",
    "type": "Combined Synopsis/Solicitation"
   },
+  "115e2e33298a46678a0aea219c0c1632": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Denver",
+   "deadline": "2026-11-03",
+   "firstSeen": "2026-10-15",
+   "id": "115e2e33298a46678a0aea219c0c1632",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/115e2e33298a46678a0aea219c0c1632/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "katherine.r.roxborough@gsa.gov",
+    "name": "Katherine Roxborough",
+    "phone": "7206547165"
+   },
+   "posted": "2026-10-14",
+   "setAside": "",
+   "solnum": "6CO0558",
+   "state": "CO",
+   "title": "U.S. Government Seeks to Lease Office Space in Denver, Colorado",
+   "type": "Presolicitation"
+  },
   "1217fad83c02410480a61dbf5c6bf0de": {
    "active": true,
    "awardAmount": "",
@@ -307,6 +355,30 @@
    "state": "UT",
    "title": "0UT2128 - US. Government Seeks to Lease Office and Related Space in Ogden, UT - Presolicitation",
    "type": "Solicitation"
+  },
+  "15589b17af364952bb32da762f5e6ce2": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Santa Rosa",
+   "deadline": "2026-11-02",
+   "firstSeen": "2026-10-15",
+   "id": "15589b17af364952bb32da762f5e6ce2",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/15589b17af364952bb32da762f5e6ce2/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "tony.lucchesi@cushwake.com",
+    "name": "Tony Lucchesi",
+    "phone": "4156089881"
+   },
+   "posted": "2026-10-14",
+   "setAside": "No Set aside used",
+   "solnum": "4CA1460",
+   "state": "CA",
+   "title": "General Services Administration (GSA) seeks to lease office space in Santa Rosa, CA",
+   "type": "Presolicitation"
   },
   "18088107c6f24dd6863304c14c2450d6": {
    "active": true,
@@ -458,7 +530,6 @@
    "deadline": "2026-11-13",
    "firstSeen": "2026-10-14",
    "id": "20cdab725d4a493a988444a7b8b27e09",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/20cdab725d4a493a988444a7b8b27e09/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -520,6 +591,30 @@
    "state": "TX",
    "title": "Award Notice for General Services Administration (GSA): Fort Worth, TX - 4TX0994",
    "type": "Award Notice"
+  },
+  "24e4b7c40ee642089e011393a6a56b02": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Chicago",
+   "deadline": "2026-11-03",
+   "firstSeen": "2026-10-15",
+   "id": "24e4b7c40ee642089e011393a6a56b02",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/24e4b7c40ee642089e011393a6a56b02/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "patrick.elwood@cbre.com",
+    "name": "Patrick Elwood",
+    "phone": "(630) 573-7050"
+   },
+   "posted": "2026-10-14",
+   "setAside": "",
+   "solnum": "6IL0484",
+   "state": "IL",
+   "title": "U.S. Government Seeking to Lease Warehouse Space in Chicago, IL",
+   "type": "Presolicitation"
   },
   "25913866acdc43b2a364c9390584f5fc": {
    "active": true,
@@ -879,6 +974,30 @@
    "title": "UNITED STATES GOVERNMENT SEEKS TO LEASE OFFICE SPACE IN BEDFORD, NH",
    "type": "Presolicitation"
   },
+  "4396ae767e2f4a578f9075f349504c27": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Bangor",
+   "deadline": "",
+   "firstSeen": "2026-10-15",
+   "id": "4396ae767e2f4a578f9075f349504c27",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/4396ae767e2f4a578f9075f349504c27/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "sean.munger@gsa.gov",
+    "name": "Sean Munger",
+    "phone": "8572769603"
+   },
+   "posted": "2026-10-14",
+   "setAside": "",
+   "solnum": "6ME0094",
+   "state": "ME",
+   "title": "6ME0094 - JOFOC Extension Bangor, ME",
+   "type": "Justification"
+  },
   "45ecdae69fc14c0295a9228d5588845c": {
    "active": true,
    "awardAmount": "",
@@ -1149,7 +1268,6 @@
    "deadline": "2026-10-27",
    "firstSeen": "2026-10-14",
    "id": "616ef31d4d9b4a699b276c39fc3bc07e",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/616ef31d4d9b4a699b276c39fc3bc07e/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1221,7 +1339,6 @@
    "deadline": "2026-10-27",
    "firstSeen": "2026-10-14",
    "id": "6a39dc1dc098476493510cd3d4d63314",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/6a39dc1dc098476493510cd3d4d63314/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1674,7 +1791,6 @@
    "deadline": "2026-10-15",
    "firstSeen": "2026-10-14",
    "id": "96dfbc6fabb14279baf0dc7bc992bdee",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/96dfbc6fabb14279baf0dc7bc992bdee/view",
    "naics": "53112",
    "office": "Pbs R00 Center For Broker Services",
@@ -1841,7 +1957,6 @@
    "deadline": "",
    "firstSeen": "2026-10-14",
    "id": "a31b880a104a49e5888bb29c2b537493",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/a31b880a104a49e5888bb29c2b537493/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2104,7 +2219,6 @@
    "deadline": "2026-10-20",
    "firstSeen": "2026-10-14",
    "id": "bd825c8783404cdba084c0265099be65",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/bd825c8783404cdba084c0265099be65/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2214,6 +2328,30 @@
    "state": "KY",
    "title": "General Services Administration (GSA) seeks to lease the following space:",
    "type": "Solicitation"
+  },
+  "c8fc8bb0f7ea48f6a27701504adbea9f": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-10-28",
+   "firstSeen": "2026-10-15",
+   "id": "c8fc8bb0f7ea48f6a27701504adbea9f",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/c8fc8bb0f7ea48f6a27701504adbea9f/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "robert.brunton@gsa.gov",
+    "name": "Robert Brunton",
+    "phone": "2026248557"
+   },
+   "posted": "2026-10-14",
+   "setAside": "",
+   "solnum": "2VA0915",
+   "state": "VA",
+   "title": "General Services Administration (GSA) seeks to lease the following space near Dulles International Airport",
+   "type": "Sources Sought"
   },
   "c9377aa602064f969cdfa6be3963cde8": {
    "active": true,
@@ -2621,6 +2759,30 @@
    "title": "The General Services Administration (GSA) is seeking 1,680 ABOA SF of office space in Vernal, UT (3UT0204)",
    "type": "Presolicitation"
   },
+  "e27ae97960b3456d81a93a80088dda4b": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Ogden",
+   "deadline": "2026-10-09",
+   "firstSeen": "2026-10-15",
+   "id": "e27ae97960b3456d81a93a80088dda4b",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/e27ae97960b3456d81a93a80088dda4b/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "mike.richmond@cushwake.com",
+    "name": "Mike Richmond",
+    "phone": "8013035434"
+   },
+   "posted": "2026-10-14",
+   "setAside": "",
+   "solnum": "0UT2128",
+   "state": "UT",
+   "title": "0UT2128 - US. Government Seeks to Lease Office and Related Space in Ogden, UT - Presolicitation",
+   "type": "Solicitation"
+  },
   "e5026a6b7b074a30b6d82e72bc8460b1": {
    "active": true,
    "awardAmount": "",
@@ -2933,5 +3095,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-14T13:29:21+00:00"
+ "updated": "2026-10-15T13:34:39+00:00"
 }

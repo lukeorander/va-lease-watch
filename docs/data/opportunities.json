@@ -77,7 +77,6 @@
    "deadline": "2026-10-30",
    "firstSeen": "2026-10-14",
    "id": "06337b4acf2d475ab7eda64caf843d9c",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/06337b4acf2d475ab7eda64caf843d9c/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -630,7 +629,6 @@
    "deadline": "2026-10-20",
    "firstSeen": "2026-10-14",
    "id": "54bef5f54a834a7cb2708338ab069edd",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/54bef5f54a834a7cb2708338ab069edd/view",
    "naics": "339112",
    "office": "261-Network Contract Office 21 (36C261)",
@@ -1037,6 +1035,30 @@
    "title": "X1DB--Tampa, FL Community Living Center CLC 144,302 ANSI/BOMA 152,167 RSF",
    "type": "Award Notice"
   },
+  "7efcc00f7fb24500afa544f48586a200": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Olympia",
+   "deadline": "2026-12-01",
+   "firstSeen": "2026-10-15",
+   "id": "7efcc00f7fb24500afa544f48586a200",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/7efcc00f7fb24500afa544f48586a200/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "tpavek@crcre.com",
+    "name": "Timothy Pavek",
+    "phone": "9257902134"
+   },
+   "posted": "2026-10-14",
+   "setAside": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Sole Source (FAR 19.14)",
+   "solnum": "36C24W26R0012",
+   "state": "WA",
+   "title": "Request for Lease Proposals (RLP) for Olympia, WA CBOC",
+   "type": "Solicitation"
+  },
   "8390958aa88548e2b64fccd38a4eb19a": {
    "active": true,
    "awardAmount": "37095466.08",
@@ -1128,6 +1150,30 @@
    "state": "FL",
    "title": "Sources Sought - Gainesville IRMS",
    "type": "Sources Sought"
+  },
+  "895fddce67534daaaf9cb2fbe3cfb902": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-11-14",
+   "firstSeen": "2026-10-15",
+   "id": "895fddce67534daaaf9cb2fbe3cfb902",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/895fddce67534daaaf9cb2fbe3cfb902/view",
+   "naics": "531120",
+   "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
+   "poc": {
+    "email": "JAMES@DHCRES.COM",
+    "name": "James Cassidy",
+    "phone": "Office Phone: (917) 633-8166"
+   },
+   "posted": "2026-10-14",
+   "setAside": "",
+   "solnum": "36C10F25R0024",
+   "state": "",
+   "title": "X1DB-- Katy TX OPC 175,306 ANSI/BOMA 197,219 RSF Amendment 3",
+   "type": "Combined Synopsis/Solicitation"
   },
   "909e060421ad41c6917d0f43f1ec19bb": {
    "active": true,
@@ -1505,7 +1551,6 @@
    "deadline": "2026-10-14",
    "firstSeen": "2026-10-14",
    "id": "cc88b3d5698f4ee0a79802636f05ded2",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/cc88b3d5698f4ee0a79802636f05ded2/view",
    "naics": "339112",
    "office": "261-Network Contract Office 21 (36C261)",
@@ -2051,5 +2096,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-10-14T13:29:21+00:00"
+ "updated": "2026-10-15T13:34:38+00:00"
 }
