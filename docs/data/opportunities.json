@@ -1043,7 +1043,6 @@
    "deadline": "2026-12-01",
    "firstSeen": "2026-10-15",
    "id": "7efcc00f7fb24500afa544f48586a200",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/7efcc00f7fb24500afa544f48586a200/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -1159,7 +1158,6 @@
    "deadline": "2026-11-14",
    "firstSeen": "2026-10-15",
    "id": "895fddce67534daaaf9cb2fbe3cfb902",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/895fddce67534daaaf9cb2fbe3cfb902/view",
    "naics": "531120",
    "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
@@ -1220,6 +1218,30 @@
    "state": "OH",
    "title": "X1DB--New Philadelphia VA Clinic (New Replacing) RLP 36C25027R0016",
    "type": "Sources Sought"
+  },
+  "99593bf12ba14201b200e44d0d2bf255": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Hilo",
+   "deadline": "2026-10-30",
+   "firstSeen": "2026-10-16",
+   "id": "99593bf12ba14201b200e44d0d2bf255",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/99593bf12ba14201b200e44d0d2bf255/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "melinda.thome@va.gov",
+    "name": "Melinda P Thome",
+    "phone": ""
+   },
+   "posted": "2026-10-15",
+   "setAside": "Small Business Set Aside - Total",
+   "solnum": "36C24W23R0031",
+   "state": "HI",
+   "title": "X1AA--HAWAII - HILO VET CENTER - RELOCATION",
+   "type": "Solicitation"
   },
   "9b7e4165d301410e9002c5758d1df95f": {
    "active": true,
@@ -1449,6 +1471,30 @@
    "solnum": "36C25025R0027",
    "state": "OH",
    "title": "X1DB--Defiance New/Replacing",
+   "type": "Combined Synopsis/Solicitation"
+  },
+  "c1adba860aae4cceb1f4f126d7a9a4a6": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Las Vegas",
+   "deadline": "2026-11-30",
+   "firstSeen": "2026-10-16",
+   "id": "c1adba860aae4cceb1f4f126d7a9a4a6",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/c1adba860aae4cceb1f4f126d7a9a4a6/view",
+   "naics": "531130",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "Nick@rangesd.com",
+    "name": "Nick Norris",
+    "phone": ""
+   },
+   "posted": "2026-10-15",
+   "setAside": "No Set aside used",
+   "solnum": "RLP36C24W26R0045",
+   "state": "NV",
+   "title": "X1GZ--REQUEST FOR LEASE PROPOSAL: Warehouse Las Vegas Nevada",
    "type": "Combined Synopsis/Solicitation"
   },
   "c4dd97d4c3f5489396833612f8591ada": {
@@ -2096,5 +2142,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-10-15T13:34:38+00:00"
+ "updated": "2026-10-16T13:31:56+00:00"
 }

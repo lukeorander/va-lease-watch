@@ -8,7 +8,6 @@
    "deadline": "2026-11-04",
    "firstSeen": "2026-10-15",
    "id": "015ef13faba04b9fa0b676162d25e28b",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/015ef13faba04b9fa0b676162d25e28b/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -269,7 +268,6 @@
    "deadline": "2026-11-03",
    "firstSeen": "2026-10-15",
    "id": "115e2e33298a46678a0aea219c0c1632",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/115e2e33298a46678a0aea219c0c1632/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -364,7 +362,6 @@
    "deadline": "2026-11-02",
    "firstSeen": "2026-10-15",
    "id": "15589b17af364952bb32da762f5e6ce2",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/15589b17af364952bb32da762f5e6ce2/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -600,7 +597,6 @@
    "deadline": "2026-11-03",
    "firstSeen": "2026-10-15",
    "id": "24e4b7c40ee642089e011393a6a56b02",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/24e4b7c40ee642089e011393a6a56b02/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -735,6 +731,30 @@
    "title": "6NC0185 General Services Administration (GSA) seeks to lease 3,500 SQ FT of warehouse space in Raleigh, NC",
    "type": "Presolicitation"
   },
+  "2bbfa7d909c9438aabe530d793aab98e": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Mandeville",
+   "deadline": "",
+   "firstSeen": "2026-10-16",
+   "id": "2bbfa7d909c9438aabe530d793aab98e",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/2bbfa7d909c9438aabe530d793aab98e/view",
+   "naics": "531120",
+   "office": "Pbs R7 Office Of Leasing",
+   "poc": {
+    "email": "Chantal.wells@gsa.gov",
+    "name": "Chantal Wells",
+    "phone": "(817) 940-5506"
+   },
+   "posted": "2026-10-15",
+   "setAside": "",
+   "solnum": "2LA0292",
+   "state": "LA",
+   "title": "General Services Administration (GSA) seeks to lease the following space: Mandeville, Louisiana",
+   "type": "Justification"
+  },
   "2cfe3f2ffed2478f8be64ded057b8bc8": {
    "active": true,
    "awardAmount": "",
@@ -805,6 +825,30 @@
    "solnum": "6OH0369",
    "state": "OH",
    "title": "General Services Administration (GSA) seeks to lease the following space:",
+   "type": "Presolicitation"
+  },
+  "36931c1e306c458ca4c5cbdb57695aec": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Montclair",
+   "deadline": "2026-10-22",
+   "firstSeen": "2026-10-16",
+   "id": "36931c1e306c458ca4c5cbdb57695aec",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/36931c1e306c458ca4c5cbdb57695aec/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "Daniel.J.McGrath@gsa.gov",
+    "name": "Dan McGrath, Broker Contractor - Carpenter/Robbins Commercial Real Estate, Inc.",
+    "phone": "(619) 840-7842"
+   },
+   "posted": "2026-10-15",
+   "setAside": "",
+   "solnum": "6CA1221",
+   "state": "CA",
+   "title": "General Services Administration (GSA) seeks to lease office space in Montclair, CA",
    "type": "Presolicitation"
   },
   "375b37d45ef343c98188860ef2f7783d": {
@@ -982,7 +1026,6 @@
    "deadline": "",
    "firstSeen": "2026-10-15",
    "id": "4396ae767e2f4a578f9075f349504c27",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/4396ae767e2f4a578f9075f349504c27/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1712,6 +1755,30 @@
    "title": "Seeking Competitive Lease Proposals \u2013- Management Hub Office Space -- in in Atlanta, GA - Request for Lease Proposals No. 26NAT02",
    "type": "Combined Synopsis/Solicitation"
   },
+  "8e080f81ff134c95ac44d6c8b30c9a8c": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Red Hook",
+   "deadline": "2026-10-30",
+   "firstSeen": "2026-10-16",
+   "id": "8e080f81ff134c95ac44d6c8b30c9a8c",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/8e080f81ff134c95ac44d6c8b30c9a8c/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "richard.downey@gsa.gov",
+    "name": "Richard T. Downey, Jr.",
+    "phone": "2025855664"
+   },
+   "posted": "2026-10-16",
+   "setAside": "",
+   "solnum": "5NY0716",
+   "state": "NY",
+   "title": "U.S. Government Seeks to Lease Warehouse and Related space in Brooklyn, NY",
+   "type": "Presolicitation"
+  },
   "8f4c3cea386c46d78cae7e7b3a745bd4": {
    "active": true,
    "awardAmount": "",
@@ -2164,6 +2231,30 @@
    "title": "U.S. Government Seeks Proposals to Lease 2,405 to 2,605 ABOA SQ FT of Office and Related Space in Washington, DC",
    "type": "Solicitation"
   },
+  "b82383a28c4443bfa5c60569c4aa22e8": {
+   "active": true,
+   "awardAmount": "3207000.00",
+   "awardee": "COTTONWOOD INVESTMENTS, L.L.C",
+   "city": "Mandeville",
+   "deadline": "",
+   "firstSeen": "2026-10-16",
+   "id": "b82383a28c4443bfa5c60569c4aa22e8",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/b82383a28c4443bfa5c60569c4aa22e8/view",
+   "naics": "531120",
+   "office": "Pbs R7 Office Of Leasing",
+   "poc": {
+    "email": "Chantal.wells@gsa.gov",
+    "name": "Chantal Wells",
+    "phone": "(817) 940-5506"
+   },
+   "posted": "2026-10-15",
+   "setAside": "",
+   "solnum": "2LA0292",
+   "state": "LA",
+   "title": "General Services Administration (GSA) seeks to lease the following space: Mandeville, Louisiana",
+   "type": "Award Notice"
+  },
   "b84f80b103884cc0b4c5e9ec3651aab4": {
    "active": true,
    "awardAmount": "",
@@ -2337,7 +2428,6 @@
    "deadline": "2026-10-28",
    "firstSeen": "2026-10-15",
    "id": "c8fc8bb0f7ea48f6a27701504adbea9f",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/c8fc8bb0f7ea48f6a27701504adbea9f/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2767,7 +2857,6 @@
    "deadline": "2026-10-09",
    "firstSeen": "2026-10-15",
    "id": "e27ae97960b3456d81a93a80088dda4b",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/e27ae97960b3456d81a93a80088dda4b/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2853,6 +2942,30 @@
    "state": "MD",
    "title": "Redacted Justification for 0MD2322 in Baltimore, MD",
    "type": "Justification"
+  },
+  "ea611ad662254ca685581ea74a2594c2": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Forest",
+   "deadline": "2026-11-02",
+   "firstSeen": "2026-10-16",
+   "id": "ea611ad662254ca685581ea74a2594c2",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/ea611ad662254ca685581ea74a2594c2/view",
+   "naics": "531120",
+   "office": "Pbs R7 Office Of Leasing",
+   "poc": {
+    "email": "adrienne.jackson@gsa.gov",
+    "name": "Adrienne Jackson",
+    "phone": "8179780130"
+   },
+   "posted": "2026-10-15",
+   "setAside": "",
+   "solnum": "4MS0229",
+   "state": "MS",
+   "title": "General Services Administration (GSA) Lease: Office Space FOREST, MISSISSIPPI",
+   "type": "Presolicitation"
   },
   "ebaad6593a0844b9bc9813a99dc013cb": {
    "active": true,
@@ -3095,5 +3208,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-15T13:34:39+00:00"
+ "updated": "2026-10-16T13:31:56+00:00"
 }
