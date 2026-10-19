@@ -212,6 +212,30 @@
    "title": "General Services Administration (GSA) seeks to lease the following space: 5TX0805",
    "type": "Award Notice"
   },
+  "0efc1ffd6a794892ac14d339a4ebcafb": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "58300",
+   "deadline": "",
+   "firstSeen": "2026-10-19",
+   "id": "0efc1ffd6a794892ac14d339a4ebcafb",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/0efc1ffd6a794892ac14d339a4ebcafb/view",
+   "naics": "531120",
+   "office": "Pbs R7 Office Of Leasing",
+   "poc": {
+    "email": "don.day@gsa.gov",
+    "name": "Don Day",
+    "phone": "8179787018"
+   },
+   "posted": "2026-10-19",
+   "setAside": "",
+   "solnum": "6MS0165",
+   "state": "MS",
+   "title": "General Services Administration (GSA) Lease: Office Space Oxford, Mississippi",
+   "type": "Justification"
+  },
   "0f4925aabd2d458993c20e5c02be5fa4": {
    "active": true,
    "awardAmount": "",
@@ -739,7 +763,6 @@
    "deadline": "",
    "firstSeen": "2026-10-16",
    "id": "2bbfa7d909c9438aabe530d793aab98e",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/2bbfa7d909c9438aabe530d793aab98e/view",
    "naics": "531120",
    "office": "Pbs R7 Office Of Leasing",
@@ -778,6 +801,30 @@
    "state": "",
    "title": "US Government seeks to Lease Office Space in Poughkeepsie, NY",
    "type": "Solicitation"
+  },
+  "2d571838cc594534b4dc1adbad401ae8": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Austin",
+   "deadline": "2026-10-20",
+   "firstSeen": "2026-10-19",
+   "id": "2d571838cc594534b4dc1adbad401ae8",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/2d571838cc594534b4dc1adbad401ae8/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "edward.brennan@gsa.gov",
+    "name": "Edward Brennan",
+    "phone": ""
+   },
+   "posted": "2026-10-16",
+   "setAside": "",
+   "solnum": "4TX1001-3",
+   "state": "TX",
+   "title": "General Services Administration (GSA) Seeks to lease the following space: Solicitation No. 4TX1001",
+   "type": "Presolicitation"
   },
   "2d7eb4351526411da2be3530ee6169e5": {
    "active": true,
@@ -835,7 +882,6 @@
    "deadline": "2026-10-22",
    "firstSeen": "2026-10-16",
    "id": "36931c1e306c458ca4c5cbdb57695aec",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/36931c1e306c458ca4c5cbdb57695aec/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -1763,7 +1809,6 @@
    "deadline": "2026-10-30",
    "firstSeen": "2026-10-16",
    "id": "8e080f81ff134c95ac44d6c8b30c9a8c",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/8e080f81ff134c95ac44d6c8b30c9a8c/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2239,7 +2284,6 @@
    "deadline": "",
    "firstSeen": "2026-10-16",
    "id": "b82383a28c4443bfa5c60569c4aa22e8",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/b82383a28c4443bfa5c60569c4aa22e8/view",
    "naics": "531120",
    "office": "Pbs R7 Office Of Leasing",
@@ -2279,6 +2323,30 @@
    "title": "General Services Administration (GSA) seeks to lease office space in Brunswick, GA",
    "type": "Presolicitation"
   },
+  "b8aea3d42aba42fe9aa2caffa07de6c9": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Wasilla",
+   "deadline": "2026-11-20",
+   "firstSeen": "2026-10-19",
+   "id": "b8aea3d42aba42fe9aa2caffa07de6c9",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/b8aea3d42aba42fe9aa2caffa07de6c9/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "Jose.l.Chaires@gsa.gov",
+    "name": "Jose Chaires",
+    "phone": "(510) 407-2080"
+   },
+   "posted": "2026-10-16",
+   "setAside": "",
+   "solnum": "1AK2099",
+   "state": "AK",
+   "title": "General Services Administration (GSA) seeks to lease office space in Palmer and Wasilla, AK",
+   "type": "Presolicitation"
+  },
   "b8d574974a914fbf863d7c8c197b50b7": {
    "active": true,
    "awardAmount": "25111.70",
@@ -2301,6 +2369,30 @@
    "state": "",
    "title": "General Services Administration (GSA) Lease: Office Space Jefferson City, Missouri",
    "type": "Award Notice"
+  },
+  "bcfdd21a9e354bcc9711bca9be31fef0": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Carolina",
+   "deadline": "2026-11-05",
+   "firstSeen": "2026-10-19",
+   "id": "bcfdd21a9e354bcc9711bca9be31fef0",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/bcfdd21a9e354bcc9711bca9be31fef0/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "patricia.restrepo@gsa.gov",
+    "name": "Patricia Restrepo",
+    "phone": "202-997-7025"
+   },
+   "posted": "2026-10-16",
+   "setAside": "No Set aside used",
+   "solnum": "0PR2126-1",
+   "state": "PR",
+   "title": "The Government is seeking a minimum of 17,480 ANSI/BOMA Square Feet and a maximum of 18,354 ANSI/BOMA Square Feet of Hangar and related space in Carolina, Puerto Rico",
+   "type": "Solicitation"
   },
   "bd825c8783404cdba084c0265099be65": {
    "active": true,
@@ -2489,6 +2581,30 @@
    "solnum": "6CA1221",
    "state": "CA",
    "title": "General Services Administration (GSA) seeks to lease office space in Montclair, CA",
+   "type": "Presolicitation"
+  },
+  "cac9e1551b084bbf8f7abe3cc9dd16e8": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Nashville",
+   "deadline": "2026-10-30",
+   "firstSeen": "2026-10-19",
+   "id": "cac9e1551b084bbf8f7abe3cc9dd16e8",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/cac9e1551b084bbf8f7abe3cc9dd16e8/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "bradford.seifert@gsa.gov",
+    "name": "Brad Seifert",
+    "phone": "2026524192"
+   },
+   "posted": "2026-10-16",
+   "setAside": "",
+   "solnum": "6TN0194",
+   "state": "TN",
+   "title": "General Services Administration (GSA) seeks to lease the following space in Nashville, TN: Solicitation No. 6TN0194",
    "type": "Presolicitation"
   },
   "cd2485ed0d324f079b2c1114c2e56393": {
@@ -2951,7 +3067,6 @@
    "deadline": "2026-11-02",
    "firstSeen": "2026-10-16",
    "id": "ea611ad662254ca685581ea74a2594c2",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/ea611ad662254ca685581ea74a2594c2/view",
    "naics": "531120",
    "office": "Pbs R7 Office Of Leasing",
@@ -3208,5 +3323,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-16T13:31:56+00:00"
+ "updated": "2026-10-19T13:37:20+00:00"
 }

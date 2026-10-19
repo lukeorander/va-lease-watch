@@ -207,6 +207,30 @@
    "title": "X1AA--FY26 Succeeding Lease: Tavares CBOC",
    "type": "Award Notice"
   },
+  "1d8ab5b5212d4a92ba56f43bac708f0d": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Las Vegas",
+   "deadline": "2026-11-30",
+   "firstSeen": "2026-10-19",
+   "id": "1d8ab5b5212d4a92ba56f43bac708f0d",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/1d8ab5b5212d4a92ba56f43bac708f0d/view",
+   "naics": "531130",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "Nick@rangesd.com",
+    "name": "Nick Norris",
+    "phone": ""
+   },
+   "posted": "2026-10-16",
+   "setAside": "No Set aside used",
+   "solnum": "RLP36C24W26R0045",
+   "state": "NV",
+   "title": "X1GZ--REQUEST FOR LEASE PROPOSAL: Warehouse - Las Vegas, Nevada",
+   "type": "Combined Synopsis/Solicitation"
+  },
   "2b26f6c73d6c4552b8b2caa6841fc76c": {
    "active": true,
    "awardAmount": "3126214.00",
@@ -436,6 +460,30 @@
    "state": "",
    "title": "X1DB--Additional Files - West Branch 36C25024R0209",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "44eb3d2a9b284f688b70a6d0e5efa2d8": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-11-15",
+   "firstSeen": "2026-10-19",
+   "id": "44eb3d2a9b284f688b70a6d0e5efa2d8",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/44eb3d2a9b284f688b70a6d0e5efa2d8/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "christy.snider@va.gov",
+    "name": "Christy  Snider",
+    "phone": ""
+   },
+   "posted": "2026-10-16",
+   "setAside": "Small Business Set Aside - Total",
+   "solnum": "36C24426R0012",
+   "state": "PR",
+   "title": "Ponce Vet Center - Relocation",
+   "type": "Solicitation"
   },
   "468b53c9335b431883f052adb32c0fd8": {
    "active": true,
@@ -1227,7 +1275,6 @@
    "deadline": "2026-10-30",
    "firstSeen": "2026-10-16",
    "id": "99593bf12ba14201b200e44d0d2bf255",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/99593bf12ba14201b200e44d0d2bf255/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -1750,6 +1797,30 @@
    "title": "Ponce Vet Center - Relocation",
    "type": "Solicitation"
   },
+  "e2f9fcc2b7cd424aa8a5263d72bf1f97": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Mobile",
+   "deadline": "2026-10-23",
+   "firstSeen": "2026-10-19",
+   "id": "e2f9fcc2b7cd424aa8a5263d72bf1f97",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/e2f9fcc2b7cd424aa8a5263d72bf1f97/view",
+   "naics": "531120",
+   "office": "256-Network Contract Office 16 (36C256)",
+   "poc": {
+    "email": "joycellyn.williams@va.gov",
+    "name": "Joycellyn Williams",
+    "phone": ""
+   },
+   "posted": "2026-10-16",
+   "setAside": "",
+   "solnum": "36C25627Q0070",
+   "state": "AL",
+   "title": "Sources Sought Mobile Vet Center New Replacing Lease",
+   "type": "Sources Sought"
+  },
   "e4f1dd208f364ec7aa2d460f48140abc": {
    "active": true,
    "awardAmount": "3292320.00",
@@ -2142,5 +2213,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-10-16T13:31:56+00:00"
+ "updated": "2026-10-19T13:37:20+00:00"
 }
