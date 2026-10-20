@@ -220,7 +220,6 @@
    "deadline": "",
    "firstSeen": "2026-10-19",
    "id": "0efc1ffd6a794892ac14d339a4ebcafb",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/0efc1ffd6a794892ac14d339a4ebcafb/view",
    "naics": "531120",
    "office": "Pbs R7 Office Of Leasing",
@@ -400,6 +399,30 @@
    "state": "CA",
    "title": "General Services Administration (GSA) seeks to lease office space in Santa Rosa, CA",
    "type": "Presolicitation"
+  },
+  "15ae62905bf54f348e2c28513d07e463": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Orlando",
+   "deadline": "2026-11-18",
+   "firstSeen": "2026-10-20",
+   "id": "15ae62905bf54f348e2c28513d07e463",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/15ae62905bf54f348e2c28513d07e463/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "eugene.wright@gsa.gov",
+    "name": "Eugene B. Wright",
+    "phone": "4045800098"
+   },
+   "posted": "2026-10-19",
+   "setAside": "No Set aside used",
+   "solnum": "6FL0658",
+   "state": "FL",
+   "title": "Solicitation: Government seeks offers for leased space in Orlando, FL",
+   "type": "Solicitation"
   },
   "18088107c6f24dd6863304c14c2450d6": {
    "active": true,
@@ -810,7 +833,6 @@
    "deadline": "2026-10-20",
    "firstSeen": "2026-10-19",
    "id": "2d571838cc594534b4dc1adbad401ae8",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/2d571838cc594534b4dc1adbad401ae8/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1467,6 +1489,30 @@
    "title": "General Services Administration (GSA) seeks to lease the following space in Atlanta, GA: Solicitation No. 6GA0339",
    "type": "Presolicitation"
   },
+  "6eb34dd3b507498a8f07f454418b8c31": {
+   "active": true,
+   "awardAmount": "1621094.00",
+   "awardee": "ONE CITY CENTER ASSOCIATES, LLC",
+   "city": "Portland",
+   "deadline": "",
+   "firstSeen": "2026-10-20",
+   "id": "6eb34dd3b507498a8f07f454418b8c31",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/6eb34dd3b507498a8f07f454418b8c31/view",
+   "naics": "531120",
+   "office": "Pbs R1 Office Of Leasing",
+   "poc": {
+    "email": "clare.nawrocki@gsa.gov",
+    "name": "Clare Nawrocki",
+    "phone": "6175131831"
+   },
+   "posted": "2026-10-19",
+   "setAside": "",
+   "solnum": "3ME0144",
+   "state": "ME",
+   "title": "Award Notice for PUB DEFENDERS Portland, ME",
+   "type": "Award Notice"
+  },
   "70496b8972de49a488305f9f8e7f49dc": {
    "active": true,
    "awardAmount": "",
@@ -1657,6 +1703,30 @@
    "state": "NC",
    "title": "Lease of Office Space within Raleigh, NC. Request for Lease Proposals (RLP) #26NAT02",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "83fbf0a4b84d4210836ceafa0e92b23d": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Reno",
+   "deadline": "",
+   "firstSeen": "2026-10-20",
+   "id": "83fbf0a4b84d4210836ceafa0e92b23d",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/83fbf0a4b84d4210836ceafa0e92b23d/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "dana.mcneil@gsa.gov",
+    "name": "Dana McNeil",
+    "phone": "503-383-1783"
+   },
+   "posted": "2026-10-19",
+   "setAside": "",
+   "solnum": "3NV0141",
+   "state": "NV",
+   "title": "US GOVERNMENT AWARDS SOLE SOURCE LEASE IN RENO, NV",
+   "type": "Justification"
   },
   "85432d9236eb4761903af21a20d1a100": {
    "active": true,
@@ -2331,7 +2401,6 @@
    "deadline": "2026-11-20",
    "firstSeen": "2026-10-19",
    "id": "b8aea3d42aba42fe9aa2caffa07de6c9",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/b8aea3d42aba42fe9aa2caffa07de6c9/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2378,7 +2447,6 @@
    "deadline": "2026-11-05",
    "firstSeen": "2026-10-19",
    "id": "bcfdd21a9e354bcc9711bca9be31fef0",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/bcfdd21a9e354bcc9711bca9be31fef0/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2591,7 +2659,6 @@
    "deadline": "2026-10-30",
    "firstSeen": "2026-10-19",
    "id": "cac9e1551b084bbf8f7abe3cc9dd16e8",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/cac9e1551b084bbf8f7abe3cc9dd16e8/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -3130,6 +3197,30 @@
    "title": "This is a Pre-Solicitation for a Succeeding Antenna Lease in Buffalo, NY",
    "type": "Presolicitation"
   },
+  "eef9df6ddda74c8a8df041387123c248": {
+   "active": true,
+   "awardAmount": "12866134.00",
+   "awardee": "SGP RENO LLC",
+   "city": "",
+   "deadline": "",
+   "firstSeen": "2026-10-20",
+   "id": "eef9df6ddda74c8a8df041387123c248",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/eef9df6ddda74c8a8df041387123c248/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "dana.mcneil@gsa.gov",
+    "name": "Dana McNeil",
+    "phone": "5033831783"
+   },
+   "posted": "2026-10-19",
+   "setAside": "No Set aside used",
+   "solnum": "3NV0141",
+   "state": "NV",
+   "title": "Government Lease Award Notice in Reno, NV",
+   "type": "Award Notice"
+  },
   "efbd8c7740c746329849704402c0e81d": {
    "active": true,
    "awardAmount": "42083511.70",
@@ -3323,5 +3414,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-19T13:37:20+00:00"
+ "updated": "2026-10-20T13:33:02+00:00"
 }
