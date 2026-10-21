@@ -377,6 +377,30 @@
    "title": "0UT2128 - US. Government Seeks to Lease Office and Related Space in Ogden, UT - Presolicitation",
    "type": "Solicitation"
   },
+  "12e83cbb6c454e7dadede1ae368536a0": {
+   "active": true,
+   "awardAmount": "5714870.50",
+   "awardee": "LOT 4C SUMMIT EAST, LLC",
+   "city": "Tallahassee",
+   "deadline": "",
+   "firstSeen": "2026-10-21",
+   "id": "12e83cbb6c454e7dadede1ae368536a0",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/12e83cbb6c454e7dadede1ae368536a0/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "edward.brennan@gsa.gov",
+    "name": "Edward Brennan",
+    "phone": ""
+   },
+   "posted": "2026-10-20",
+   "setAside": "",
+   "solnum": "2FL0911",
+   "state": "FL",
+   "title": "Award Notice for General Services Administration (GSA): Tallahassee, FL - 2FL0911",
+   "type": "Award Notice"
+  },
   "15589b17af364952bb32da762f5e6ce2": {
    "active": true,
    "awardAmount": "",
@@ -408,7 +432,6 @@
    "deadline": "2026-11-18",
    "firstSeen": "2026-10-20",
    "id": "15ae62905bf54f348e2c28513d07e463",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/15ae62905bf54f348e2c28513d07e463/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -896,6 +919,30 @@
    "title": "General Services Administration (GSA) seeks to lease the following space:",
    "type": "Presolicitation"
   },
+  "35003d5ffa3c4a938eb9f14c4144287b": {
+   "active": true,
+   "awardAmount": "235597.00",
+   "awardee": "COUNTYOFDUKESCOUNTY",
+   "city": "Vineyard Haven",
+   "deadline": "",
+   "firstSeen": "2026-10-21",
+   "id": "35003d5ffa3c4a938eb9f14c4144287b",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/35003d5ffa3c4a938eb9f14c4144287b/view",
+   "naics": "531120",
+   "office": "Pbs R1 Office Of Leasing",
+   "poc": {
+    "email": "clare.nawrocki@gsa.gov",
+    "name": "Clare Nawrocki",
+    "phone": "6175131831"
+   },
+   "posted": "2026-10-21",
+   "setAside": "",
+   "solnum": "3MA0237",
+   "state": "MA",
+   "title": "Post Award Synopsis TSA Vineyard Haven On-Airport Renewal",
+   "type": "Award Notice"
+  },
   "36931c1e306c458ca4c5cbdb57695aec": {
    "active": true,
    "awardAmount": "",
@@ -1085,6 +1132,30 @@
    "state": "NH",
    "title": "UNITED STATES GOVERNMENT SEEKS TO LEASE OFFICE SPACE IN BEDFORD, NH",
    "type": "Presolicitation"
+  },
+  "436f067fcc664865844a779de04d3810": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "61800",
+   "deadline": "2026-11-09",
+   "firstSeen": "2026-10-21",
+   "id": "436f067fcc664865844a779de04d3810",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/436f067fcc664865844a779de04d3810/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "eduardo.depina@gsa.gov",
+    "name": "Eduardo Depina",
+    "phone": "6179211241"
+   },
+   "posted": "2026-10-20",
+   "setAside": "",
+   "solnum": "6ME0095",
+   "state": "ME",
+   "title": "Lease of Office Space within PORTLAND, MAINE. Request for Lease Proposals (RLP) #26NAT01",
+   "type": "Combined Synopsis/Solicitation"
   },
   "4396ae767e2f4a578f9075f349504c27": {
    "active": true,
@@ -1442,6 +1513,30 @@
    "title": "U.S. GOVERNMENT SEEKS TO LEASE SPACE IN TOPEKA, KS",
    "type": "Presolicitation"
   },
+  "69fd3f89ad184d58b76970b1dc1c433b": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Cheyenne",
+   "deadline": "2026-11-11",
+   "firstSeen": "2026-10-21",
+   "id": "69fd3f89ad184d58b76970b1dc1c433b",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/69fd3f89ad184d58b76970b1dc1c433b/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "dusty.w.griffith@gsa.gov",
+    "name": "Dusty Griffith - PRPB-C",
+    "phone": "8176800641"
+   },
+   "posted": "2026-10-20",
+   "setAside": "No Set aside used",
+   "solnum": "5WY0089",
+   "state": "WY",
+   "title": "General Services Administration (GSA) Seeks To Lease The Following Space:",
+   "type": "Presolicitation"
+  },
   "6a39dc1dc098476493510cd3d4d63314": {
    "active": true,
    "awardAmount": "",
@@ -1497,7 +1592,6 @@
    "deadline": "",
    "firstSeen": "2026-10-20",
    "id": "6eb34dd3b507498a8f07f454418b8c31",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/6eb34dd3b507498a8f07f454418b8c31/view",
    "naics": "531120",
    "office": "Pbs R1 Office Of Leasing",
@@ -1608,6 +1702,30 @@
    "title": "General Services Administration (GSA) seeks to lease 65,289 ABOA SF of Office space in Phoenix, AZ",
    "type": "Presolicitation"
   },
+  "76cfed693b2a425eba4424f39ef0ee05": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Bayamon",
+   "deadline": "2026-10-27",
+   "firstSeen": "2026-10-21",
+   "id": "76cfed693b2a425eba4424f39ef0ee05",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/76cfed693b2a425eba4424f39ef0ee05/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "maria.kobe@gsa.gov",
+    "name": "Maria Kobe",
+    "phone": "(703) 852-6203"
+   },
+   "posted": "2026-10-20",
+   "setAside": "",
+   "solnum": "2PR0171-1",
+   "state": "PR",
+   "title": "Request for Lease Proposals No. 2PR0171-1, U.S. Government Seeks to Lease Warehouse Space in Bayamon, PR",
+   "type": "Solicitation"
+  },
   "78b07e57904540f0870dfd3d2990e751": {
    "active": true,
    "awardAmount": "",
@@ -1712,7 +1830,6 @@
    "deadline": "",
    "firstSeen": "2026-10-20",
    "id": "83fbf0a4b84d4210836ceafa0e92b23d",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/83fbf0a4b84d4210836ceafa0e92b23d/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2509,6 +2626,30 @@
    "title": "Notice Of Intent To Lease Space Using Other Than Full And Open Competition",
    "type": "Justification"
   },
+  "c3ec235b0e2e4a408fec570b89336b02": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Elizabeth",
+   "deadline": "",
+   "firstSeen": "2026-10-21",
+   "id": "c3ec235b0e2e4a408fec570b89336b02",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/c3ec235b0e2e4a408fec570b89336b02/view",
+   "naics": "531120",
+   "office": "Pbs R2 Office Of Leasing",
+   "poc": {
+    "email": "bena.parker@gsa.gov",
+    "name": "Bena Parker",
+    "phone": "3472370950"
+   },
+   "posted": "2026-10-21",
+   "setAside": "",
+   "solnum": "4NJ0294",
+   "state": "NJ",
+   "title": "Justification for Other Than Full and Open Competition - Elizabeth, NJ",
+   "type": "Justification"
+  },
   "c41d0beaeb29442b80400b63d3e9bc53": {
    "active": true,
    "awardAmount": "",
@@ -2697,6 +2838,30 @@
    "state": "CA",
    "title": "6CA1200 Justification for Other Than Full and Open Competition",
    "type": "Justification"
+  },
+  "cde64d4ceca44eaa902bddf57340add6": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Lawrence",
+   "deadline": "2026-11-20",
+   "firstSeen": "2026-10-21",
+   "id": "cde64d4ceca44eaa902bddf57340add6",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/cde64d4ceca44eaa902bddf57340add6/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "jonathan.langford@colliers.com",
+    "name": "Jonathan Langford",
+    "phone": "785-865-3562"
+   },
+   "posted": "2026-10-20",
+   "setAside": "",
+   "solnum": "2KS0137",
+   "state": "KS",
+   "title": "US GOVERNMENT SEEKS TO LEASE SPACE IN LAWRENCE, KS",
+   "type": "Presolicitation"
   },
   "cdf54aeed7b8474592f46573e138d06e": {
    "active": true,
@@ -3079,6 +3244,30 @@
    "title": "Sources Sought",
    "type": "Sources Sought"
   },
+  "e548d3fd34fd408e9026e40434c4ef87": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Tampa",
+   "deadline": "2026-10-28",
+   "firstSeen": "2026-10-21",
+   "id": "e548d3fd34fd408e9026e40434c4ef87",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/e548d3fd34fd408e9026e40434c4ef87/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "heather.driskell@gsa.gov",
+    "name": "Heather Driskell",
+    "phone": ""
+   },
+   "posted": "2026-10-20",
+   "setAside": "No Set aside used",
+   "solnum": "4FL0686",
+   "state": "FL",
+   "title": "4FL0686 Presolicitation Notice, Lease of Office Space in Tampa, FL",
+   "type": "Presolicitation"
+  },
   "e5c578821b1447a2b99a7a90951f3bed": {
    "active": true,
    "awardAmount": "",
@@ -3414,5 +3603,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-20T13:33:02+00:00"
+ "updated": "2026-10-21T13:33:32+00:00"
 }

@@ -238,7 +238,6 @@
    "deadline": "2026-11-15",
    "firstSeen": "2026-10-20",
    "id": "290c7b23d9e3447989256b540661a548",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/290c7b23d9e3447989256b540661a548/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -484,6 +483,30 @@
    "title": "X1DB--Additional Files - West Branch 36C25024R0209",
    "type": "Combined Synopsis/Solicitation"
   },
+  "43b2388e35a64717b0c01eb700799e35": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Davenport",
+   "deadline": "2026-11-02",
+   "firstSeen": "2026-10-21",
+   "id": "43b2388e35a64717b0c01eb700799e35",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/43b2388e35a64717b0c01eb700799e35/view",
+   "naics": "531120",
+   "office": "Network Contract Office 23 (36C263)",
+   "poc": {
+    "email": "kelsey.schulzetenberg@va.gov",
+    "name": "Kelsey Schulzetenberg",
+    "phone": ""
+   },
+   "posted": "2026-10-20",
+   "setAside": "",
+   "solnum": "36C26326R0069_2",
+   "state": "IA",
+   "title": "Expression of Interest - New Replacing Lease - Davenport CRRC",
+   "type": "Sources Sought"
+  },
   "44eb3d2a9b284f688b70a6d0e5efa2d8": {
    "active": true,
    "awardAmount": "",
@@ -715,6 +738,30 @@
    "title": "6640--Perfusion Cell Saver Lease and Service",
    "type": "Solicitation"
   },
+  "54db2866c8494155ae2df77fb73c1ea7": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Twin Falls",
+   "deadline": "2026-11-10",
+   "firstSeen": "2026-10-21",
+   "id": "54db2866c8494155ae2df77fb73c1ea7",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/54db2866c8494155ae2df77fb73c1ea7/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "christina.wolf@va.gov",
+    "name": "Christina Wolf",
+    "phone": ""
+   },
+   "posted": "2026-10-20",
+   "setAside": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
+   "solnum": "36C24W26R0017",
+   "state": "ID",
+   "title": "VHA seeking 20,250 RSF for a Community Based Outreach Clinic in Twin Falls, ID",
+   "type": "Solicitation"
+  },
   "58a07bc124a1449583fe10a4053f64d2": {
    "active": true,
    "awardAmount": "",
@@ -899,6 +946,30 @@
    "title": "X1DB--Fort Wayne FY2025 OPC RLP Amendment 1",
    "type": "Solicitation"
   },
+  "66dc6eb2ca444ff2990f5c31accfa06d": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-10-28",
+   "firstSeen": "2026-10-21",
+   "id": "66dc6eb2ca444ff2990f5c31accfa06d",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/66dc6eb2ca444ff2990f5c31accfa06d/view",
+   "naics": "339112",
+   "office": "261-Network Contract Office 21 (36C261)",
+   "poc": {
+    "email": "Mathew.Czeshinski@va.gov",
+    "name": "Mathew B Czeshinski",
+    "phone": ""
+   },
+   "posted": "2026-10-20",
+   "setAside": "",
+   "solnum": "36C26127Q0077",
+   "state": "",
+   "title": "6640--Perfusion Cell Saver Lease and Service",
+   "type": "Solicitation"
+  },
   "67ff0dd55b85431988423b985b6a8afb": {
    "active": true,
    "awardAmount": "",
@@ -990,6 +1061,30 @@
    "state": "",
    "title": "X1AA--West Branch (New) PO 655C60150 Tenant Improvements",
    "type": "Award Notice"
+  },
+  "730dda7cf3b1402b8666b30577947785": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-10-21",
+   "firstSeen": "2026-10-21",
+   "id": "730dda7cf3b1402b8666b30577947785",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/730dda7cf3b1402b8666b30577947785/view",
+   "naics": "531120",
+   "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
+   "poc": {
+    "email": "eric.roberts@va.gov",
+    "name": "Eric  Roberts",
+    "phone": "2026325723"
+   },
+   "posted": "2026-10-20",
+   "setAside": "",
+   "solnum": "36C10F26Q0080",
+   "state": "",
+   "title": "X1DB--Department of Veterans Affairs: Official Cancellation CANCELLATION: Historic Reuse ROBLEY REX Louisville, KY",
+   "type": "Special Notice"
   },
   "75c6a6d2c74443f7af93c69b183c71e9": {
    "active": true,
@@ -1874,7 +1969,6 @@
    "deadline": "2026-11-25",
    "firstSeen": "2026-10-20",
    "id": "e6d2e737c25d414b8bb4506fb414f42a",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/e6d2e737c25d414b8bb4506fb414f42a/view",
    "naics": "531120",
    "office": "260-Network Contract Office 20 (36C260)",
@@ -2151,7 +2245,6 @@
    "deadline": "2026-11-16",
    "firstSeen": "2026-10-20",
    "id": "faf2a8eca08f4776ae825ca515c714be",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/faf2a8eca08f4776ae825ca515c714be/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -2283,5 +2376,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-10-20T13:33:02+00:00"
+ "updated": "2026-10-21T13:33:31+00:00"
 }
