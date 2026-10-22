@@ -531,6 +531,30 @@
    "title": "Ponce Vet Center - Relocation",
    "type": "Solicitation"
   },
+  "456f3de941e44f36ab487422fad26e29": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Richland Hills",
+   "deadline": "2026-11-20",
+   "firstSeen": "2026-10-22",
+   "id": "456f3de941e44f36ab487422fad26e29",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/456f3de941e44f36ab487422fad26e29/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "Tashia.Marsh@va.gov",
+    "name": "TaShia Marsh-Brown",
+    "phone": ""
+   },
+   "posted": "2026-10-21",
+   "setAside": "",
+   "solnum": "36C24W26R0055",
+   "state": "TX",
+   "title": "New Lease for VA Clinic (CBOC) Tarrant County, Texas",
+   "type": "Solicitation"
+  },
   "468b53c9335b431883f052adb32c0fd8": {
    "active": true,
    "awardAmount": "",
@@ -746,7 +770,6 @@
    "deadline": "2026-11-10",
    "firstSeen": "2026-10-21",
    "id": "54db2866c8494155ae2df77fb73c1ea7",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/54db2866c8494155ae2df77fb73c1ea7/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -1070,7 +1093,6 @@
    "deadline": "2026-10-21",
    "firstSeen": "2026-10-21",
    "id": "730dda7cf3b1402b8666b30577947785",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/730dda7cf3b1402b8666b30577947785/view",
    "naics": "531120",
    "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
@@ -1708,6 +1730,30 @@
    "title": "X1AA--Saginaw-Auburn Annex - VA Clinic Award",
    "type": "Award Notice"
   },
+  "c8fa9b5b2d9641f1bdba1cba26dabf78": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Davenport",
+   "deadline": "2026-11-02",
+   "firstSeen": "2026-10-22",
+   "id": "c8fa9b5b2d9641f1bdba1cba26dabf78",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/c8fa9b5b2d9641f1bdba1cba26dabf78/view",
+   "naics": "531120",
+   "office": "Network Contract Office 23 (36C263)",
+   "poc": {
+    "email": "kelsey.schulzetenberg@va.gov",
+    "name": "Kelsey Schulzetenberg",
+    "phone": ""
+   },
+   "posted": "2026-10-21",
+   "setAside": "",
+   "solnum": "36C26326R0069_2",
+   "state": "IA",
+   "title": "Expression of Interest - New Replacing Lease - Davenport CRRC",
+   "type": "Sources Sought"
+  },
   "c90ee2ee0c524e07b9baebd73104a0e5": {
    "active": true,
    "awardAmount": "7458181.85",
@@ -2122,6 +2168,30 @@
    "title": "X1DB--Department of Veterans Affairs San Marcos, TX OPC Lease Award 36C10F26L0010",
    "type": "Award Notice"
   },
+  "f3ba932fd4234792a3e367734e287b8c": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-10-28",
+   "firstSeen": "2026-10-22",
+   "id": "f3ba932fd4234792a3e367734e287b8c",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/f3ba932fd4234792a3e367734e287b8c/view",
+   "naics": "339112",
+   "office": "261-Network Contract Office 21 (36C261)",
+   "poc": {
+    "email": "Mathew.Czeshinski@va.gov",
+    "name": "Mathew B Czeshinski",
+    "phone": ""
+   },
+   "posted": "2026-10-21",
+   "setAside": "",
+   "solnum": "36C26127Q0077",
+   "state": "",
+   "title": "6640--Perfusion Cell Saver Lease and Service",
+   "type": "Solicitation"
+  },
   "f4666857216f47b199e6c781b7ed3092": {
    "active": true,
    "awardAmount": "50819.97",
@@ -2376,5 +2446,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-10-21T13:33:31+00:00"
+ "updated": "2026-10-22T13:36:20+00:00"
 }

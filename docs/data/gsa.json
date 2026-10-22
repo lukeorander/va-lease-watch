@@ -141,6 +141,30 @@
    "title": "General Services Administration (GSA) seeks to lease space in Fort Myers, FL",
    "type": "Presolicitation"
   },
+  "0b2150c6991748768e1a8dbd44c25909": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "15436",
+   "deadline": "2026-11-07",
+   "firstSeen": "2026-10-22",
+   "id": "0b2150c6991748768e1a8dbd44c25909",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/0b2150c6991748768e1a8dbd44c25909/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "paul.koch@gsa.gov",
+    "name": "Paul Koch",
+    "phone": "2122649388"
+   },
+   "posted": "2026-10-21",
+   "setAside": "",
+   "solnum": "6OH0326",
+   "state": "OH",
+   "title": "Lease of Office Space. Request for Lease Proposals (RLP) #26NAT01 - Office Space",
+   "type": "Combined Synopsis/Solicitation"
+  },
   "0c6a24af59aa40df92e5f7e2d759310b": {
    "active": true,
    "awardAmount": "",
@@ -385,7 +409,6 @@
    "deadline": "",
    "firstSeen": "2026-10-21",
    "id": "12e83cbb6c454e7dadede1ae368536a0",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/12e83cbb6c454e7dadede1ae368536a0/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -927,7 +950,6 @@
    "deadline": "",
    "firstSeen": "2026-10-21",
    "id": "35003d5ffa3c4a938eb9f14c4144287b",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/35003d5ffa3c4a938eb9f14c4144287b/view",
    "naics": "531120",
    "office": "Pbs R1 Office Of Leasing",
@@ -1141,7 +1163,6 @@
    "deadline": "2026-11-09",
    "firstSeen": "2026-10-21",
    "id": "436f067fcc664865844a779de04d3810",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/436f067fcc664865844a779de04d3810/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1521,7 +1542,6 @@
    "deadline": "2026-11-11",
    "firstSeen": "2026-10-21",
    "id": "69fd3f89ad184d58b76970b1dc1c433b",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/69fd3f89ad184d58b76970b1dc1c433b/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -1710,7 +1730,6 @@
    "deadline": "2026-10-27",
    "firstSeen": "2026-10-21",
    "id": "76cfed693b2a425eba4424f39ef0ee05",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/76cfed693b2a425eba4424f39ef0ee05/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2634,7 +2653,6 @@
    "deadline": "",
    "firstSeen": "2026-10-21",
    "id": "c3ec235b0e2e4a408fec570b89336b02",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/c3ec235b0e2e4a408fec570b89336b02/view",
    "naics": "531120",
    "office": "Pbs R2 Office Of Leasing",
@@ -2696,6 +2714,30 @@
    "state": "OK",
    "title": "General Services Administration Lease: Office Space Okmulgee, OK",
    "type": "Solicitation"
+  },
+  "c5e24db73546475da6e8ae4a16e3c0b9": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "",
+   "firstSeen": "2026-10-22",
+   "id": "c5e24db73546475da6e8ae4a16e3c0b9",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/c5e24db73546475da6e8ae4a16e3c0b9/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "sean.mcneal@gsa.gov",
+    "name": "Sean J. McNeal",
+    "phone": "2026577993"
+   },
+   "posted": "2026-10-21",
+   "setAside": "",
+   "solnum": "5DC0642",
+   "state": "",
+   "title": "Justification for Other Than Full and Open Competition - Washington, DC",
+   "type": "Justification"
   },
   "c64bcaf49bbd4b99aa468d466722a777": {
    "active": true,
@@ -2847,7 +2889,6 @@
    "deadline": "2026-11-20",
    "firstSeen": "2026-10-21",
    "id": "cde64d4ceca44eaa902bddf57340add6",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/cde64d4ceca44eaa902bddf57340add6/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2861,6 +2902,30 @@
    "solnum": "2KS0137",
    "state": "KS",
    "title": "US GOVERNMENT SEEKS TO LEASE SPACE IN LAWRENCE, KS",
+   "type": "Presolicitation"
+  },
+  "cde657d7c2ac41bb9cee7c75814a786a": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Warner Robins",
+   "deadline": "2026-11-11",
+   "firstSeen": "2026-10-22",
+   "id": "cde657d7c2ac41bb9cee7c75814a786a",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/cde657d7c2ac41bb9cee7c75814a786a/view",
+   "naics": "53112",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "melissa.hein@gsa.gov",
+    "name": "Melissa Hein - PRAA-C",
+    "phone": "2123261064"
+   },
+   "posted": "2026-10-21",
+   "setAside": "No Set aside used",
+   "solnum": "0GA2202",
+   "state": "GA",
+   "title": "US GOVERNMENT WANTS TO LEASE OFFICE SPACE IN WARNE ROBINS, GA",
    "type": "Presolicitation"
   },
   "cdf54aeed7b8474592f46573e138d06e": {
@@ -2958,6 +3023,30 @@
    "state": "FL",
    "title": "Lease of Office Space in Fort Lauderdale, Florida - Request for Lease Proposals (RLP) #26NAT01 - Office Space",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "d4884d2689b24ecc966a003fbe041b7d": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Fayetteville",
+   "deadline": "2026-10-24",
+   "firstSeen": "2026-10-22",
+   "id": "d4884d2689b24ecc966a003fbe041b7d",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/d4884d2689b24ecc966a003fbe041b7d/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "Teresa.Holmes@gsa.gov",
+    "name": "Teresa Holmes",
+    "phone": "4042915495"
+   },
+   "posted": "2026-10-21",
+   "setAside": "No Set aside used",
+   "solnum": "0NC2185",
+   "state": "NC",
+   "title": "Notice of Intent to renew Lease # LNC60404",
+   "type": "Special Notice"
   },
   "d57affa4b90c4709bdf747cfaa66d1e8": {
    "active": true,
@@ -3252,7 +3341,6 @@
    "deadline": "2026-10-28",
    "firstSeen": "2026-10-21",
    "id": "e548d3fd34fd408e9026e40434c4ef87",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/e548d3fd34fd408e9026e40434c4ef87/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -3434,6 +3522,30 @@
    "title": "Award Notice for General Services Administration (GSA): Nashville, TN (8TN2218)",
    "type": "Award Notice"
   },
+  "f112e625d39441898dec3fee2ffa12f5": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Forest",
+   "deadline": "2026-11-02",
+   "firstSeen": "2026-10-22",
+   "id": "f112e625d39441898dec3fee2ffa12f5",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/f112e625d39441898dec3fee2ffa12f5/view",
+   "naics": "531120",
+   "office": "Pbs R7 Office Of Leasing",
+   "poc": {
+    "email": "adrienne.jackson@gsa.gov",
+    "name": "Adrienne Jackson",
+    "phone": "8179780130"
+   },
+   "posted": "2026-10-21",
+   "setAside": "",
+   "solnum": "4MS0229",
+   "state": "MS",
+   "title": "General Services Administration (GSA) Lease: Office Space FOREST, MISSISSIPPI",
+   "type": "Presolicitation"
+  },
   "f174e674355649dab2ec56636005f1da": {
    "active": true,
    "awardAmount": "",
@@ -3603,5 +3715,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-21T13:33:32+00:00"
+ "updated": "2026-10-22T13:36:20+00:00"
 }
