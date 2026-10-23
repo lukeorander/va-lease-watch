@@ -149,7 +149,6 @@
    "deadline": "2026-11-07",
    "firstSeen": "2026-10-22",
    "id": "0b2150c6991748768e1a8dbd44c25909",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/0b2150c6991748768e1a8dbd44c25909/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2053,6 +2052,30 @@
    "title": "US Government seeks 1,527 - 1,607 ABOA SF of office and related space in Joliet, IL.",
    "type": "Presolicitation"
   },
+  "9368ed9a4d7849c7b545a05e0e86438e": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Miami",
+   "deadline": "2026-11-20",
+   "firstSeen": "2026-10-23",
+   "id": "9368ed9a4d7849c7b545a05e0e86438e",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/9368ed9a4d7849c7b545a05e0e86438e/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "bryant.porter@gsa.gov",
+    "name": "Bryant Porter - PRAA-C",
+    "phone": "2026248515"
+   },
+   "posted": "2026-10-22",
+   "setAside": "No Set aside used",
+   "solnum": "4FL0656",
+   "state": "FL",
+   "title": "General Services Administration (GSA) seeks to lease the following space in Miami, FL:",
+   "type": "Solicitation"
+  },
   "9544f51f7c0f4007b4f4d6b52f54aff7": {
    "active": true,
    "awardAmount": "",
@@ -2723,7 +2746,6 @@
    "deadline": "",
    "firstSeen": "2026-10-22",
    "id": "c5e24db73546475da6e8ae4a16e3c0b9",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/c5e24db73546475da6e8ae4a16e3c0b9/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2912,7 +2934,6 @@
    "deadline": "2026-11-11",
    "firstSeen": "2026-10-22",
    "id": "cde657d7c2ac41bb9cee7c75814a786a",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/cde657d7c2ac41bb9cee7c75814a786a/view",
    "naics": "53112",
    "office": "Pbs Office Of Leasing",
@@ -3032,7 +3053,6 @@
    "deadline": "2026-10-24",
    "firstSeen": "2026-10-22",
    "id": "d4884d2689b24ecc966a003fbe041b7d",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/d4884d2689b24ecc966a003fbe041b7d/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -3530,7 +3550,6 @@
    "deadline": "2026-11-02",
    "firstSeen": "2026-10-22",
    "id": "f112e625d39441898dec3fee2ffa12f5",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/f112e625d39441898dec3fee2ffa12f5/view",
    "naics": "531120",
    "office": "Pbs R7 Office Of Leasing",
@@ -3715,5 +3734,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-22T13:36:20+00:00"
+ "updated": "2026-10-23T13:32:29+00:00"
 }
