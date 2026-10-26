@@ -588,6 +588,30 @@
    "title": "General Services Administration (GSA) seeks to lease the following space: Solicitation No. 3LA0262",
    "type": "Presolicitation"
   },
+  "1c695a555eaf4569a111eaffff7083f6": {
+   "active": true,
+   "awardAmount": "17094203.78",
+   "awardee": "PORTALS OWNER, LLC",
+   "city": "Washington",
+   "deadline": "",
+   "firstSeen": "2026-10-26",
+   "id": "1c695a555eaf4569a111eaffff7083f6",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/1c695a555eaf4569a111eaffff7083f6/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "bryant.porter@gsa.gov",
+    "name": "Bryant Porter - PRAA-C",
+    "phone": "2026248515"
+   },
+   "posted": "2026-10-23",
+   "setAside": "No Set aside used",
+   "solnum": "1DC2380",
+   "state": "DC",
+   "title": "Award Notice: General Services Administration (GSA) seeks to lease the following space in Washington, DC:",
+   "type": "Award Notice"
+  },
   "1d38ecb45e2d451f8f3dddccccf5233f": {
    "active": true,
    "awardAmount": "",
@@ -2060,7 +2084,6 @@
    "deadline": "2026-11-20",
    "firstSeen": "2026-10-23",
    "id": "9368ed9a4d7849c7b545a05e0e86438e",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/9368ed9a4d7849c7b545a05e0e86438e/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2146,6 +2169,30 @@
    "state": "NV",
    "title": "The U.S. Government Seeks to Lease Space in North Las Vegas & Las Vegas, NV",
    "type": "Presolicitation"
+  },
+  "98a19f70cd214cf88810105940a69fdf": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Williamsville",
+   "deadline": "2026-11-09",
+   "firstSeen": "2026-10-26",
+   "id": "98a19f70cd214cf88810105940a69fdf",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/98a19f70cd214cf88810105940a69fdf/view",
+   "naics": "531120",
+   "office": "Pbs R2 Office Of Leasing",
+   "poc": {
+    "email": "bena.courville@gsa.gov",
+    "name": "Bena Parker Courville",
+    "phone": "3472370950"
+   },
+   "posted": "2026-10-26",
+   "setAside": "",
+   "solnum": "6NY0829",
+   "state": "NY",
+   "title": "Lease of Office Space in NE Buffalo / Williamsville, New York - Request for Lease Proposals (RLP) #26NAT01 - Office Space",
+   "type": "Combined Synopsis/Solicitation"
   },
   "992d8998b7c44670ad59e80e6a04c9ea": {
    "active": true,
@@ -2598,6 +2645,30 @@
    "title": "General Services Administration (GSA) Lease: Office Space Jefferson City, Missouri",
    "type": "Award Notice"
   },
+  "bb8325d1814549b5950d774650842786": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Durango",
+   "deadline": "2026-11-12",
+   "firstSeen": "2026-10-26",
+   "id": "bb8325d1814549b5950d774650842786",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/bb8325d1814549b5950d774650842786/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "Nicholas.Zabelin@gsa.gov",
+    "name": "Nicholas Zabelin, Broker Contractor - Carpenter/Robbins Commercial Real Estate, Inc.",
+    "phone": "(925) 790-2124"
+   },
+   "posted": "2026-10-23",
+   "setAside": "",
+   "solnum": "2CO0668",
+   "state": "CO",
+   "title": "General Services Administration (GSA) seeks to lease office space in Durango, CO",
+   "type": "Presolicitation"
+  },
   "bcfdd21a9e354bcc9711bca9be31fef0": {
    "active": true,
    "awardAmount": "",
@@ -2619,6 +2690,30 @@
    "solnum": "0PR2126-1",
    "state": "PR",
    "title": "The Government is seeking a minimum of 17,480 ANSI/BOMA Square Feet and a maximum of 18,354 ANSI/BOMA Square Feet of Hangar and related space in Carolina, Puerto Rico",
+   "type": "Solicitation"
+  },
+  "bd10331ffa8d4e858958b25a10086a64": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Bayamon",
+   "deadline": "2026-10-27",
+   "firstSeen": "2026-10-26",
+   "id": "bd10331ffa8d4e858958b25a10086a64",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/bd10331ffa8d4e858958b25a10086a64/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "maria.kobe@gsa.gov",
+    "name": "Maria Kobe",
+    "phone": "(703) 852-6203"
+   },
+   "posted": "2026-10-26",
+   "setAside": "",
+   "solnum": "2PR0171-1",
+   "state": "PR",
+   "title": "Request for Lease Proposals No. 2PR0171-1, U.S. Government Seeks to Lease Warehouse Space in Bayamon, PR",
    "type": "Solicitation"
   },
   "bd825c8783404cdba084c0265099be65": {
@@ -2831,6 +2926,30 @@
    "state": "MS",
    "title": "US GOVERNMENT WANTS TO LEASE OFFICE SPACE IN SOUTHAVEN, MS",
    "type": "Presolicitation"
+  },
+  "c991c018da174b47aea8227f8af37ea2": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-11-23",
+   "firstSeen": "2026-10-26",
+   "id": "c991c018da174b47aea8227f8af37ea2",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/c991c018da174b47aea8227f8af37ea2/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "william.korchak@gsa.gov",
+    "name": "William Korchak",
+    "phone": "2128125818"
+   },
+   "posted": "2026-10-23",
+   "setAside": "",
+   "solnum": "4NJ0299-1",
+   "state": "",
+   "title": "SOLICITATION: RLP PACKAGE: The Government is seeking to lease office and related space in FT. LEE, NEW JERSEY for a minimum of 25,939 ANSI/BOMA (ABOA) to a maximum of 27,233 ABOA square feet.",
+   "type": "Solicitation"
   },
   "caa55526dd09448e94894753e8d43c7f": {
    "active": true,
@@ -3589,6 +3708,30 @@
    "title": "0FL2359 Justification for Other Than Full and Open Competition",
    "type": "Justification"
   },
+  "f4d0721b800f45199b2e0fa686643987": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Knoxville",
+   "deadline": "2026-10-26",
+   "firstSeen": "2026-10-26",
+   "id": "f4d0721b800f45199b2e0fa686643987",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/f4d0721b800f45199b2e0fa686643987/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "edward.brennan@gsa.gov",
+    "name": "Edward Brennan",
+    "phone": ""
+   },
+   "posted": "2026-10-23",
+   "setAside": "",
+   "solnum": "2TN0427-2",
+   "state": "TN",
+   "title": "General Services Administration (GSA) Seeks to lease the following space: Solicitation No. 2TN0427",
+   "type": "Presolicitation"
+  },
   "f65575bf54684c07a10dfab18d1a937d": {
    "active": true,
    "awardAmount": "",
@@ -3734,5 +3877,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-23T13:32:29+00:00"
+ "updated": "2026-10-26T15:07:48+00:00"
 }
