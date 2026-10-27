@@ -654,7 +654,6 @@
    "deadline": "2026-11-30",
    "firstSeen": "2026-10-26",
    "id": "48c6d6b517884d29b512ab36154dd504",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/48c6d6b517884d29b512ab36154dd504/view",
    "naics": "531130",
    "office": "Rpo West (36C24W)",
@@ -2513,5 +2512,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-10-26T15:07:47+00:00"
+ "updated": "2026-10-27T13:42:26+00:00"
 }

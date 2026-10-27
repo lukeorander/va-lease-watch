@@ -141,6 +141,30 @@
    "title": "General Services Administration (GSA) seeks to lease space in Fort Myers, FL",
    "type": "Presolicitation"
   },
+  "0a2b2ecb35d6490f9d223428567b8244": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Topeka",
+   "deadline": "2026-10-05",
+   "firstSeen": "2026-10-27",
+   "id": "0a2b2ecb35d6490f9d223428567b8244",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/0a2b2ecb35d6490f9d223428567b8244/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "bruce.keyes@gsa.gov",
+    "name": "Bruce Keyes",
+    "phone": "7192375740"
+   },
+   "posted": "2026-10-26",
+   "setAside": "",
+   "solnum": "2KS0140",
+   "state": "KS",
+   "title": "U.S. GOVERNMENT SEEKS TO LEASE SPACE IN TOPEKA, KS",
+   "type": "Presolicitation"
+  },
   "0b2150c6991748768e1a8dbd44c25909": {
    "active": true,
    "awardAmount": "",
@@ -596,7 +620,6 @@
    "deadline": "",
    "firstSeen": "2026-10-26",
    "id": "1c695a555eaf4569a111eaffff7083f6",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/1c695a555eaf4569a111eaffff7083f6/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -1343,6 +1366,30 @@
    "title": "Redacted Justification: Mobile, AL - 4AL0248",
    "type": "Justification"
   },
+  "53a099d5dee845e7980e8c560e5b8c79": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Sumner",
+   "deadline": "2026-11-04",
+   "firstSeen": "2026-10-27",
+   "id": "53a099d5dee845e7980e8c560e5b8c79",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/53a099d5dee845e7980e8c560e5b8c79/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "Darrin.Hotaling@gsa.gov",
+    "name": "Darrin Hotaling - Lease Contracting Officer",
+    "phone": "(303) 963-6576"
+   },
+   "posted": "2026-10-26",
+   "setAside": "",
+   "solnum": "4WA0688",
+   "state": "WA",
+   "title": "General Services Administration (GSA) seeks to lease Warehouse, Office, Light Industrial, and Wareyard space in Sumner, WA",
+   "type": "Solicitation"
+  },
   "589840c83fe74b66b2053a25ea274974": {
    "active": true,
    "awardAmount": "",
@@ -1436,6 +1483,30 @@
    "solnum": "2OK0217",
    "state": "OK",
    "title": "General Services Administration Office Space Pawnee, Oklahoma",
+   "type": "Award Notice"
+  },
+  "5dcb658d45c94b419a0c9de9acfee9e3": {
+   "active": true,
+   "awardAmount": "4476234.85",
+   "awardee": "1201 LINWOOD ACQUISITION LLC",
+   "city": "Linwood",
+   "deadline": "",
+   "firstSeen": "2026-10-27",
+   "id": "5dcb658d45c94b419a0c9de9acfee9e3",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/5dcb658d45c94b419a0c9de9acfee9e3/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "dominic.innaurato@gsa.gov",
+    "name": "Dominic INNAURATO",
+    "phone": "2154464532"
+   },
+   "posted": "2026-10-27",
+   "setAside": "",
+   "solnum": "5NJ0302",
+   "state": "NJ",
+   "title": "Lease of Office Space within Mays Landing, NJ. Request for Lease Proposals (RLP) #26NAT02 - Office Space",
    "type": "Award Notice"
   },
   "5e4a039f8b1044ab9415964ff5b2cd42": {
@@ -2178,7 +2249,6 @@
    "deadline": "2026-11-09",
    "firstSeen": "2026-10-26",
    "id": "98a19f70cd214cf88810105940a69fdf",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/98a19f70cd214cf88810105940a69fdf/view",
    "naics": "531120",
    "office": "Pbs R2 Office Of Leasing",
@@ -2653,7 +2723,6 @@
    "deadline": "2026-11-12",
    "firstSeen": "2026-10-26",
    "id": "bb8325d1814549b5950d774650842786",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/bb8325d1814549b5950d774650842786/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2667,6 +2736,30 @@
    "solnum": "2CO0668",
    "state": "CO",
    "title": "General Services Administration (GSA) seeks to lease office space in Durango, CO",
+   "type": "Presolicitation"
+  },
+  "bc001282471d42caaa7facc5e77f9688": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Las Vegas",
+   "deadline": "2026-11-09",
+   "firstSeen": "2026-10-27",
+   "id": "bc001282471d42caaa7facc5e77f9688",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/bc001282471d42caaa7facc5e77f9688/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "dana.mcneil@gsa.gov",
+    "name": "Dana McNeil",
+    "phone": "5033831783"
+   },
+   "posted": "2026-10-26",
+   "setAside": "No Set aside used",
+   "solnum": "3NV0151-2",
+   "state": "NV",
+   "title": "U.S. Government Seeks to Lease Office Space in Las Vegas, NV",
    "type": "Presolicitation"
   },
   "bcfdd21a9e354bcc9711bca9be31fef0": {
@@ -2700,7 +2793,6 @@
    "deadline": "2026-10-27",
    "firstSeen": "2026-10-26",
    "id": "bd10331ffa8d4e858958b25a10086a64",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/bd10331ffa8d4e858958b25a10086a64/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2935,7 +3027,6 @@
    "deadline": "2026-11-23",
    "firstSeen": "2026-10-26",
    "id": "c991c018da174b47aea8227f8af37ea2",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/c991c018da174b47aea8227f8af37ea2/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -3716,7 +3807,6 @@
    "deadline": "2026-10-26",
    "firstSeen": "2026-10-26",
    "id": "f4d0721b800f45199b2e0fa686643987",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/f4d0721b800f45199b2e0fa686643987/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -3877,5 +3967,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-26T15:07:48+00:00"
+ "updated": "2026-10-27T13:42:27+00:00"
 }
