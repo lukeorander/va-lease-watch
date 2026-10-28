@@ -1130,6 +1130,30 @@
    "title": "X1AA--West Branch (New) PO 655C60150 Tenant Improvements",
    "type": "Award Notice"
   },
+  "71ed4e5e7ed547ab9f77fb6839ee916f": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-10-29",
+   "firstSeen": "2026-10-28",
+   "id": "71ed4e5e7ed547ab9f77fb6839ee916f",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/71ed4e5e7ed547ab9f77fb6839ee916f/view",
+   "naics": "339112",
+   "office": "261-Network Contract Office 21 (36C261)",
+   "poc": {
+    "email": "Mathew.Czeshinski@va.gov",
+    "name": "Mathew B Czeshinski",
+    "phone": ""
+   },
+   "posted": "2026-10-27",
+   "setAside": "",
+   "solnum": "36C26127Q0077",
+   "state": "",
+   "title": "6640--Perfusion Cell Saver Lease and Service",
+   "type": "Solicitation"
+  },
   "730dda7cf3b1402b8666b30577947785": {
    "active": true,
    "awardAmount": "",
@@ -1936,6 +1960,30 @@
    "title": "X1DB--Santa Cruz Outpatient Clinic, New Procurement Lease Package",
    "type": "Combined Synopsis/Solicitation"
   },
+  "d589c4e5d1db414dbf4f23da5e516a73": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-11-20",
+   "firstSeen": "2026-10-28",
+   "id": "d589c4e5d1db414dbf4f23da5e516a73",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/d589c4e5d1db414dbf4f23da5e516a73/view",
+   "naics": "531120",
+   "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
+   "poc": {
+    "email": "JCALLAHAN@GUVCRE.COM",
+    "name": "Joseph Callahan, GUV Commercial Real Estate LLC",
+    "phone": "(202) 255-8832"
+   },
+   "posted": "2026-10-27",
+   "setAside": "",
+   "solnum": "36C10F25R0048",
+   "state": "",
+   "title": "X1DB--Conroe OPC 229,566 ANSI/BOMA 258,262 RSF",
+   "type": "Combined Synopsis/Solicitation"
+  },
   "dc82d0b059fc40a4be05f69cfa33f72a": {
    "active": true,
    "awardAmount": "",
@@ -2512,5 +2560,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-10-27T13:42:26+00:00"
+ "updated": "2026-10-28T13:46:42+00:00"
 }

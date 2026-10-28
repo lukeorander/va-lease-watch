@@ -149,7 +149,6 @@
    "deadline": "2026-10-05",
    "firstSeen": "2026-10-27",
    "id": "0a2b2ecb35d6490f9d223428567b8244",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/0a2b2ecb35d6490f9d223428567b8244/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -235,6 +234,30 @@
    "state": "MO",
    "title": "General Services Administration (GSA) seeks to lease 383,043 ABOA SF of underground storage space in Independence, MO",
    "type": "Presolicitation"
+  },
+  "0e57dcd035654749ae958c0c1c266745": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Harrisburg",
+   "deadline": "2026-11-24",
+   "firstSeen": "2026-10-28",
+   "id": "0e57dcd035654749ae958c0c1c266745",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/0e57dcd035654749ae958c0c1c266745/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "dominic.vedder@gsa.gov",
+    "name": "Dominic Vedder",
+    "phone": "7038526215"
+   },
+   "posted": "2026-10-27",
+   "setAside": "",
+   "solnum": "5PA0527",
+   "state": "PA",
+   "title": "United States Government Seeks To Lease Office Space In Harrisburg, PA",
+   "type": "Solicitation"
   },
   "0eb33c367f33462981a6a7b62f1c50d9": {
    "active": true,
@@ -751,6 +774,30 @@
    "title": "U.S. Government Seeking to Lease Warehouse Space in Chicago, IL",
    "type": "Presolicitation"
   },
+  "25850beebd4c48b5afc059fef272db29": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Sun Prairie",
+   "deadline": "2026-11-18",
+   "firstSeen": "2026-10-28",
+   "id": "25850beebd4c48b5afc059fef272db29",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/25850beebd4c48b5afc059fef272db29/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "dominic.vedder@gsa.gov",
+    "name": "Dominic Vedder",
+    "phone": "7038526215"
+   },
+   "posted": "2026-10-27",
+   "setAside": "",
+   "solnum": "1WI2100-3",
+   "state": "WI",
+   "title": "United States Government Seeks To Lease Office Space In Sun Prairie, WI",
+   "type": "Presolicitation"
+  },
   "25913866acdc43b2a364c9390584f5fc": {
    "active": true,
    "awardAmount": "",
@@ -845,6 +892,30 @@
    "state": "VA",
    "title": "Lease of Office Space within Norfolk, VA. Request for Lease Proposals (RLP) #26NAT02",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "298039c4eea04b129563b96098661f45": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Melville",
+   "deadline": "2026-11-09",
+   "firstSeen": "2026-10-28",
+   "id": "298039c4eea04b129563b96098661f45",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/298039c4eea04b129563b96098661f45/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "helene.a.pospischil@gsa.gov",
+    "name": "Heather Pospischil ",
+    "phone": "2029146430"
+   },
+   "posted": "2026-10-27",
+   "setAside": "",
+   "solnum": "5NY0826",
+   "state": "NY",
+   "title": "Government Seeks Warehouse Space in Nassau and Suffolk County, NY",
+   "type": "Presolicitation"
   },
   "2a98a6ac96414882bc31fdb5017e9454": {
    "active": true,
@@ -1011,6 +1082,30 @@
    "title": "Post Award Synopsis TSA Vineyard Haven On-Airport Renewal",
    "type": "Award Notice"
   },
+  "3625e04d23334d91a325ba2995c39fa2": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Minneapolis",
+   "deadline": "",
+   "firstSeen": "2026-10-28",
+   "id": "3625e04d23334d91a325ba2995c39fa2",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/3625e04d23334d91a325ba2995c39fa2/view",
+   "naics": "531120",
+   "office": "Pbs R5 Office Of Leasing",
+   "poc": {
+    "email": "kovas.palubinskas@gsa.gov",
+    "name": "Kovas I. Palubinskas",
+    "phone": ""
+   },
+   "posted": "2026-10-27",
+   "setAside": "",
+   "solnum": "6MN0208",
+   "state": "MN",
+   "title": "Lease Extension Without Competition",
+   "type": "Justification"
+  },
   "36931c1e306c458ca4c5cbdb57695aec": {
    "active": true,
    "awardAmount": "",
@@ -1057,6 +1152,30 @@
    "state": "FL",
    "title": "Justification for Other Than Full and Open Competition",
    "type": "Justification"
+  },
+  "385a8d446ff04a33a66ae98e7959b29d": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Battle Creek",
+   "deadline": "2026-11-10",
+   "firstSeen": "2026-10-28",
+   "id": "385a8d446ff04a33a66ae98e7959b29d",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/385a8d446ff04a33a66ae98e7959b29d/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "richard.downey@gsa.gov",
+    "name": "Richard T. Downey, Jr.",
+    "phone": "2025855664"
+   },
+   "posted": "2026-10-27",
+   "setAside": "",
+   "solnum": "6MI0298",
+   "state": "MI",
+   "title": "U.S. Government Seeks to Lease Office and Related Space in Battle Creek, MI",
+   "type": "Presolicitation"
   },
   "397beb55fde949a2818d6fbef2c1d398": {
    "active": true,
@@ -1374,7 +1493,6 @@
    "deadline": "2026-11-04",
    "firstSeen": "2026-10-27",
    "id": "53a099d5dee845e7980e8c560e5b8c79",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/53a099d5dee845e7980e8c560e5b8c79/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -1493,7 +1611,6 @@
    "deadline": "",
    "firstSeen": "2026-10-27",
    "id": "5dcb658d45c94b419a0c9de9acfee9e3",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/5dcb658d45c94b419a0c9de9acfee9e3/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2147,6 +2264,30 @@
    "title": "US Government seeks 1,527 - 1,607 ABOA SF of office and related space in Joliet, IL.",
    "type": "Presolicitation"
   },
+  "8f4f80539510469d8cfa96bfaa9b1814": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Battle Creek",
+   "deadline": "2026-11-10",
+   "firstSeen": "2026-10-28",
+   "id": "8f4f80539510469d8cfa96bfaa9b1814",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/8f4f80539510469d8cfa96bfaa9b1814/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "richard.downey@gsa.gov",
+    "name": "Richard T. Downey, Jr.",
+    "phone": "2025855664"
+   },
+   "posted": "2026-10-27",
+   "setAside": "",
+   "solnum": "6MI0302",
+   "state": "MI",
+   "title": "U.S. Government Seeks to Lease Office and Related Space in Battle Creek, MI",
+   "type": "Presolicitation"
+  },
   "9368ed9a4d7849c7b545a05e0e86438e": {
    "active": true,
    "awardAmount": "",
@@ -2239,6 +2380,30 @@
    "solnum": "0NV2119-2",
    "state": "NV",
    "title": "The U.S. Government Seeks to Lease Space in North Las Vegas & Las Vegas, NV",
+   "type": "Presolicitation"
+  },
+  "96e1bd765c5d4799a38cf7b31ac0428b": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Kennebunkport",
+   "deadline": "2026-11-11",
+   "firstSeen": "2026-10-28",
+   "id": "96e1bd765c5d4799a38cf7b31ac0428b",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/96e1bd765c5d4799a38cf7b31ac0428b/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "adam.ferreira@gsa.gov",
+    "name": "Adam Ferreira",
+    "phone": "617-306-4206"
+   },
+   "posted": "2026-10-28",
+   "setAside": "",
+   "solnum": "3ME0151",
+   "state": "ME",
+   "title": "U.S. Government Seeks To Lease Office Space in Kennebunkport, ME",
    "type": "Presolicitation"
   },
   "98a19f70cd214cf88810105940a69fdf": {
@@ -2746,7 +2911,6 @@
    "deadline": "2026-11-09",
    "firstSeen": "2026-10-27",
    "id": "bc001282471d42caaa7facc5e77f9688",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/bc001282471d42caaa7facc5e77f9688/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -3610,6 +3774,30 @@
    "title": "Lease Space in Scottsbluff, NE",
    "type": "Presolicitation"
   },
+  "e8414219de54459b90564ad9d02a6a84": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Baltimore",
+   "deadline": "2026-11-10",
+   "firstSeen": "2026-10-28",
+   "id": "e8414219de54459b90564ad9d02a6a84",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/e8414219de54459b90564ad9d02a6a84/view",
+   "naics": "",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "fanni.frankl@gsa.gov",
+    "name": "Fanni Frankl",
+    "phone": "9172739750"
+   },
+   "posted": "2026-10-28",
+   "setAside": "",
+   "solnum": "5MD0504",
+   "state": "MD",
+   "title": "Presolicitation for Leased Space in Baltimore, MD",
+   "type": "Presolicitation"
+  },
   "e93f5dc170ca48da8f12076b08d2df29": {
    "active": true,
    "awardAmount": "",
@@ -3967,5 +4155,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-27T13:42:27+00:00"
+ "updated": "2026-10-28T13:46:43+00:00"
 }
