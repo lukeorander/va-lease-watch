@@ -1014,6 +1014,30 @@
    "title": "X1DB--Fort Wayne FY2025 OPC RLP Amendment 1",
    "type": "Solicitation"
   },
+  "66928a2e23c9428c87a0d33e22c0d19f": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-11-15",
+   "firstSeen": "2026-10-29",
+   "id": "66928a2e23c9428c87a0d33e22c0d19f",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/66928a2e23c9428c87a0d33e22c0d19f/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "Dominic.Mabine@va.gov",
+    "name": "Dominic Mabine",
+    "phone": ""
+   },
+   "posted": "2026-10-28",
+   "setAside": "Small Business Set Aside - Total",
+   "solnum": "36C24426R0012",
+   "state": "PR",
+   "title": "Ponce Vet Center - Relocation",
+   "type": "Solicitation"
+  },
   "66dc6eb2ca444ff2990f5c31accfa06d": {
    "active": true,
    "awardAmount": "",
@@ -1138,7 +1162,6 @@
    "deadline": "2026-10-29",
    "firstSeen": "2026-10-28",
    "id": "71ed4e5e7ed547ab9f77fb6839ee916f",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/71ed4e5e7ed547ab9f77fb6839ee916f/view",
    "naics": "339112",
    "office": "261-Network Contract Office 21 (36C261)",
@@ -1776,6 +1799,30 @@
    "title": "X1DB--Sarasota Outpatient Clinic (PACT ACT) 131,724 ANSI/BOMA",
    "type": "Award Notice"
   },
+  "c53a8f74c67b4ac18360924b25fae71b": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-11-16",
+   "firstSeen": "2026-10-29",
+   "id": "c53a8f74c67b4ac18360924b25fae71b",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/c53a8f74c67b4ac18360924b25fae71b/view",
+   "naics": "531120",
+   "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
+   "poc": {
+    "email": "JAMES@DHCRES.COM",
+    "name": "James Cassidy",
+    "phone": "Office Phone: (917) 633-8166"
+   },
+   "posted": "2026-10-28",
+   "setAside": "",
+   "solnum": "36C10F25R0024",
+   "state": "",
+   "title": "X1DB-- Katy TX OPC 175,306 ANSI/BOMA 197,219 RSF Amendment 4",
+   "type": "Combined Synopsis/Solicitation"
+  },
   "c633dfe1bf024cdfa30545f5354f0bd1": {
    "active": true,
    "awardAmount": "35407504.46",
@@ -1968,7 +2015,6 @@
    "deadline": "2026-11-20",
    "firstSeen": "2026-10-28",
    "id": "d589c4e5d1db414dbf4f23da5e516a73",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/d589c4e5d1db414dbf4f23da5e516a73/view",
    "naics": "531120",
    "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
@@ -2560,5 +2606,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-10-28T13:46:42+00:00"
+ "updated": "2026-10-29T13:49:48+00:00"
 }

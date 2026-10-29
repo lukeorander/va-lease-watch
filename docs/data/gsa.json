@@ -243,7 +243,6 @@
    "deadline": "2026-11-24",
    "firstSeen": "2026-10-28",
    "id": "0e57dcd035654749ae958c0c1c266745",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/0e57dcd035654749ae958c0c1c266745/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -681,6 +680,30 @@
    "title": "General Services Administration (GSA) seeks to lease two parking spaces in Spokane, WA",
    "type": "Presolicitation"
   },
+  "2048dbf0579042dda23c918588437edd": {
+   "active": true,
+   "awardAmount": "2407832.00",
+   "awardee": "CAPE MORAINE, LLC",
+   "city": "East Falmouth",
+   "deadline": "",
+   "firstSeen": "2026-10-29",
+   "id": "2048dbf0579042dda23c918588437edd",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/2048dbf0579042dda23c918588437edd/view",
+   "naics": "531120",
+   "office": "Pbs R1 Office Of Leasing",
+   "poc": {
+    "email": "clare.nawrocki@gsa.gov",
+    "name": "Clare Nawrocki",
+    "phone": "6175131831"
+   },
+   "posted": "2026-10-28",
+   "setAside": "",
+   "solnum": "3MA0240",
+   "state": "MA",
+   "title": "Award Notice for SSA East Falmouth, MA",
+   "type": "Award Notice"
+  },
   "20cdab725d4a493a988444a7b8b27e09": {
    "active": true,
    "awardAmount": "",
@@ -782,7 +805,6 @@
    "deadline": "2026-11-18",
    "firstSeen": "2026-10-28",
    "id": "25850beebd4c48b5afc059fef272db29",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/25850beebd4c48b5afc059fef272db29/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -901,7 +923,6 @@
    "deadline": "2026-11-09",
    "firstSeen": "2026-10-28",
    "id": "298039c4eea04b129563b96098661f45",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/298039c4eea04b129563b96098661f45/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -962,6 +983,30 @@
    "solnum": "2LA0292",
    "state": "LA",
    "title": "General Services Administration (GSA) seeks to lease the following space: Mandeville, Louisiana",
+   "type": "Justification"
+  },
+  "2ce1f5ccb93a4d2584dd4a54ba9f0906": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Guaynabo",
+   "deadline": "",
+   "firstSeen": "2026-10-29",
+   "id": "2ce1f5ccb93a4d2584dd4a54ba9f0906",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/2ce1f5ccb93a4d2584dd4a54ba9f0906/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "bryan.cucinotta@gsa.gov",
+    "name": "Bryan Cucinotta",
+    "phone": "7182883178"
+   },
+   "posted": "2026-10-28",
+   "setAside": "",
+   "solnum": "6PR0176",
+   "state": "PR",
+   "title": "Posting of Justification of Other Than Full and Open Competition",
    "type": "Justification"
   },
   "2cfe3f2ffed2478f8be64ded057b8bc8": {
@@ -1035,6 +1080,30 @@
    "title": "Seeking Competitive Lease Proposals \u2013- Management Hub -- Office Space in in Philadelphia, PA - Request for Lease Proposals No. 26NAT02",
    "type": "Combined Synopsis/Solicitation"
   },
+  "2eb90d0341204657ab70fb10945c096e": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "San Juan",
+   "deadline": "2026-11-04",
+   "firstSeen": "2026-10-29",
+   "id": "2eb90d0341204657ab70fb10945c096e",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/2eb90d0341204657ab70fb10945c096e/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "hpineiro@hmppropertiespr.com",
+    "name": "Helga Pineiro",
+    "phone": "(787) 627-5737"
+   },
+   "posted": "2026-10-29",
+   "setAside": "",
+   "solnum": "2PR0143",
+   "state": "PR",
+   "title": "U.S. Government Seeks to Lease Office Space in San Juan, Puerto Rico",
+   "type": "Presolicitation"
+  },
   "30634b069e0c47d99ffc01ac3bb8904c": {
    "active": true,
    "awardAmount": "",
@@ -1090,7 +1159,6 @@
    "deadline": "",
    "firstSeen": "2026-10-28",
    "id": "3625e04d23334d91a325ba2995c39fa2",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/3625e04d23334d91a325ba2995c39fa2/view",
    "naics": "531120",
    "office": "Pbs R5 Office Of Leasing",
@@ -1161,7 +1229,6 @@
    "deadline": "2026-11-10",
    "firstSeen": "2026-10-28",
    "id": "385a8d446ff04a33a66ae98e7959b29d",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/385a8d446ff04a33a66ae98e7959b29d/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2272,7 +2339,6 @@
    "deadline": "2026-11-10",
    "firstSeen": "2026-10-28",
    "id": "8f4f80539510469d8cfa96bfaa9b1814",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/8f4f80539510469d8cfa96bfaa9b1814/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2390,7 +2456,6 @@
    "deadline": "2026-11-11",
    "firstSeen": "2026-10-28",
    "id": "96e1bd765c5d4799a38cf7b31ac0428b",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/96e1bd765c5d4799a38cf7b31ac0428b/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2547,6 +2612,30 @@
    "state": "AL",
    "title": "GSA is seeking expressions of interest in Florence, AL",
    "type": "Presolicitation"
+  },
+  "9dbe82ca115549f08a2e39f2fcc6fa70": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Brunswick",
+   "deadline": "2026-11-19",
+   "firstSeen": "2026-10-29",
+   "id": "9dbe82ca115549f08a2e39f2fcc6fa70",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/9dbe82ca115549f08a2e39f2fcc6fa70/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "melissa.hein@gsa.gov",
+    "name": "Melissa Hein - PRAA-C",
+    "phone": "2123261064"
+   },
+   "posted": "2026-10-28",
+   "setAside": "",
+   "solnum": "0GA2194",
+   "state": "GA",
+   "title": "General Services Administration (GSA) seeks to lease office space in Brunswick, GA",
+   "type": "Solicitation"
   },
   "9e8217eea0244d618cdd07058250ef88": {
    "active": true,
@@ -2762,6 +2851,30 @@
    "state": "OR",
    "title": "General Services Administration (GSA) seeks to lease office space in Portland, OR",
    "type": "Solicitation"
+  },
+  "b1da2089de7c4111ade95c09e288bd19": {
+   "active": true,
+   "awardAmount": "48099711.60",
+   "awardee": "MFS FREDERICK LLC",
+   "city": "",
+   "deadline": "",
+   "firstSeen": "2026-10-29",
+   "id": "b1da2089de7c4111ade95c09e288bd19",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/b1da2089de7c4111ade95c09e288bd19/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "gerrit.voogt@gsa.gov",
+    "name": "Gerrit Voogt",
+    "phone": "2028054423"
+   },
+   "posted": "2026-10-28",
+   "setAside": "No Set aside used",
+   "solnum": "3MD0426",
+   "state": "",
+   "title": "General Services Administration (GSA) seeks to lease space in Frederick, MD",
+   "type": "Award Notice"
   },
   "b7ad1e32a63849d2b15dd9b024dda053": {
    "active": true,
@@ -3782,7 +3895,6 @@
    "deadline": "2026-11-10",
    "firstSeen": "2026-10-28",
    "id": "e8414219de54459b90564ad9d02a6a84",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/e8414219de54459b90564ad9d02a6a84/view",
    "naics": "",
    "office": "Pbs Office Of Leasing",
@@ -4155,5 +4267,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-28T13:46:43+00:00"
+ "updated": "2026-10-29T13:49:49+00:00"
 }
