@@ -230,6 +230,30 @@
    "title": "X1GZ--REQUEST FOR LEASE PROPOSAL: Warehouse - Las Vegas, Nevada",
    "type": "Combined Synopsis/Solicitation"
   },
+  "28eb3daea92e44479a12c0011b608e00": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "31180",
+   "deadline": "2026-11-10",
+   "firstSeen": "2026-10-30",
+   "id": "28eb3daea92e44479a12c0011b608e00",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/28eb3daea92e44479a12c0011b608e00/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "miranda.kloeppel@va.gov",
+    "name": "Miranda Kloeppel",
+    "phone": ""
+   },
+   "posted": "2026-10-29",
+   "setAside": "No Set aside used",
+   "solnum": "36C24W27R0001",
+   "state": "MT",
+   "title": "Helena Sleep Lab",
+   "type": "Sources Sought"
+  },
   "290c7b23d9e3447989256b540661a548": {
    "active": true,
    "awardAmount": "",
@@ -1022,7 +1046,6 @@
    "deadline": "2026-11-15",
    "firstSeen": "2026-10-29",
    "id": "66928a2e23c9428c87a0d33e22c0d19f",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/66928a2e23c9428c87a0d33e22c0d19f/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -1807,7 +1830,6 @@
    "deadline": "2026-11-16",
    "firstSeen": "2026-10-29",
    "id": "c53a8f74c67b4ac18360924b25fae71b",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/c53a8f74c67b4ac18360924b25fae71b/view",
    "naics": "531120",
    "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
@@ -2606,5 +2628,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-10-29T13:49:48+00:00"
+ "updated": "2026-10-30T13:50:09+00:00"
 }

@@ -94,6 +94,30 @@
    "title": "FAA Furniture Removal and Disposal New York",
    "type": "Justification"
   },
+  "061f7a24b3b9447a887d75f226232165": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Kansas City",
+   "deadline": "2026-11-12",
+   "firstSeen": "2026-10-30",
+   "id": "061f7a24b3b9447a887d75f226232165",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/061f7a24b3b9447a887d75f226232165/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "frank.whiting@gsa.gov",
+    "name": "Frank Whiting",
+    "phone": "8164464909"
+   },
+   "posted": "2026-10-29",
+   "setAside": "",
+   "solnum": "4MO0344",
+   "state": "MO",
+   "title": "Lease Space in Kansas City, MO",
+   "type": "Sources Sought"
+  },
   "0692970f3cdb4d0bae1c8351c3ecdd65": {
    "active": true,
    "awardAmount": "",
@@ -688,7 +712,6 @@
    "deadline": "",
    "firstSeen": "2026-10-29",
    "id": "2048dbf0579042dda23c918588437edd",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/2048dbf0579042dda23c918588437edd/view",
    "naics": "531120",
    "office": "Pbs R1 Office Of Leasing",
@@ -993,7 +1016,6 @@
    "deadline": "",
    "firstSeen": "2026-10-29",
    "id": "2ce1f5ccb93a4d2584dd4a54ba9f0906",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/2ce1f5ccb93a4d2584dd4a54ba9f0906/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1088,7 +1110,6 @@
    "deadline": "2026-11-04",
    "firstSeen": "2026-10-29",
    "id": "2eb90d0341204657ab70fb10945c096e",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/2eb90d0341204657ab70fb10945c096e/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2285,6 +2306,30 @@
    "title": "Seeking Competitive Lease Proposals \u2013- Management Hub Office Space -- in in Atlanta, GA - Request for Lease Proposals No. 26NAT02",
    "type": "Combined Synopsis/Solicitation"
   },
+  "8cc7e0afe1744c5c8da19bdb993bd4fb": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Caldwell",
+   "deadline": "",
+   "firstSeen": "2026-10-30",
+   "id": "8cc7e0afe1744c5c8da19bdb993bd4fb",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/8cc7e0afe1744c5c8da19bdb993bd4fb/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "frank.whiting@gsa.gov",
+    "name": "Frank Whiting",
+    "phone": "8164464909"
+   },
+   "posted": "2026-10-29",
+   "setAside": "",
+   "solnum": "3ID0148",
+   "state": "ID",
+   "title": "JOFOC for Caldwell, ID",
+   "type": "Justification"
+  },
   "8e080f81ff134c95ac44d6c8b30c9a8c": {
    "active": true,
    "awardAmount": "",
@@ -2352,6 +2397,54 @@
    "solnum": "6MI0302",
    "state": "MI",
    "title": "U.S. Government Seeks to Lease Office and Related Space in Battle Creek, MI",
+   "type": "Presolicitation"
+  },
+  "8f8feec2ad214ccf8062e2314095eac6": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-11-06",
+   "firstSeen": "2026-10-30",
+   "id": "8f8feec2ad214ccf8062e2314095eac6",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/8f8feec2ad214ccf8062e2314095eac6/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "gerrit.voogt@gsa.gov",
+    "name": "Gerrit Voogt",
+    "phone": "2028054423"
+   },
+   "posted": "2026-10-29",
+   "setAside": "No Set aside used",
+   "solnum": "4NJ0327",
+   "state": "",
+   "title": "US Government seeks to Lease Office Space in Parsippany, NJ",
+   "type": "Presolicitation"
+  },
+  "90a98cae353a466d99a0e96184799d6f": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Miami",
+   "deadline": "2026-11-09",
+   "firstSeen": "2026-10-30",
+   "id": "90a98cae353a466d99a0e96184799d6f",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/90a98cae353a466d99a0e96184799d6f/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "bradford.seifert@gsa.gov",
+    "name": "Brad Seifert",
+    "phone": "2026524192"
+   },
+   "posted": "2026-10-29",
+   "setAside": "No Set aside used",
+   "solnum": "3FL0529",
+   "state": "FL",
+   "title": "General Services Administration (GSA) seeks to lease the following space in Miami, FL: Solicitation No. 3FL0529",
    "type": "Presolicitation"
   },
   "9368ed9a4d7849c7b545a05e0e86438e": {
@@ -2621,7 +2714,6 @@
    "deadline": "2026-11-19",
    "firstSeen": "2026-10-29",
    "id": "9dbe82ca115549f08a2e39f2fcc6fa70",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/9dbe82ca115549f08a2e39f2fcc6fa70/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2660,6 +2752,54 @@
    "state": "MS",
    "title": "General Services Administration (GSA) Seeks Leased Space in Vicksburg, MS",
    "type": "Presolicitation"
+  },
+  "a21649c5916b4798a4b8a1764df55bc8": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "4948",
+   "deadline": "2026-11-09",
+   "firstSeen": "2026-10-30",
+   "id": "a21649c5916b4798a4b8a1764df55bc8",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/a21649c5916b4798a4b8a1764df55bc8/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "paul.koch@gsa.gov",
+    "name": "Paul Koch",
+    "phone": "2122649388"
+   },
+   "posted": "2026-10-29",
+   "setAside": "",
+   "solnum": "6OR0247",
+   "state": "OR",
+   "title": "Lease of Office Space. Request for Lease Proposals (RLP) #26NAT01 - Office Space",
+   "type": "Combined Synopsis/Solicitation"
+  },
+  "a290d55b656c4e9dbe2278b8f4ae7306": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-11-23",
+   "firstSeen": "2026-10-30",
+   "id": "a290d55b656c4e9dbe2278b8f4ae7306",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/a290d55b656c4e9dbe2278b8f4ae7306/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "william.korchak@gsa.gov",
+    "name": "William Korchak",
+    "phone": "2128125818"
+   },
+   "posted": "2026-10-29",
+   "setAside": "",
+   "solnum": "4NJ0299-1",
+   "state": "",
+   "title": "SOLICITATION: RLP PACKAGE: The Government is seeking to lease office and related space in FT. LEE, NEW JERSEY for a minimum of 25,939 ANSI/BOMA (ABOA) to a maximum of 27,233 ABOA square feet.",
+   "type": "Solicitation"
   },
   "a31b880a104a49e5888bb29c2b537493": {
    "active": true,
@@ -2860,7 +3000,6 @@
    "deadline": "",
    "firstSeen": "2026-10-29",
    "id": "b1da2089de7c4111ade95c09e288bd19",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/b1da2089de7c4111ade95c09e288bd19/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -3579,6 +3718,30 @@
    "title": "U.S. Government Request for Information (RFI) for Office and Related Space in Kalamazoo-Battle Creek-Portage, MI",
    "type": "Special Notice"
   },
+  "d61382395ae64bf990c9eb885e056b2c": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Miami",
+   "deadline": "2026-11-20",
+   "firstSeen": "2026-10-30",
+   "id": "d61382395ae64bf990c9eb885e056b2c",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/d61382395ae64bf990c9eb885e056b2c/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "bryant.porter@gsa.gov",
+    "name": "Bryant Porter - PRAA-C",
+    "phone": "2026248515"
+   },
+   "posted": "2026-10-29",
+   "setAside": "No Set aside used",
+   "solnum": "6FL0619",
+   "state": "FL",
+   "title": "General Services Administration (GSA) seeks to lease the following space in Miami, FL:",
+   "type": "Solicitation"
+  },
   "d63dbd59a9b64e21983b76a6fd7a9072": {
    "active": true,
    "awardAmount": "",
@@ -3672,6 +3835,30 @@
    "state": "DC",
    "title": "US Government Seeks Office and Related Space in Washington, D.C.",
    "type": "Presolicitation"
+  },
+  "da56c8df12d44797bbcbaca0d5a6a0eb": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "New York",
+   "deadline": "",
+   "firstSeen": "2026-10-30",
+   "id": "da56c8df12d44797bbcbaca0d5a6a0eb",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/da56c8df12d44797bbcbaca0d5a6a0eb/view",
+   "naics": "531120",
+   "office": "Pbs R2 Office Of Leasing",
+   "poc": {
+    "email": "laurence.Wendorf@gsa.gov",
+    "name": "Laurence Wendorf",
+    "phone": ""
+   },
+   "posted": "2026-10-29",
+   "setAside": "",
+   "solnum": "5NY0727",
+   "state": "NY",
+   "title": "5NY0727- Redacted Justification - Justification and Approval (J&A)",
+   "type": "Justification"
   },
   "dadef03408094b1f83dc3b75008cb1ce": {
    "active": true,
@@ -3908,6 +4095,30 @@
    "solnum": "5MD0504",
    "state": "MD",
    "title": "Presolicitation for Leased Space in Baltimore, MD",
+   "type": "Presolicitation"
+  },
+  "e919dc828dd348d99fd1665027c8395a": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Albuquerque",
+   "deadline": "2026-11-18",
+   "firstSeen": "2026-10-30",
+   "id": "e919dc828dd348d99fd1665027c8395a",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/e919dc828dd348d99fd1665027c8395a/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "jason.lichty@gsa.gov",
+    "name": "Jason Lichty",
+    "phone": "9727392213"
+   },
+   "posted": "2026-10-29",
+   "setAside": "",
+   "solnum": "3NM0205",
+   "state": "NM",
+   "title": "U.S. GOVERNMENT WANTS TO LEASE OFFICE SPACE IN ALBUQUERQUE, NM",
    "type": "Presolicitation"
   },
   "e93f5dc170ca48da8f12076b08d2df29": {
@@ -4267,5 +4478,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-29T13:49:49+00:00"
+ "updated": "2026-10-30T13:50:10+00:00"
 }
