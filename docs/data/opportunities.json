@@ -238,7 +238,6 @@
    "deadline": "2026-11-10",
    "firstSeen": "2026-10-30",
    "id": "28eb3daea92e44479a12c0011b608e00",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/28eb3daea92e44479a12c0011b608e00/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -784,6 +783,30 @@
    "state": "WA",
    "title": "Succeeding Lease - Bellingham, WA Vet Center",
    "type": "Award Notice"
+  },
+  "528e836a05c94fa388dc11534a7a57e1": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Albuqueque",
+   "deadline": "2026-11-12",
+   "firstSeen": "2026-11-02",
+   "id": "528e836a05c94fa388dc11534a7a57e1",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/528e836a05c94fa388dc11534a7a57e1/view",
+   "naics": "325120",
+   "office": "262-Network Contract Office 22 (36C262)",
+   "poc": {
+    "email": "naomi.meza@va.gov",
+    "name": "Naomi Meza",
+    "phone": "(520) 792-1450 x 13785"
+   },
+   "posted": "2026-10-30",
+   "setAside": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
+   "solnum": "36C26227Q0029",
+   "state": "NM",
+   "title": "W091--NMVAHCS Nitrogen Compressed Lease and Supply 2026-2031",
+   "type": "Combined Synopsis/Solicitation"
   },
   "542dc67ecc76411e87e5944b701862f9": {
    "active": true,
@@ -2628,5 +2651,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-10-30T13:50:09+00:00"
+ "updated": "2026-11-02T14:00:09+00:00"
 }

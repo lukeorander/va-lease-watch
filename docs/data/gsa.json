@@ -102,7 +102,6 @@
    "deadline": "2026-11-12",
    "firstSeen": "2026-10-30",
    "id": "061f7a24b3b9447a887d75f226232165",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/061f7a24b3b9447a887d75f226232165/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2314,7 +2313,6 @@
    "deadline": "",
    "firstSeen": "2026-10-30",
    "id": "8cc7e0afe1744c5c8da19bdb993bd4fb",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/8cc7e0afe1744c5c8da19bdb993bd4fb/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2407,7 +2405,6 @@
    "deadline": "2026-11-06",
    "firstSeen": "2026-10-30",
    "id": "8f8feec2ad214ccf8062e2314095eac6",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/8f8feec2ad214ccf8062e2314095eac6/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2431,7 +2428,6 @@
    "deadline": "2026-11-09",
    "firstSeen": "2026-10-30",
    "id": "90a98cae353a466d99a0e96184799d6f",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/90a98cae353a466d99a0e96184799d6f/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2761,7 +2757,6 @@
    "deadline": "2026-11-09",
    "firstSeen": "2026-10-30",
    "id": "a21649c5916b4798a4b8a1764df55bc8",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/a21649c5916b4798a4b8a1764df55bc8/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2785,7 +2780,6 @@
    "deadline": "2026-11-23",
    "firstSeen": "2026-10-30",
    "id": "a290d55b656c4e9dbe2278b8f4ae7306",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/a290d55b656c4e9dbe2278b8f4ae7306/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -3388,6 +3382,30 @@
    "title": "General Services Administration (GSA) seeks to lease the following space:",
    "type": "Solicitation"
   },
+  "c8157d8e6a1a4c2484104758cfd72456": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Raleigh",
+   "deadline": "2026-11-06",
+   "firstSeen": "2026-11-02",
+   "id": "c8157d8e6a1a4c2484104758cfd72456",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/c8157d8e6a1a4c2484104758cfd72456/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "erik.weiss@gsa.gov",
+    "name": "Erik Weiss",
+    "phone": "4045040018"
+   },
+   "posted": "2026-10-30",
+   "setAside": "",
+   "solnum": "6NC0185",
+   "state": "NC",
+   "title": "6NC0185 General Services Administration (GSA) seeks to lease 3,500 SQ FT of warehouse space in Raleigh, NC",
+   "type": "Presolicitation"
+  },
   "c8fc8bb0f7ea48f6a27701504adbea9f": {
    "active": true,
    "awardAmount": "",
@@ -3726,7 +3744,6 @@
    "deadline": "2026-11-20",
    "firstSeen": "2026-10-30",
    "id": "d61382395ae64bf990c9eb885e056b2c",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/d61382395ae64bf990c9eb885e056b2c/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -3844,7 +3861,6 @@
    "deadline": "",
    "firstSeen": "2026-10-30",
    "id": "da56c8df12d44797bbcbaca0d5a6a0eb",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/da56c8df12d44797bbcbaca0d5a6a0eb/view",
    "naics": "531120",
    "office": "Pbs R2 Office Of Leasing",
@@ -4105,7 +4121,6 @@
    "deadline": "2026-11-18",
    "firstSeen": "2026-10-30",
    "id": "e919dc828dd348d99fd1665027c8395a",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/e919dc828dd348d99fd1665027c8395a/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -4478,5 +4493,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-10-30T13:50:10+00:00"
+ "updated": "2026-11-02T14:00:10+00:00"
 }
