@@ -792,7 +792,6 @@
    "deadline": "2026-11-12",
    "firstSeen": "2026-11-02",
    "id": "528e836a05c94fa388dc11534a7a57e1",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/528e836a05c94fa388dc11534a7a57e1/view",
    "naics": "325120",
    "office": "262-Network Contract Office 22 (36C262)",
@@ -2651,5 +2650,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-02T14:00:09+00:00"
+ "updated": "2026-11-03T14:00:29+00:00"
 }
