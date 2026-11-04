@@ -757,7 +757,6 @@
    "deadline": "",
    "firstSeen": "2026-11-03",
    "id": "21e6d14bdc064ce3b6ab2b99c129ff3d",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/21e6d14bdc064ce3b6ab2b99c129ff3d/view",
    "naics": "531120",
    "office": "Pbs R7 Office Of Leasing",
@@ -992,7 +991,6 @@
    "deadline": "2026-11-23",
    "firstSeen": "2026-11-03",
    "id": "29e406cf282045119b53675b03981fda",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/29e406cf282045119b53675b03981fda/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -1196,6 +1194,30 @@
    "title": "General Services Administration (GSA) seeks to lease the following space:",
    "type": "Presolicitation"
   },
+  "345c594abb5844e3be9fbd415549d84d": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "State College",
+   "deadline": "2026-11-16",
+   "firstSeen": "2026-11-04",
+   "id": "345c594abb5844e3be9fbd415549d84d",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/345c594abb5844e3be9fbd415549d84d/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "Nicholas.klein@gsa.gov",
+    "name": "Nick Klein",
+    "phone": "2672536038"
+   },
+   "posted": "2026-11-04",
+   "setAside": "No Set aside used",
+   "solnum": "5PA0440",
+   "state": "PA",
+   "title": "Notice of Intent to Lease Office Space Using Other Than Full And Open Competition",
+   "type": "Presolicitation"
+  },
   "35003d5ffa3c4a938eb9f14c4144287b": {
    "active": true,
    "awardAmount": "235597.00",
@@ -1273,7 +1295,6 @@
    "deadline": "2026-11-27",
    "firstSeen": "2026-11-03",
    "id": "3748da05a9f94d64a1616bff981a2087",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/3748da05a9f94d64a1616bff981a2087/view",
    "naics": "531",
    "office": "Pbs Office Of Leasing",
@@ -1581,7 +1602,6 @@
    "deadline": "2026-11-23",
    "firstSeen": "2026-11-03",
    "id": "4bbf50953df2450e9d150a0ae572b765",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/4bbf50953df2450e9d150a0ae572b765/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1619,6 +1639,30 @@
    "state": "CA",
    "title": "US Government Award Lease in San Diego, CA",
    "type": "Award Notice"
+  },
+  "4f82a761c02f49ec8885e03e23f6c01d": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Saint George",
+   "deadline": "",
+   "firstSeen": "2026-11-04",
+   "id": "4f82a761c02f49ec8885e03e23f6c01d",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/4f82a761c02f49ec8885e03e23f6c01d/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "frank.whiting@gsa.gov",
+    "name": "Frank Whiting",
+    "phone": "8164464909"
+   },
+   "posted": "2026-11-03",
+   "setAside": "",
+   "solnum": "3UT0203",
+   "state": "UT",
+   "title": "JOFOC for St. George, UT",
+   "type": "Justification"
   },
   "50c43edb07bb465292bff64a82474b22": {
    "active": true,
@@ -1982,7 +2026,6 @@
    "deadline": "",
    "firstSeen": "2026-11-03",
    "id": "6a8ed40c76ad42448dcacd78478511f5",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/6a8ed40c76ad42448dcacd78478511f5/view",
    "naics": "531120",
    "office": "Pbs R5 Office Of Leasing",
@@ -2006,7 +2049,6 @@
    "deadline": "2026-12-04",
    "firstSeen": "2026-11-03",
    "id": "6b950d8814d84af580eb0080d85afe39",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/6b950d8814d84af580eb0080d85afe39/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2257,6 +2299,30 @@
    "solnum": "3MA0242",
    "state": "MA",
    "title": "United States Government Seeks To Lease Office Space In Taunton, MA",
+   "type": "Presolicitation"
+  },
+  "826f3d18a8504e6ab0a4b53f03d0ec02": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Davenport",
+   "deadline": "2026-11-17",
+   "firstSeen": "2026-11-04",
+   "id": "826f3d18a8504e6ab0a4b53f03d0ec02",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/826f3d18a8504e6ab0a4b53f03d0ec02/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "Nicholas.Zabelin@gsa.gov",
+    "name": "Nicholas Zabelin, Broker Contractor - Carpenter/Robbins Commercial Real Estate, Inc.",
+    "phone": "(925) 790-2124"
+   },
+   "posted": "2026-11-03",
+   "setAside": "",
+   "solnum": "4IA0158",
+   "state": "IA",
+   "title": "General Services Administration (GSA) seeks to lease office space in Davenport, IA",
    "type": "Presolicitation"
   },
   "82c27ebf2fb84c7880431fa596ca4313": {
@@ -2846,6 +2912,30 @@
    "title": "GSA is seeking expressions of interest in Florence, AL",
    "type": "Presolicitation"
   },
+  "9adc6bb35996488da3f957b948d74b3a": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "4672",
+   "deadline": "2026-11-17",
+   "firstSeen": "2026-11-04",
+   "id": "9adc6bb35996488da3f957b948d74b3a",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/9adc6bb35996488da3f957b948d74b3a/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "bruce.keyes@gsa.gov",
+    "name": "Bruce Keyes",
+    "phone": "7192375740"
+   },
+   "posted": "2026-11-03",
+   "setAside": "No Set aside used",
+   "solnum": "4CO0563",
+   "state": "CO",
+   "title": "The General Services Administration (GSA) is seeking office space in Aurora, CO",
+   "type": "Presolicitation"
+  },
   "9dbe82ca115549f08a2e39f2fcc6fa70": {
    "active": true,
    "awardAmount": "",
@@ -2994,7 +3084,6 @@
    "deadline": "",
    "firstSeen": "2026-11-03",
    "id": "a71039782f8844faa24986da016435a7",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/a71039782f8844faa24986da016435a7/view",
    "naics": "531190",
    "office": "Pbs R7 Office Of Leasing",
@@ -3185,7 +3274,6 @@
    "deadline": "2026-11-12",
    "firstSeen": "2026-11-03",
    "id": "b2629ebae643498c9494f78e0ce2d0ed",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/b2629ebae643498c9494f78e0ce2d0ed/view",
    "naics": "531120",
    "office": "Pbs R2 Office Of Leasing",
@@ -3194,12 +3282,36 @@
     "name": "Jessica M. Delossantos-Punter",
     "phone": ""
    },
-   "posted": "2026-11-02",
+   "posted": "2026-11-03",
    "setAside": "No Set aside used",
    "solnum": "7NY2703_",
    "state": "NY",
    "title": "Presolicitation notice - Monticello, NY",
    "type": "Presolicitation"
+  },
+  "b7941b2414cb4a3f9cc16733800845dc": {
+   "active": true,
+   "awardAmount": "1065330.00",
+   "awardee": "STATE MACHINERY & EQUIPMENT SALES INC",
+   "city": "",
+   "deadline": "",
+   "firstSeen": "2026-11-04",
+   "id": "b7941b2414cb4a3f9cc16733800845dc",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/b7941b2414cb4a3f9cc16733800845dc/view",
+   "naics": "531120",
+   "office": "Pbs R7 Office Of Leasing",
+   "poc": {
+    "email": "quentin.horn@gsa.gov",
+    "name": "Quentin Horn",
+    "phone": "8179780031"
+   },
+   "posted": "2026-11-03",
+   "setAside": "",
+   "solnum": "2LA0294",
+   "state": "",
+   "title": "General Services Administration (GSA) Lease: Office Space Slidell, Louisiana",
+   "type": "Award Notice"
   },
   "b7ad1e32a63849d2b15dd9b024dda053": {
    "active": true,
@@ -3326,7 +3438,6 @@
    "deadline": "2026-11-09",
    "firstSeen": "2026-11-03",
    "id": "b9e85521a2454072951b7213cb0ef349",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/b9e85521a2454072951b7213cb0ef349/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -3456,6 +3567,54 @@
    "state": "TX",
    "title": "General Services Administration (GSA) Seeks to lease the following space: Solicitation No. 4TX1001",
    "type": "Presolicitation"
+  },
+  "c00b2e823cf74966bb2f6b505c33c3f1": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "",
+   "firstSeen": "2026-11-04",
+   "id": "c00b2e823cf74966bb2f6b505c33c3f1",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/c00b2e823cf74966bb2f6b505c33c3f1/view",
+   "naics": "531120",
+   "office": "Pbs R7 Office Of Leasing",
+   "poc": {
+    "email": "Chantal.wells@gsa.gov",
+    "name": "Chantal Wells",
+    "phone": ""
+   },
+   "posted": "2026-11-03",
+   "setAside": "",
+   "solnum": "3AR0197",
+   "state": "AR",
+   "title": "General Services Administration Lease: Office Space Jonesboro, Arkansas",
+   "type": "Justification"
+  },
+  "c06f3c310567458f9fa6287e027e798b": {
+   "active": true,
+   "awardAmount": "14939649.85",
+   "awardee": "LOOP REAL ESTATE CORP",
+   "city": "Chelmsford",
+   "deadline": "",
+   "firstSeen": "2026-11-04",
+   "id": "c06f3c310567458f9fa6287e027e798b",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/c06f3c310567458f9fa6287e027e798b/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "matthew.bartlett@gsa.gov",
+    "name": "Matt Bartlett",
+    "phone": "7038526208"
+   },
+   "posted": "2026-11-03",
+   "setAside": "",
+   "solnum": "3MA0228",
+   "state": "MA",
+   "title": "Award Notice - The Government is seeking 15,000 ANSI BOMA Sq Ft of office/warehouse space in Bedford, MA; Burlington, MA; Billerica, MA; Chelmsford, MA; Tewksbury, MA",
+   "type": "Award Notice"
   },
   "c3461563b2b94dbca9f7535aecf6a325": {
    "active": true,
@@ -3856,6 +4015,30 @@
    "title": "General Services Administration Lease: Lessors of Other Real Estate Property Opelousas, Louisiana",
    "type": "Award Notice"
   },
+  "d3a53318b6c84246bfd4107dfcd32e69": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Linthicum Heights",
+   "deadline": "2026-11-24",
+   "firstSeen": "2026-11-04",
+   "id": "d3a53318b6c84246bfd4107dfcd32e69",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/d3a53318b6c84246bfd4107dfcd32e69/view",
+   "naics": "53112",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "morgan.thomas@gsa.gov",
+    "name": "Morgan Thomas",
+    "phone": ""
+   },
+   "posted": "2026-11-03",
+   "setAside": "",
+   "solnum": "5MD0499",
+   "state": "MD",
+   "title": "The Government is seeking to lease office and related space in Linthicum Heights, MD for a minimum of 25,549 ANSI/BOMA Office Area (ABOA) to a maximum of 26,826 ABOA square feet.",
+   "type": "Presolicitation"
+  },
   "d3d92d6754704125a31461ac20c4c015": {
    "active": true,
    "awardAmount": "",
@@ -3926,6 +4109,30 @@
    "state": "NC",
    "title": "Notice of Intent to renew Lease # LNC60404",
    "type": "Special Notice"
+  },
+  "d4d8fee0431e4070a191013eed753f11": {
+   "active": true,
+   "awardAmount": "2529260.72",
+   "awardee": "CROWN AUTO PROPERTIES II, LLC",
+   "city": "Alton",
+   "deadline": "",
+   "firstSeen": "2026-11-04",
+   "id": "d4d8fee0431e4070a191013eed753f11",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/d4d8fee0431e4070a191013eed753f11/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "clarissa.mahoney@gsa.gov",
+    "name": "Clarissa Mahoney",
+    "phone": "312-888-6581"
+   },
+   "posted": "2026-11-03",
+   "setAside": "",
+   "solnum": "0IL2403",
+   "state": "IL",
+   "title": "Lease Award for (5,100 RSF) in Alton, IL",
+   "type": "Award Notice"
   },
   "d57affa4b90c4709bdf747cfaa66d1e8": {
    "active": true,
@@ -4005,7 +4212,6 @@
    "deadline": "",
    "firstSeen": "2026-11-03",
    "id": "d63f7ac54ce342d4b82cfaae7e79933d",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/d63f7ac54ce342d4b82cfaae7e79933d/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -4421,6 +4627,30 @@
    "title": "General Services Administration (GSA) Lease: Office Space FOREST, MISSISSIPPI",
    "type": "Presolicitation"
   },
+  "ea99411dd4a44f788526ea1ab45fe9fa": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Egg Harbor City",
+   "deadline": "2026-11-10",
+   "firstSeen": "2026-11-04",
+   "id": "ea99411dd4a44f788526ea1ab45fe9fa",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/ea99411dd4a44f788526ea1ab45fe9fa/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "Nicholas.klein@gsa.gov",
+    "name": "Nick Klein",
+    "phone": "2672536038"
+   },
+   "posted": "2026-11-03",
+   "setAside": "No Set aside used",
+   "solnum": "4NJ0304",
+   "state": "NJ",
+   "title": "Notice of Intent to Lease Office Space Using Other Than Full And Open Competition",
+   "type": "Presolicitation"
+  },
   "eaf5e18eda064bc1bbf5397e8e04d21f": {
    "active": true,
    "awardAmount": "",
@@ -4429,7 +4659,6 @@
    "deadline": "",
    "firstSeen": "2026-11-03",
    "id": "eaf5e18eda064bc1bbf5397e8e04d21f",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/eaf5e18eda064bc1bbf5397e8e04d21f/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -4549,7 +4778,6 @@
    "deadline": "",
    "firstSeen": "2026-11-03",
    "id": "f085bf9176ea49e19ef2ffbf31a27a64",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/f085bf9176ea49e19ef2ffbf31a27a64/view",
    "naics": "531120",
    "office": "Pbs R2 Office Of Leasing",
@@ -4667,7 +4895,6 @@
    "deadline": "2026-11-13",
    "firstSeen": "2026-11-03",
    "id": "f6944ca3bed5434685f7a86009f082b5",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/f6944ca3bed5434685f7a86009f082b5/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -4755,6 +4982,30 @@
    "title": "Redacted JOTFOC - 18,887 ABOA SF / 21,550 RSF of office and related space",
    "type": "Justification"
   },
+  "fc0b293ae9ae4134bc6e2770211f7e4b": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Hattiesburg",
+   "deadline": "2026-11-09",
+   "firstSeen": "2026-11-04",
+   "id": "fc0b293ae9ae4134bc6e2770211f7e4b",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/fc0b293ae9ae4134bc6e2770211f7e4b/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "tyrekca.miller@gsa.gov",
+    "name": "Tyrekca Miller",
+    "phone": "6786409097"
+   },
+   "posted": "2026-11-04",
+   "setAside": "",
+   "solnum": "3MS0155",
+   "state": "MS",
+   "title": "Government seeking office space in Hattiesburg, MS",
+   "type": "Presolicitation"
+  },
   "fdd5dd80e0134b469a1668d4a8f7a965": {
    "active": true,
    "awardAmount": "",
@@ -4804,5 +5055,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-03T14:00:30+00:00"
+ "updated": "2026-11-04T13:59:19+00:00"
 }

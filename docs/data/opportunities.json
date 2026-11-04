@@ -1475,6 +1475,30 @@
    "title": "Sources Sought - Gainesville IRMS",
    "type": "Sources Sought"
   },
+  "894a17ef73b549989f61f7e9aadd4f56": {
+   "active": true,
+   "awardAmount": "23531044.24",
+   "awardee": "RISE COMPANIES, LLC",
+   "city": "Warren",
+   "deadline": "",
+   "firstSeen": "2026-11-04",
+   "id": "894a17ef73b549989f61f7e9aadd4f56",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/894a17ef73b549989f61f7e9aadd4f56/view",
+   "naics": "531120",
+   "office": "250-Network Contract Office 10 (36C250)",
+   "poc": {
+    "email": "brian.walton@va.gov",
+    "name": "Brian Walton",
+    "phone": "216-447-8300 x 49519"
+   },
+   "posted": "2026-11-03",
+   "setAside": "No Set aside used",
+   "solnum": "36C25026L0008",
+   "state": "OH",
+   "title": "RLP 36C25026R0034- Warren, Ohio - Award Notice",
+   "type": "Award Notice"
+  },
   "895fddce67534daaaf9cb2fbe3cfb902": {
    "active": true,
    "awardAmount": "",
@@ -1497,6 +1521,30 @@
    "state": "",
    "title": "X1DB-- Katy TX OPC 175,306 ANSI/BOMA 197,219 RSF Amendment 3",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "90445e515c1344f89aa99f8c2833eb7f": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Richland Hills",
+   "deadline": "2026-11-20",
+   "firstSeen": "2026-11-04",
+   "id": "90445e515c1344f89aa99f8c2833eb7f",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/90445e515c1344f89aa99f8c2833eb7f/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "Tashia.Marsh@va.gov",
+    "name": "TaShia Marsh-Brown",
+    "phone": ""
+   },
+   "posted": "2026-11-04",
+   "setAside": "",
+   "solnum": "36C24W26R0055",
+   "state": "TX",
+   "title": "New Lease for VA Clinic (CBOC) Tarrant County, Texas",
+   "type": "Solicitation"
   },
   "909e060421ad41c6917d0f43f1ec19bb": {
    "active": true,
@@ -1613,6 +1661,30 @@
    "title": "Santa Ana Mental Health Annex 2 Award Notice",
    "type": "Award Notice"
   },
+  "a7f1ae9684b145acbbade9c3a111f07d": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Hampton",
+   "deadline": "2026-11-12",
+   "firstSeen": "2026-11-04",
+   "id": "a7f1ae9684b145acbbade9c3a111f07d",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/a7f1ae9684b145acbbade9c3a111f07d/view",
+   "naics": "532490",
+   "office": "246-Network Contracting Office 6 (36C246)",
+   "poc": {
+    "email": "ruth.morris@va.gov",
+    "name": "Ruth Morris",
+    "phone": "757-251-4296"
+   },
+   "posted": "2026-11-03",
+   "setAside": "",
+   "solnum": "36C24627Q0107",
+   "state": "",
+   "title": "W065--AMIA CYCLER LEASE DIALYSIS",
+   "type": "Presolicitation"
+  },
   "a8492af993d148cba974dbe9c74fec1b": {
    "active": true,
    "awardAmount": "",
@@ -1635,6 +1707,30 @@
    "state": "",
    "title": "X1DB--Department of Veterans Affairs HISTORIC REUSE OPPORTUNITY Robley Rex VAMC located in Louisville, KY Amendment for EXTENSION",
    "type": "Sources Sought"
+  },
+  "ac5e40cc4a7c4eb6b783d88714262f35": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2027-02-02",
+   "firstSeen": "2026-11-04",
+   "id": "ac5e40cc4a7c4eb6b783d88714262f35",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/ac5e40cc4a7c4eb6b783d88714262f35/view",
+   "naics": "531120",
+   "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
+   "poc": {
+    "email": "JAMES@DHCRES.COM",
+    "name": "James Cassidy",
+    "phone": "Office:  (917) 633-8116"
+   },
+   "posted": "2026-11-03",
+   "setAside": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
+   "solnum": "36C10F26R0088",
+   "state": "",
+   "title": "X1DB--Macon GA Health Care Clinic HCC 168,332 ANSI/BOMA",
+   "type": "Combined Synopsis/Solicitation"
   },
   "b067a24046374cc982d3b5b799a85dcc": {
    "active": true,
@@ -2650,5 +2746,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-03T14:00:29+00:00"
+ "updated": "2026-11-04T13:59:18+00:00"
 }
