@@ -230,6 +230,54 @@
    "title": "X1GZ--REQUEST FOR LEASE PROPOSAL: Warehouse - Las Vegas, Nevada",
    "type": "Combined Synopsis/Solicitation"
   },
+  "231e2f0bc6754a67adecef0c0e4952e3": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Honolulu",
+   "deadline": "2026-11-11",
+   "firstSeen": "2026-11-05",
+   "id": "231e2f0bc6754a67adecef0c0e4952e3",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/231e2f0bc6754a67adecef0c0e4952e3/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "Tseifert@ppwashdc.com",
+    "name": "Teddy Seifert - VA Contracted Broker",
+    "phone": "3158251875"
+   },
+   "posted": "2026-11-04",
+   "setAside": "No Set aside used",
+   "solnum": "36C24W25R0073",
+   "state": "HI",
+   "title": "X1DB - RLP - VA ACC ANNEX | HONOLULU, HI",
+   "type": "Solicitation"
+  },
+  "251e2a47d488458c81ecadcb9a02c2be": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Twin Falls",
+   "deadline": "2026-11-10",
+   "firstSeen": "2026-11-05",
+   "id": "251e2a47d488458c81ecadcb9a02c2be",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/251e2a47d488458c81ecadcb9a02c2be/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "christina.wolf@va.gov",
+    "name": "Christina Wolf",
+    "phone": ""
+   },
+   "posted": "2026-11-04",
+   "setAside": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
+   "solnum": "36C24W26R0017",
+   "state": "ID",
+   "title": "VHA seeking 20,250 RSF for a Community Based Outreach Clinic in Twin Falls, ID",
+   "type": "Solicitation"
+  },
   "28eb3daea92e44479a12c0011b608e00": {
    "active": true,
    "awardAmount": "",
@@ -1483,7 +1531,6 @@
    "deadline": "",
    "firstSeen": "2026-11-04",
    "id": "894a17ef73b549989f61f7e9aadd4f56",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/894a17ef73b549989f61f7e9aadd4f56/view",
    "naics": "531120",
    "office": "250-Network Contract Office 10 (36C250)",
@@ -1530,7 +1577,6 @@
    "deadline": "2026-11-20",
    "firstSeen": "2026-11-04",
    "id": "90445e515c1344f89aa99f8c2833eb7f",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/90445e515c1344f89aa99f8c2833eb7f/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -1669,7 +1715,6 @@
    "deadline": "2026-11-12",
    "firstSeen": "2026-11-04",
    "id": "a7f1ae9684b145acbbade9c3a111f07d",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/a7f1ae9684b145acbbade9c3a111f07d/view",
    "naics": "532490",
    "office": "246-Network Contracting Office 6 (36C246)",
@@ -1716,7 +1761,6 @@
    "deadline": "2027-02-02",
    "firstSeen": "2026-11-04",
    "id": "ac5e40cc4a7c4eb6b783d88714262f35",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/ac5e40cc4a7c4eb6b783d88714262f35/view",
    "naics": "531120",
    "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
@@ -2192,6 +2236,30 @@
    "state": "VA",
    "title": "Request for Lease Proposal for the Fredericksburg Vet Center",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "dce7430ac32a42769066398a441ebe23": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Olympia",
+   "deadline": "2026-12-01",
+   "firstSeen": "2026-11-05",
+   "id": "dce7430ac32a42769066398a441ebe23",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/dce7430ac32a42769066398a441ebe23/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "tpavek@crcre.com",
+    "name": "Timothy Pavek",
+    "phone": "9257902134"
+   },
+   "posted": "2026-11-04",
+   "setAside": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Sole Source (FAR 19.14)",
+   "solnum": "36C24W26R0012",
+   "state": "WA",
+   "title": "Request for Lease Proposals (RLP) for Olympia, WA CBOC",
+   "type": "Solicitation"
   },
   "dd8be1c2df834613add65c602bac14fd": {
    "active": true,
@@ -2746,5 +2814,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-04T13:59:18+00:00"
+ "updated": "2026-11-05T14:08:32+00:00"
 }

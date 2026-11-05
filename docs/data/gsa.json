@@ -1,5 +1,29 @@
 {
  "items": {
+  "0117fdac98f74cccb8a300bcf5522846": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Nashville",
+   "deadline": "2026-11-30",
+   "firstSeen": "2026-11-05",
+   "id": "0117fdac98f74cccb8a300bcf5522846",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/0117fdac98f74cccb8a300bcf5522846/view",
+   "naics": "531110",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "raquel.howard@gsa.gov",
+    "name": "Raquel Howard",
+    "phone": "4045040012"
+   },
+   "posted": "2026-11-04",
+   "setAside": "",
+   "solnum": "8TN2168",
+   "state": "TN",
+   "title": "8TN2168 The US Government Seeks to Lease Office and Related Space in Nashville, TN-Request for Lease Proposal",
+   "type": "Solicitation"
+  },
   "015ef13faba04b9fa0b676162d25e28b": {
    "active": true,
    "awardAmount": "",
@@ -164,6 +188,54 @@
    "title": "General Services Administration (GSA) seeks to lease space in Fort Myers, FL",
    "type": "Presolicitation"
   },
+  "0834e724c43d44f2afb5a56fb6b47e20": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Davie",
+   "deadline": "2026-11-25",
+   "firstSeen": "2026-11-05",
+   "id": "0834e724c43d44f2afb5a56fb6b47e20",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/0834e724c43d44f2afb5a56fb6b47e20/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "timothy.m.mazzucca@gsa.gov",
+    "name": "Tim Mazzucca",
+    "phone": "2026524199"
+   },
+   "posted": "2026-11-04",
+   "setAside": "No Set aside used",
+   "solnum": "9FL2517",
+   "state": "FL",
+   "title": "9FL2517 - General Services seeks to Lease Warehouse Space in Miami, FL",
+   "type": "Solicitation"
+  },
+  "08eada21239c4518b8b9a60ebb4de82a": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Miami",
+   "deadline": "2026-11-25",
+   "firstSeen": "2026-11-05",
+   "id": "08eada21239c4518b8b9a60ebb4de82a",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/08eada21239c4518b8b9a60ebb4de82a/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "bryant.porter@gsa.gov",
+    "name": "Bryant Porter - PRAA-C",
+    "phone": "2026248515"
+   },
+   "posted": "2026-11-04",
+   "setAside": "No Set aside used",
+   "solnum": "6FL0613",
+   "state": "FL",
+   "title": "General Services Administration (GSA) seeks to lease the following space in Miami, FL:",
+   "type": "Solicitation"
+  },
   "0a2b2ecb35d6490f9d223428567b8244": {
    "active": true,
    "awardAmount": "",
@@ -257,6 +329,30 @@
    "state": "MO",
    "title": "General Services Administration (GSA) seeks to lease 383,043 ABOA SF of underground storage space in Independence, MO",
    "type": "Presolicitation"
+  },
+  "0da59422b8a34315a09a13cda746c44b": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "",
+   "firstSeen": "2026-11-05",
+   "id": "0da59422b8a34315a09a13cda746c44b",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/0da59422b8a34315a09a13cda746c44b/view",
+   "naics": "531120",
+   "office": "Pbs R7 Office Of Leasing",
+   "poc": {
+    "email": "don.day@gsa.gov",
+    "name": "Don Day",
+    "phone": "8179787018"
+   },
+   "posted": "2026-11-04",
+   "setAside": "",
+   "solnum": "6Ok0149",
+   "state": "",
+   "title": "General Services Administration (GSA) Lease: Office Space Muskogee, Oklahoma",
+   "type": "Justification"
   },
   "0e57dcd035654749ae958c0c1c266745": {
    "active": true,
@@ -396,6 +492,30 @@
    "solnum": "6CO0558",
    "state": "CO",
    "title": "U.S. Government Seeks to Lease Office Space in Denver, Colorado",
+   "type": "Presolicitation"
+  },
+  "1179001c77624b5496eea526a99a43a4": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Middletown",
+   "deadline": "2026-11-16",
+   "firstSeen": "2026-11-05",
+   "id": "1179001c77624b5496eea526a99a43a4",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/1179001c77624b5496eea526a99a43a4/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "Nicholas.klein@gsa.gov",
+    "name": "Nick Klein",
+    "phone": "2672536038"
+   },
+   "posted": "2026-11-04",
+   "setAside": "No Set aside used",
+   "solnum": "5PA0528",
+   "state": "PA",
+   "title": "Notice of Intent to Lease Office Space Using Other Than Full And Open Competition",
    "type": "Presolicitation"
   },
   "1217fad83c02410480a61dbf5c6bf0de": {
@@ -1202,7 +1322,6 @@
    "deadline": "2026-11-16",
    "firstSeen": "2026-11-04",
    "id": "345c594abb5844e3be9fbd415549d84d",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/345c594abb5844e3be9fbd415549d84d/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1648,7 +1767,6 @@
    "deadline": "",
    "firstSeen": "2026-11-04",
    "id": "4f82a761c02f49ec8885e03e23f6c01d",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/4f82a761c02f49ec8885e03e23f6c01d/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1734,6 +1852,30 @@
    "state": "WA",
    "title": "General Services Administration (GSA) seeks to lease Warehouse, Office, Light Industrial, and Wareyard space in Sumner, WA",
    "type": "Solicitation"
+  },
+  "5492fefafb0e43d1bddf0d73e9206cab": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Los Angeles",
+   "deadline": "2026-11-06",
+   "firstSeen": "2026-11-05",
+   "id": "5492fefafb0e43d1bddf0d73e9206cab",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/5492fefafb0e43d1bddf0d73e9206cab/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "emily.tinsley@gsa.gov",
+    "name": "Emily Tinsley",
+    "phone": "8162379673"
+   },
+   "posted": "2026-11-04",
+   "setAside": "",
+   "solnum": "6CA1473",
+   "state": "CA",
+   "title": "Lease Space in Los Angeles, CA",
+   "type": "Presolicitation"
   },
   "589840c83fe74b66b2053a25ea274974": {
    "active": true,
@@ -2309,7 +2451,6 @@
    "deadline": "2026-11-17",
    "firstSeen": "2026-11-04",
    "id": "826f3d18a8504e6ab0a4b53f03d0ec02",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/826f3d18a8504e6ab0a4b53f03d0ec02/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2348,6 +2489,30 @@
    "state": "NC",
    "title": "Lease of Office Space within Raleigh, NC. Request for Lease Proposals (RLP) #26NAT02",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "839fd925fdea49619b7724fea8b2b128": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Fort Myers",
+   "deadline": "2026-11-30",
+   "firstSeen": "2026-11-05",
+   "id": "839fd925fdea49619b7724fea8b2b128",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/839fd925fdea49619b7724fea8b2b128/view",
+   "naics": "53112",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "melissa.hein@gsa.gov",
+    "name": "melissa hein",
+    "phone": "2123261064"
+   },
+   "posted": "2026-11-04",
+   "setAside": "",
+   "solnum": "0FL2354",
+   "state": "FL",
+   "title": "General Services Administration (GSA) seeks to lease space in Fort Myers, FL",
+   "type": "Presolicitation"
   },
   "83fbf0a4b84d4210836ceafa0e92b23d": {
    "active": true,
@@ -2770,6 +2935,30 @@
    "title": "U.S. Government Seeks To Lease Office Space in Kennebunkport, ME",
    "type": "Presolicitation"
   },
+  "9823f8bcd37b40f6b5abfd1041d806ee": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "15436",
+   "deadline": "2026-11-09",
+   "firstSeen": "2026-11-05",
+   "id": "9823f8bcd37b40f6b5abfd1041d806ee",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/9823f8bcd37b40f6b5abfd1041d806ee/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "paul.koch@gsa.gov",
+    "name": "Paul Koch",
+    "phone": "2122649388"
+   },
+   "posted": "2026-11-04",
+   "setAside": "",
+   "solnum": "6OH0326",
+   "state": "OH",
+   "title": "Lease of Office Space. Request for Lease Proposals (RLP) #26NAT01 - Office Space",
+   "type": "Combined Synopsis/Solicitation"
+  },
   "98a19f70cd214cf88810105940a69fdf": {
    "active": true,
    "awardAmount": "",
@@ -2920,7 +3109,6 @@
    "deadline": "2026-11-17",
    "firstSeen": "2026-11-04",
    "id": "9adc6bb35996488da3f957b948d74b3a",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/9adc6bb35996488da3f957b948d74b3a/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -3098,6 +3286,30 @@
    "state": "TX",
    "title": "General Services Administration-Lease, Office Space, Albuquerque, NM",
    "type": "Award Notice"
+  },
+  "a799b7fb719947448b5f1d8b9c9e9e40": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Middletown",
+   "deadline": "2026-11-16",
+   "firstSeen": "2026-11-05",
+   "id": "a799b7fb719947448b5f1d8b9c9e9e40",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/a799b7fb719947448b5f1d8b9c9e9e40/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "Nicholas.klein@gsa.gov",
+    "name": "Nick Klein",
+    "phone": "2672536038"
+   },
+   "posted": "2026-11-04",
+   "setAside": "No Set aside used",
+   "solnum": "5PA0501",
+   "state": "PA",
+   "title": "Notice of Intent to Lease Space Using Other Than Full and Open Competition",
+   "type": "Presolicitation"
   },
   "a86be3a05f3244aab4f55f3ba39989a4": {
    "active": true,
@@ -3282,7 +3494,7 @@
     "name": "Jessica M. Delossantos-Punter",
     "phone": ""
    },
-   "posted": "2026-11-03",
+   "posted": "2026-11-02",
    "setAside": "No Set aside used",
    "solnum": "7NY2703_",
    "state": "NY",
@@ -3297,7 +3509,6 @@
    "deadline": "",
    "firstSeen": "2026-11-04",
    "id": "b7941b2414cb4a3f9cc16733800845dc",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/b7941b2414cb4a3f9cc16733800845dc/view",
    "naics": "531120",
    "office": "Pbs R7 Office Of Leasing",
@@ -3576,7 +3787,6 @@
    "deadline": "",
    "firstSeen": "2026-11-04",
    "id": "c00b2e823cf74966bb2f6b505c33c3f1",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/c00b2e823cf74966bb2f6b505c33c3f1/view",
    "naics": "531120",
    "office": "Pbs R7 Office Of Leasing",
@@ -3600,7 +3810,6 @@
    "deadline": "",
    "firstSeen": "2026-11-04",
    "id": "c06f3c310567458f9fa6287e027e798b",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/c06f3c310567458f9fa6287e027e798b/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -3897,6 +4106,30 @@
    "title": "General Services Administration (GSA) seeks to lease the following space in Nashville, TN: Solicitation No. 6TN0194",
    "type": "Presolicitation"
   },
+  "ccb80719bb4249b29ff28942ec554761": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Tampa",
+   "deadline": "2026-12-09",
+   "firstSeen": "2026-11-05",
+   "id": "ccb80719bb4249b29ff28942ec554761",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/ccb80719bb4249b29ff28942ec554761/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "edward.seifert@gsa.gov",
+    "name": "Edward \"Teddy\" H. Seifert",
+    "phone": "2026524189"
+   },
+   "posted": "2026-11-04",
+   "setAside": "",
+   "solnum": "3FL0557",
+   "state": "FL",
+   "title": "General Services Administration (GSA) seeks to lease the following space: Solicitation No. 3FL0557",
+   "type": "Solicitation"
+  },
   "cd2485ed0d324f079b2c1114c2e56393": {
    "active": true,
    "awardAmount": "",
@@ -4023,7 +4256,6 @@
    "deadline": "2026-11-24",
    "firstSeen": "2026-11-04",
    "id": "d3a53318b6c84246bfd4107dfcd32e69",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/d3a53318b6c84246bfd4107dfcd32e69/view",
    "naics": "53112",
    "office": "Pbs R00 Center For Broker Services",
@@ -4118,7 +4350,6 @@
    "deadline": "",
    "firstSeen": "2026-11-04",
    "id": "d4d8fee0431e4070a191013eed753f11",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/d4d8fee0431e4070a191013eed753f11/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -4535,6 +4766,30 @@
    "title": "Lease Space in Scottsbluff, NE",
    "type": "Presolicitation"
   },
+  "e7eb5c550a9e42a5b038789542725ced": {
+   "active": true,
+   "awardAmount": "243571.52",
+   "awardee": "ARROWHEAD MALL LLC",
+   "city": "",
+   "deadline": "",
+   "firstSeen": "2026-11-05",
+   "id": "e7eb5c550a9e42a5b038789542725ced",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/e7eb5c550a9e42a5b038789542725ced/view",
+   "naics": "531120",
+   "office": "Pbs R7 Office Of Leasing",
+   "poc": {
+    "email": "don.day@gsa.gov",
+    "name": "Don Day",
+    "phone": "8179787018"
+   },
+   "posted": "2026-11-04",
+   "setAside": "",
+   "solnum": "6OK0149",
+   "state": "",
+   "title": "General Services Administration (GSA) Lease: Office Space Muskogee, Oklahoma",
+   "type": "Award Notice"
+  },
   "e8414219de54459b90564ad9d02a6a84": {
    "active": true,
    "awardAmount": "",
@@ -4635,7 +4890,6 @@
    "deadline": "2026-11-10",
    "firstSeen": "2026-11-04",
    "id": "ea99411dd4a44f788526ea1ab45fe9fa",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/ea99411dd4a44f788526ea1ab45fe9fa/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -4990,7 +5244,6 @@
    "deadline": "2026-11-09",
    "firstSeen": "2026-11-04",
    "id": "fc0b293ae9ae4134bc6e2770211f7e4b",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/fc0b293ae9ae4134bc6e2770211f7e4b/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -5055,5 +5308,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-04T13:59:19+00:00"
+ "updated": "2026-11-05T14:08:32+00:00"
 }
