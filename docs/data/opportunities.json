@@ -115,6 +115,30 @@
    "title": "X1AA--Saginaw-Auburn Annex - VA Clinic Award",
    "type": "Award Notice"
   },
+  "12e78eca8de14366ae83d9a9e3865518": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Twin Falls",
+   "deadline": "2026-11-10",
+   "firstSeen": "2026-11-06",
+   "id": "12e78eca8de14366ae83d9a9e3865518",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/12e78eca8de14366ae83d9a9e3865518/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "christina.wolf@va.gov",
+    "name": "Christina Wolf",
+    "phone": ""
+   },
+   "posted": "2026-11-05",
+   "setAside": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
+   "solnum": "36C24W26R0017",
+   "state": "ID",
+   "title": "VHA seeking 20,250 RSF for a Community Based Outreach Clinic in Twin Falls, ID",
+   "type": "Solicitation"
+  },
   "130250eceb60473e91f1c4f59df0530b": {
    "active": true,
    "awardAmount": "1344038.19",
@@ -238,7 +262,6 @@
    "deadline": "2026-11-11",
    "firstSeen": "2026-11-05",
    "id": "231e2f0bc6754a67adecef0c0e4952e3",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/231e2f0bc6754a67adecef0c0e4952e3/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -1569,6 +1592,30 @@
    "title": "X1DB-- Katy TX OPC 175,306 ANSI/BOMA 197,219 RSF Amendment 3",
    "type": "Combined Synopsis/Solicitation"
   },
+  "90161704ac554dd8b698d6922b32b544": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Valley Stream",
+   "deadline": "2026-11-27",
+   "firstSeen": "2026-11-06",
+   "id": "90161704ac554dd8b698d6922b32b544",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/90161704ac554dd8b698d6922b32b544/view",
+   "naics": "531120",
+   "office": "242-Network Contract Office 02 (36C242)",
+   "poc": {
+    "email": "Joan.Hathaway@va.gov",
+    "name": "Department of Veteran Affairs",
+    "phone": "347-986-6213"
+   },
+   "posted": "2026-11-06",
+   "setAside": "",
+   "solnum": "36C24226R0115",
+   "state": "NY",
+   "title": "X1DB--Valley Stream CBOC - New Replacing Lease (VA-28-00000026)",
+   "type": "Sources Sought"
+  },
   "90445e515c1344f89aa99f8c2833eb7f": {
    "active": true,
    "awardAmount": "",
@@ -1775,6 +1822,30 @@
    "state": "",
    "title": "X1DB--Macon GA Health Care Clinic HCC 168,332 ANSI/BOMA",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "b051d47c659146ddafdbc9464306f11b": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-11-13",
+   "firstSeen": "2026-11-06",
+   "id": "b051d47c659146ddafdbc9464306f11b",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/b051d47c659146ddafdbc9464306f11b/view",
+   "naics": "532490",
+   "office": "246-Network Contracting Office 6 (36C246)",
+   "poc": {
+    "email": "Ruth.Morris@va.gov",
+    "name": "Ruth A Morris",
+    "phone": ""
+   },
+   "posted": "2026-11-05",
+   "setAside": "",
+   "solnum": "36C24627Q0107",
+   "state": "",
+   "title": "W065--AMIA CYCLER LEASE DIALYSIS",
+   "type": "Solicitation"
   },
   "b067a24046374cc982d3b5b799a85dcc": {
    "active": true,
@@ -2245,7 +2316,6 @@
    "deadline": "2026-12-01",
    "firstSeen": "2026-11-05",
    "id": "dce7430ac32a42769066398a441ebe23",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/dce7430ac32a42769066398a441ebe23/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -2814,5 +2884,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-05T14:08:32+00:00"
+ "updated": "2026-11-06T14:00:52+00:00"
 }

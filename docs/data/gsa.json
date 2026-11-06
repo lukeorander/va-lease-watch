@@ -1,5 +1,29 @@
 {
  "items": {
+  "009f044a424f4794a3a708862103334c": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Bridgeport",
+   "deadline": "2026-11-20",
+   "firstSeen": "2026-11-06",
+   "id": "009f044a424f4794a3a708862103334c",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/009f044a424f4794a3a708862103334c/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "sean.munger@gsa.gov",
+    "name": "Sean Munger",
+    "phone": "8572769603"
+   },
+   "posted": "2026-11-05",
+   "setAside": "No Set aside used",
+   "solnum": "4CT0116",
+   "state": "CT",
+   "title": "U.S. Government Seeks To Lease Office Space in Bridgeport, CT",
+   "type": "Presolicitation"
+  },
   "0117fdac98f74cccb8a300bcf5522846": {
    "active": true,
    "awardAmount": "",
@@ -8,7 +32,6 @@
    "deadline": "2026-11-30",
    "firstSeen": "2026-11-05",
    "id": "0117fdac98f74cccb8a300bcf5522846",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/0117fdac98f74cccb8a300bcf5522846/view",
    "naics": "531110",
    "office": "Pbs R00 Center For Broker Services",
@@ -196,7 +219,6 @@
    "deadline": "2026-11-25",
    "firstSeen": "2026-11-05",
    "id": "0834e724c43d44f2afb5a56fb6b47e20",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/0834e724c43d44f2afb5a56fb6b47e20/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -220,7 +242,6 @@
    "deadline": "2026-11-25",
    "firstSeen": "2026-11-05",
    "id": "08eada21239c4518b8b9a60ebb4de82a",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/08eada21239c4518b8b9a60ebb4de82a/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -306,6 +327,30 @@
    "title": "RLP for Bethesda, MD",
    "type": "Solicitation"
   },
+  "0cd7733893f542f9ad9cd103086e5f9c": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Washington",
+   "deadline": "2026-12-08",
+   "firstSeen": "2026-11-06",
+   "id": "0cd7733893f542f9ad9cd103086e5f9c",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/0cd7733893f542f9ad9cd103086e5f9c/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "todd.valentine@gsa.gov",
+    "name": "Todd Valentine",
+    "phone": "2026248531"
+   },
+   "posted": "2026-11-05",
+   "setAside": "No Set aside used",
+   "solnum": "9DC2719",
+   "state": "DC",
+   "title": "The U.S. General Services Administration seeks to lease the following space:",
+   "type": "Solicitation"
+  },
   "0d165c4320494e449c2dfe415555d289": {
    "active": true,
    "awardAmount": "",
@@ -338,7 +383,6 @@
    "deadline": "",
    "firstSeen": "2026-11-05",
    "id": "0da59422b8a34315a09a13cda746c44b",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/0da59422b8a34315a09a13cda746c44b/view",
    "naics": "531120",
    "office": "Pbs R7 Office Of Leasing",
@@ -502,7 +546,6 @@
    "deadline": "2026-11-16",
    "firstSeen": "2026-11-05",
    "id": "1179001c77624b5496eea526a99a43a4",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/1179001c77624b5496eea526a99a43a4/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -730,6 +773,30 @@
    "title": "Justification for Other than Full and Open Competition 6IL0482",
    "type": "Justification"
   },
+  "19767a81402d491e8269382940b0285f": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Ogden",
+   "deadline": "2026-12-04",
+   "firstSeen": "2026-11-06",
+   "id": "19767a81402d491e8269382940b0285f",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/19767a81402d491e8269382940b0285f/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "mike.richmond@cushwake.com",
+    "name": "Mike Richmond",
+    "phone": "8013035434"
+   },
+   "posted": "2026-11-05",
+   "setAside": "",
+   "solnum": "4UT0216",
+   "state": "UT",
+   "title": "General Services Administration (GSA) seeks to lease office space in Ogden, UT",
+   "type": "Presolicitation"
+  },
   "1a2f2ce19b6f4f97981c8d9cc5383787": {
    "active": true,
    "awardAmount": "",
@@ -868,6 +935,30 @@
    "state": "TN",
    "title": "General Services Administration (GSA) Seeks to lease the following space: Solicitation No. 3TN0338",
    "type": "Presolicitation"
+  },
+  "2124a5be0a1c4e65be37be564320a008": {
+   "active": true,
+   "awardAmount": "1253025.46",
+   "awardee": "CR FOLEY, LLC",
+   "city": "Anoka",
+   "deadline": "",
+   "firstSeen": "2026-11-06",
+   "id": "2124a5be0a1c4e65be37be564320a008",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/2124a5be0a1c4e65be37be564320a008/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "Susan.baghdikian@gsa.gov",
+    "name": "Susan Baghdikian",
+    "phone": "2139233918"
+   },
+   "posted": "2026-11-05",
+   "setAside": "No Set aside used",
+   "solnum": "6MN0187",
+   "state": "MN",
+   "title": "Award of lease for Office space in Anoka County, Minnesota",
+   "type": "Award Notice"
   },
   "21e6d14bdc064ce3b6ab2b99c129ff3d": {
    "active": true,
@@ -1861,7 +1952,6 @@
    "deadline": "2026-11-06",
    "firstSeen": "2026-11-05",
    "id": "5492fefafb0e43d1bddf0d73e9206cab",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/5492fefafb0e43d1bddf0d73e9206cab/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2498,7 +2588,6 @@
    "deadline": "2026-11-30",
    "firstSeen": "2026-11-05",
    "id": "839fd925fdea49619b7724fea8b2b128",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/839fd925fdea49619b7724fea8b2b128/view",
    "naics": "53112",
    "office": "Pbs R00 Center For Broker Services",
@@ -2943,7 +3032,6 @@
    "deadline": "2026-11-09",
    "firstSeen": "2026-11-05",
    "id": "9823f8bcd37b40f6b5abfd1041d806ee",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/9823f8bcd37b40f6b5abfd1041d806ee/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -3124,6 +3212,30 @@
    "title": "The General Services Administration (GSA) is seeking office space in Aurora, CO",
    "type": "Presolicitation"
   },
+  "9ba7da1947bf4567bff898fbafefcd25": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Egg Harbor Township",
+   "deadline": "2026-11-16",
+   "firstSeen": "2026-11-06",
+   "id": "9ba7da1947bf4567bff898fbafefcd25",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/9ba7da1947bf4567bff898fbafefcd25/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "Nicholas.klein@gsa.gov",
+    "name": "Nick Klein",
+    "phone": "2672536038"
+   },
+   "posted": "2026-11-05",
+   "setAside": "No Set aside used",
+   "solnum": "5NJ0279",
+   "state": "NJ",
+   "title": "Notice of Intent to Lease Office Space Using Other Than Full And Open Competition",
+   "type": "Presolicitation"
+  },
   "9dbe82ca115549f08a2e39f2fcc6fa70": {
    "active": true,
    "awardAmount": "",
@@ -3295,7 +3407,6 @@
    "deadline": "2026-11-16",
    "firstSeen": "2026-11-05",
    "id": "a799b7fb719947448b5f1d8b9c9e9e40",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/a799b7fb719947448b5f1d8b9c9e9e40/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -4114,7 +4225,6 @@
    "deadline": "2026-12-09",
    "firstSeen": "2026-11-05",
    "id": "ccb80719bb4249b29ff28942ec554761",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/ccb80719bb4249b29ff28942ec554761/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -4774,7 +4884,6 @@
    "deadline": "",
    "firstSeen": "2026-11-05",
    "id": "e7eb5c550a9e42a5b038789542725ced",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/e7eb5c550a9e42a5b038789542725ced/view",
    "naics": "531120",
    "office": "Pbs R7 Office Of Leasing",
@@ -5308,5 +5417,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-05T14:08:32+00:00"
+ "updated": "2026-11-06T14:00:53+00:00"
 }
