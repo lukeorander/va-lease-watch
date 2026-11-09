@@ -46,6 +46,30 @@
    "title": "W065--FY27 SERVICES (BASE+2) NYH Urology Scopes Lease",
    "type": "Special Notice"
   },
+  "0416d5f888724c45bcce961f16eb62f5": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "25720",
+   "deadline": "2026-11-13",
+   "firstSeen": "2026-11-09",
+   "id": "0416d5f888724c45bcce961f16eb62f5",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/0416d5f888724c45bcce961f16eb62f5/view",
+   "naics": "531120",
+   "office": "242-Network Contract Office 02 (36C242)",
+   "poc": {
+    "email": "nicholas.griffaton@va.gov",
+    "name": "Nicholas Griffaton",
+    "phone": ""
+   },
+   "posted": "2026-11-06",
+   "setAside": "",
+   "solnum": "36C24626R0073",
+   "state": "VA",
+   "title": "36C24626R0073 Fredericksburg, VA RLP RFI Answers",
+   "type": "Solicitation"
+  },
   "061aba9867634585af6394a4fb27af3d": {
    "active": true,
    "awardAmount": "520390.77",
@@ -123,7 +147,6 @@
    "deadline": "2026-11-10",
    "firstSeen": "2026-11-06",
    "id": "12e78eca8de14366ae83d9a9e3865518",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/12e78eca8de14366ae83d9a9e3865518/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -1600,7 +1623,6 @@
    "deadline": "2026-11-27",
    "firstSeen": "2026-11-06",
    "id": "90161704ac554dd8b698d6922b32b544",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/90161704ac554dd8b698d6922b32b544/view",
    "naics": "531120",
    "office": "242-Network Contract Office 02 (36C242)",
@@ -1823,6 +1845,30 @@
    "title": "X1DB--Macon GA Health Care Clinic HCC 168,332 ANSI/BOMA",
    "type": "Combined Synopsis/Solicitation"
   },
+  "ac6d6e0ea8fd4a20a5f8b13f742ffc0c": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Jackson",
+   "deadline": "2026-11-24",
+   "firstSeen": "2026-11-09",
+   "id": "ac6d6e0ea8fd4a20a5f8b13f742ffc0c",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/ac6d6e0ea8fd4a20a5f8b13f742ffc0c/view",
+   "naics": "531120",
+   "office": "256-Network Contract Office 16 (36C256)",
+   "poc": {
+    "email": "Orita.Jarvis@va.gov",
+    "name": "Orita A. Jarvis",
+    "phone": "281.795.7362"
+   },
+   "posted": "2026-11-06",
+   "setAside": "",
+   "solnum": "36C25627Q0136",
+   "state": "MS",
+   "title": "X1DB--New Lease for Jackson, MS Biomedical Research Laboratory",
+   "type": "Sources Sought"
+  },
   "b051d47c659146ddafdbc9464306f11b": {
    "active": true,
    "awardAmount": "",
@@ -1831,7 +1877,6 @@
    "deadline": "2026-11-13",
    "firstSeen": "2026-11-06",
    "id": "b051d47c659146ddafdbc9464306f11b",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/b051d47c659146ddafdbc9464306f11b/view",
    "naics": "532490",
    "office": "246-Network Contracting Office 6 (36C246)",
@@ -2884,5 +2929,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-06T14:00:52+00:00"
+ "updated": "2026-11-09T14:09:05+00:00"
 }

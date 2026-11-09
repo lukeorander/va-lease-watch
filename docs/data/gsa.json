@@ -8,7 +8,6 @@
    "deadline": "2026-11-20",
    "firstSeen": "2026-11-06",
    "id": "009f044a424f4794a3a708862103334c",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/009f044a424f4794a3a708862103334c/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -335,7 +334,6 @@
    "deadline": "2026-12-08",
    "firstSeen": "2026-11-06",
    "id": "0cd7733893f542f9ad9cd103086e5f9c",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/0cd7733893f542f9ad9cd103086e5f9c/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -781,7 +779,6 @@
    "deadline": "2026-12-04",
    "firstSeen": "2026-11-06",
    "id": "19767a81402d491e8269382940b0285f",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/19767a81402d491e8269382940b0285f/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -890,6 +887,30 @@
    "title": "General Services Administration (GSA) seeks to lease two parking spaces in Spokane, WA",
    "type": "Presolicitation"
   },
+  "1f0bb29ee1a0477292f8b56395c0fb73": {
+   "active": true,
+   "awardAmount": "1461685.68",
+   "awardee": "CPI AHP CHANCELLOR PARK MOB OWNER LLC",
+   "city": "San Diego",
+   "deadline": "",
+   "firstSeen": "2026-11-09",
+   "id": "1f0bb29ee1a0477292f8b56395c0fb73",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/1f0bb29ee1a0477292f8b56395c0fb73/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "john.a.bell@gsa.gov",
+    "name": "JOHN A. BELL",
+    "phone": ""
+   },
+   "posted": "2026-11-06",
+   "setAside": "",
+   "solnum": "6CA1223",
+   "state": "CA",
+   "title": "US Government Awards Extension in San Diego, CA",
+   "type": "Award Notice"
+  },
   "2048dbf0579042dda23c918588437edd": {
    "active": true,
    "awardAmount": "2407832.00",
@@ -944,7 +965,6 @@
    "deadline": "",
    "firstSeen": "2026-11-06",
    "id": "2124a5be0a1c4e65be37be564320a008",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/2124a5be0a1c4e65be37be564320a008/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1662,6 +1682,30 @@
    "state": "TX",
    "title": "Justification of Lease Extension, 10,307 ABOA SF of Office space in Wichita Falls, TX",
    "type": "Justification"
+  },
+  "3d8f64176703404ca736e4859d81123f": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "47760",
+   "deadline": "2026-11-13",
+   "firstSeen": "2026-11-09",
+   "id": "3d8f64176703404ca736e4859d81123f",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/3d8f64176703404ca736e4859d81123f/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "michelle.head@gsa.gov",
+    "name": "Michelle Head",
+    "phone": "4044761468"
+   },
+   "posted": "2026-11-06",
+   "setAside": "",
+   "solnum": "6MS0126",
+   "state": "MS",
+   "title": "6MS0126 Notice of Intent to Lease Space using other than Full and Open Competition",
+   "type": "Sources Sought"
   },
   "4333ce08611044efb947213cad57d387": {
    "active": true,
@@ -3165,6 +3209,30 @@
    "title": "General Services Administration (GSA) Seeks to lease the following space: Solicitation No. 5TN0238",
    "type": "Presolicitation"
   },
+  "9a8400b260ad463e9bc0e2ca34d2ad4c": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Phoenix",
+   "deadline": "2026-11-18",
+   "firstSeen": "2026-11-09",
+   "id": "9a8400b260ad463e9bc0e2ca34d2ad4c",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/9a8400b260ad463e9bc0e2ca34d2ad4c/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "bruce.keyes@gsa.gov",
+    "name": "Bruce Keyes",
+    "phone": "7192375740"
+   },
+   "posted": "2026-11-06",
+   "setAside": "",
+   "solnum": "3AZ0295a",
+   "state": "AZ",
+   "title": "The GSA seeks to lease office space in Pinetop-Lakeside or Show Low, AZ",
+   "type": "Presolicitation"
+  },
   "9aa7491cec4b43b8b3194dd4e845a873": {
    "active": true,
    "awardAmount": "",
@@ -3220,7 +3288,6 @@
    "deadline": "2026-11-16",
    "firstSeen": "2026-11-06",
    "id": "9ba7da1947bf4567bff898fbafefcd25",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/9ba7da1947bf4567bff898fbafefcd25/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -3445,6 +3512,30 @@
    "state": "KY",
    "title": "General Services Administration Lease: Office Space , McKinney, Texas",
    "type": "Award Notice"
+  },
+  "a9ca6d1377064e46ba51bb5d9cac5e96": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Sequim",
+   "deadline": "2026-12-04",
+   "firstSeen": "2026-11-09",
+   "id": "a9ca6d1377064e46ba51bb5d9cac5e96",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/a9ca6d1377064e46ba51bb5d9cac5e96/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "Susan.baghdikian@gsa.gov",
+    "name": "Susan Baghdikian",
+    "phone": "2139233918"
+   },
+   "posted": "2026-11-06",
+   "setAside": "No Set aside used",
+   "solnum": "2WA0663A",
+   "state": "WA",
+   "title": "General Services Administration (GSA) seeks to lease office space in Port Angeles, WA and Sequim, WA",
+   "type": "Combined Synopsis/Solicitation"
   },
   "aa5e4bbb05074076af449b0e64549b7c": {
    "active": true,
@@ -4216,6 +4307,30 @@
    "state": "TN",
    "title": "General Services Administration (GSA) seeks to lease the following space in Nashville, TN: Solicitation No. 6TN0194",
    "type": "Presolicitation"
+  },
+  "cb98e41179054e28871423f01c9fb432": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "4948",
+   "deadline": "2026-11-09",
+   "firstSeen": "2026-11-09",
+   "id": "cb98e41179054e28871423f01c9fb432",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/cb98e41179054e28871423f01c9fb432/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "paul.koch@gsa.gov",
+    "name": "Paul Koch",
+    "phone": "2122649388"
+   },
+   "posted": "2026-11-06",
+   "setAside": "",
+   "solnum": "6OR0247",
+   "state": "OR",
+   "title": "Lease of Office Space. Request for Lease Proposals (RLP) #26NAT01 - Office Space",
+   "type": "Combined Synopsis/Solicitation"
   },
   "ccb80719bb4249b29ff28942ec554761": {
    "active": true,
@@ -5297,6 +5412,30 @@
    "title": "Notice of Intent to Lease Space Using Other Than Full and Open Competition: TSA Hyannis, MA Project 5MA0205",
    "type": "Special Notice"
   },
+  "f74a9e50fa934820bd97a431169af64b": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "San Diego",
+   "deadline": "",
+   "firstSeen": "2026-11-09",
+   "id": "f74a9e50fa934820bd97a431169af64b",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/f74a9e50fa934820bd97a431169af64b/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "john.a.bell@gsa.gov",
+    "name": "JOHN A. BELL",
+    "phone": ""
+   },
+   "posted": "2026-11-06",
+   "setAside": "",
+   "solnum": "6CA1223",
+   "state": "CA",
+   "title": "US Government Awards Extension in San Diego, CA - Redacted JOTFOC",
+   "type": "Justification"
+  },
   "f93187f5017444f49df8c680fa18e8dc": {
    "active": true,
    "awardAmount": "",
@@ -5417,5 +5556,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-06T14:00:53+00:00"
+ "updated": "2026-11-09T14:09:06+00:00"
 }
