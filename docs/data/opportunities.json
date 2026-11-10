@@ -54,7 +54,6 @@
    "deadline": "2026-11-13",
    "firstSeen": "2026-11-09",
    "id": "0416d5f888724c45bcce961f16eb62f5",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/0416d5f888724c45bcce961f16eb62f5/view",
    "naics": "531120",
    "office": "242-Network Contract Office 02 (36C242)",
@@ -276,6 +275,30 @@
    "state": "NV",
    "title": "X1GZ--REQUEST FOR LEASE PROPOSAL: Warehouse - Las Vegas, Nevada",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "1f3f85f41dc04663b708c8b22c75e3eb": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Santa Ana",
+   "deadline": "2026-12-11",
+   "firstSeen": "2026-11-10",
+   "id": "1f3f85f41dc04663b708c8b22c75e3eb",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/1f3f85f41dc04663b708c8b22c75e3eb/view",
+   "naics": "53112",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "Richard.Clanahan@va.gov",
+    "name": "Ty Clanahan",
+    "phone": ""
+   },
+   "posted": "2026-11-10",
+   "setAside": "8(a) Sole Source (FAR 19.8)",
+   "solnum": "36C24W27R0007",
+   "state": "CA",
+   "title": "Intent to Sole Source \u2013 Notice of Succeeding Lease Action; Santa Ana CA, Annex",
+   "type": "Solicitation"
   },
   "231e2f0bc6754a67adecef0c0e4952e3": {
    "active": true,
@@ -831,6 +854,30 @@
    "state": "AZ",
    "title": "Hopi Flagstaff Vet Center",
    "type": "Solicitation"
+  },
+  "49da061182204f4396c6af3ee6be9c5a": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2027-01-08",
+   "firstSeen": "2026-11-10",
+   "id": "49da061182204f4396c6af3ee6be9c5a",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/49da061182204f4396c6af3ee6be9c5a/view",
+   "naics": "531120",
+   "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
+   "poc": {
+    "email": "Shahidat.Abbas@VA.gov",
+    "name": "Shahidat Abbas",
+    "phone": "202-632-6626"
+   },
+   "posted": "2026-11-10",
+   "setAside": "",
+   "solnum": "36C10F27R0011",
+   "state": "",
+   "title": "X1DB--Department of Veterans Affairs Butler New Castle Road VAMC Butler, PA HISTORIC REUSE OPPORTUNITY Request for Proposals",
+   "type": "Combined Synopsis/Solicitation"
   },
   "4a1ff24e1a0d410b9f15ec0315371d66": {
    "active": true,
@@ -1500,6 +1547,30 @@
    "title": "X1DB - Looking to lease in Litchfield, MN New Community Outpatient Clinic Space SDVOSB Set-Aside (Trade-off Evaluation)",
    "type": "Award Notice"
   },
+  "83a6995d3acf462987da47b9b1684e0e": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Columbus",
+   "deadline": "2027-01-11",
+   "firstSeen": "2026-11-10",
+   "id": "83a6995d3acf462987da47b9b1684e0e",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/83a6995d3acf462987da47b9b1684e0e/view",
+   "naics": "531120",
+   "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
+   "poc": {
+    "email": "anntwinette.dupree-hart.@va.gov",
+    "name": "Anntwinette Dupree-Hart",
+    "phone": "(202) 480-7483"
+   },
+   "posted": "2026-11-09",
+   "setAside": "No Set aside used",
+   "solnum": "36C10F25R0057",
+   "state": "OH",
+   "title": "Franklin County Outpatient Clinic, OH. 97,449 ANSI/BOMA Square Feet",
+   "type": "Combined Synopsis/Solicitation"
+  },
   "84dd06ad14b24ca7b800354a7b1c7546": {
    "active": true,
    "awardAmount": "",
@@ -1753,6 +1824,30 @@
    "title": "X1DZ- Lease of Space for Community Based Outpatient Clinic in Dubois, PA - Space for 23,062 Net Usable Square Feet/ 27,647 ABOA/ 31,134 Rentable Square Feet",
    "type": "Award Notice"
   },
+  "9ef17c36d47741be91019a07e5950e16": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "21520",
+   "deadline": "2026-12-18",
+   "firstSeen": "2026-11-10",
+   "id": "9ef17c36d47741be91019a07e5950e16",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/9ef17c36d47741be91019a07e5950e16/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "Patti.Lorensen@va.gov",
+    "name": "Patti Lorensen",
+    "phone": ""
+   },
+   "posted": "2026-11-09",
+   "setAside": "Small Business Set Aside - Total",
+   "solnum": "36C24W27R0004",
+   "state": "TX",
+   "title": "El Paso Community Based Outreach Clinic (CBOC)",
+   "type": "Solicitation"
+  },
   "a2ddd6ce9c444cbcb8503ad9478ed061": {
    "active": true,
    "awardAmount": "1283439.70",
@@ -1853,7 +1948,6 @@
    "deadline": "2026-11-24",
    "firstSeen": "2026-11-09",
    "id": "ac6d6e0ea8fd4a20a5f8b13f742ffc0c",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/ac6d6e0ea8fd4a20a5f8b13f742ffc0c/view",
    "naics": "531120",
    "office": "256-Network Contract Office 16 (36C256)",
@@ -2005,6 +2099,30 @@
    "solnum": "36C10F26R0047",
    "state": "IN",
    "title": "X1DB--Fort Wayne FY2025 OPC RLP",
+   "type": "Combined Synopsis/Solicitation"
+  },
+  "bbd5a0f3832b495cb82bfe2a7c78dac9": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Vero Beach",
+   "deadline": "2026-12-15",
+   "firstSeen": "2026-11-10",
+   "id": "bbd5a0f3832b495cb82bfe2a7c78dac9",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/bbd5a0f3832b495cb82bfe2a7c78dac9/view",
+   "naics": "531120",
+   "office": "248-Network Contract Office 8 (36C248)",
+   "poc": {
+    "email": "javier.correaochoa@va.gov",
+    "name": "Javier Correa Ochoa",
+    "phone": "786-299-2659"
+   },
+   "posted": "2026-11-10",
+   "setAside": "",
+   "solnum": "36C24826R0042",
+   "state": "",
+   "title": "X1DB--FY27 New: Primary Care Clinic Vero Beach New Lease",
    "type": "Combined Synopsis/Solicitation"
   },
   "bbdf73032f03419982bf2f936ea717c3": {
@@ -2929,5 +3047,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-09T14:09:05+00:00"
+ "updated": "2026-11-10T20:11:33+00:00"
 }

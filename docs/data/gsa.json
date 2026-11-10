@@ -895,7 +895,6 @@
    "deadline": "",
    "firstSeen": "2026-11-09",
    "id": "1f0bb29ee1a0477292f8b56395c0fb73",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/1f0bb29ee1a0477292f8b56395c0fb73/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -1691,7 +1690,6 @@
    "deadline": "2026-11-13",
    "firstSeen": "2026-11-09",
    "id": "3d8f64176703404ca736e4859d81123f",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/3d8f64176703404ca736e4859d81123f/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2387,6 +2385,30 @@
    "title": "Award Notice for PUB DEFENDERS Portland, ME",
    "type": "Award Notice"
   },
+  "6ff888112d1e4e13a108c053c5ab25f1": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "49134",
+   "deadline": "",
+   "firstSeen": "2026-11-10",
+   "id": "6ff888112d1e4e13a108c053c5ab25f1",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/6ff888112d1e4e13a108c053c5ab25f1/view",
+   "naics": "531120",
+   "office": "Pbs R7 Office Of Leasing",
+   "poc": {
+    "email": "Stephen.love@gsa.gov",
+    "name": "Stephen  Love",
+    "phone": "4054829936"
+   },
+   "posted": "2026-11-09",
+   "setAside": "",
+   "solnum": "6TX0897",
+   "state": "KY",
+   "title": "General Services Administration Lease: Office Space , McKinney, Texas",
+   "type": "Justification"
+  },
   "70496b8972de49a488305f9f8e7f49dc": {
    "active": true,
    "awardAmount": "",
@@ -2434,6 +2456,30 @@
    "state": "PR",
    "title": "Pre-solicitation Notice: The Government seeks expressions of interest for hangar and related space in Carolina, Puerto Rico for a minimum of 17,480 ANSI/BOMA Office Area (ABOA) SF and maximum of 18,354 ABOA SF.",
    "type": "Presolicitation"
+  },
+  "71aa75bc872645789b0bfaf07ed451cb": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Pearl",
+   "deadline": "",
+   "firstSeen": "2026-11-10",
+   "id": "71aa75bc872645789b0bfaf07ed451cb",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/71aa75bc872645789b0bfaf07ed451cb/view",
+   "naics": "531120",
+   "office": "Pbs R7 Office Of Leasing",
+   "poc": {
+    "email": "michael.sianan@gsa.gov",
+    "name": "Michael Sianan",
+    "phone": "8179781504"
+   },
+   "posted": "2026-11-09",
+   "setAside": "",
+   "solnum": "6MS0143",
+   "state": "MS",
+   "title": "General Services Administration Lease: Office Space Pearl, TX",
+   "type": "Justification"
   },
   "732fbbcd38e44ac8a4789fbe03ae23d7": {
    "active": true,
@@ -3217,7 +3263,6 @@
    "deadline": "2026-11-18",
    "firstSeen": "2026-11-09",
    "id": "9a8400b260ad463e9bc0e2ca34d2ad4c",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/9a8400b260ad463e9bc0e2ca34d2ad4c/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -3373,6 +3418,30 @@
    "title": "Lease of Office Space. Request for Lease Proposals (RLP) #26NAT01 - Office Space",
    "type": "Combined Synopsis/Solicitation"
   },
+  "a2886b8f473b400a86f8779372156980": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "New Bedford",
+   "deadline": "2026-11-30",
+   "firstSeen": "2026-11-10",
+   "id": "a2886b8f473b400a86f8779372156980",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/a2886b8f473b400a86f8779372156980/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "clarissa.mahoney@gsa.gov",
+    "name": "Clarissa Mahoney - PRAA-C",
+    "phone": "312-888-6581"
+   },
+   "posted": "2026-11-10",
+   "setAside": "",
+   "solnum": "5MA0189",
+   "state": "MA",
+   "title": "The Government is seeking to lease office and related space in New Bedford, MA for a minimum of 7,736 ANSI/BOMA Office Area (ABOA) and a maximum of 8,123 ABOA",
+   "type": "Presolicitation"
+  },
   "a290d55b656c4e9dbe2278b8f4ae7306": {
    "active": true,
    "awardAmount": "",
@@ -3521,7 +3590,6 @@
    "deadline": "2026-12-04",
    "firstSeen": "2026-11-09",
    "id": "a9ca6d1377064e46ba51bb5d9cac5e96",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/a9ca6d1377064e46ba51bb5d9cac5e96/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -3560,6 +3628,30 @@
    "state": "DC",
    "title": "Nationwide Flexible Coworking Services",
    "type": "Sources Sought"
+  },
+  "aaf8bcda3a414f6b8fbea35ff2e9667c": {
+   "active": true,
+   "awardAmount": "2684547.80",
+   "awardee": "354 GARDNER LLC",
+   "city": "Gardner",
+   "deadline": "",
+   "firstSeen": "2026-11-10",
+   "id": "aaf8bcda3a414f6b8fbea35ff2e9667c",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/aaf8bcda3a414f6b8fbea35ff2e9667c/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "dominic.vedder@gsa.gov",
+    "name": "Dominic Vedder",
+    "phone": "7038526215"
+   },
+   "posted": "2026-11-09",
+   "setAside": "",
+   "solnum": "3MA0241",
+   "state": "MA",
+   "title": "Award Notice: Lease for SSA Gardner, MA",
+   "type": "Award Notice"
   },
   "ab89c00f7e8548868553499e70f3b29a": {
    "active": true,
@@ -3934,6 +4026,30 @@
    "state": "PR",
    "title": "The Government is seeking a minimum of 17,480 ANSI/BOMA Square Feet and a maximum of 18,354 ANSI/BOMA Square Feet of Hangar and related space in Carolina, Puerto Rico",
    "type": "Solicitation"
+  },
+  "bd04f979addc4e42999665085bc0785d": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Rickreall",
+   "deadline": "",
+   "firstSeen": "2026-11-10",
+   "id": "bd04f979addc4e42999665085bc0785d",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/bd04f979addc4e42999665085bc0785d/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "yen.banh@gsa.gov",
+    "name": "Yen Banh, Lease Contracting Officer",
+    "phone": ""
+   },
+   "posted": "2026-11-10",
+   "setAside": "",
+   "solnum": "5OR0264",
+   "state": "OR",
+   "title": "General Services Administration (GSA) awards 25,153 RSF of office and related space in Portland, OR.",
+   "type": "Justification"
   },
   "bd10331ffa8d4e858958b25a10086a64": {
    "active": true,
@@ -4316,7 +4432,6 @@
    "deadline": "2026-11-09",
    "firstSeen": "2026-11-09",
    "id": "cb98e41179054e28871423f01c9fb432",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/cb98e41179054e28871423f01c9fb432/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -4920,6 +5035,30 @@
    "title": "0UT2128 - US. Government Seeks to Lease Office and Related Space in Ogden, UT - Presolicitation",
    "type": "Solicitation"
   },
+  "e2d17434054a41df938b21fe03d2a41b": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "65980",
+   "deadline": "2026-12-02",
+   "firstSeen": "2026-11-10",
+   "id": "e2d17434054a41df938b21fe03d2a41b",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/e2d17434054a41df938b21fe03d2a41b/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "jason.lichty@gsa.gov",
+    "name": "Jason Lichty",
+    "phone": "9727392213"
+   },
+   "posted": "2026-11-09",
+   "setAside": "",
+   "solnum": "4TX1042",
+   "state": "TX",
+   "title": "GSA seeking office space in San Antonio, TX",
+   "type": "Presolicitation"
+  },
   "e5026a6b7b074a30b6d82e72bc8460b1": {
    "active": true,
    "awardAmount": "",
@@ -4989,6 +5128,30 @@
    "solnum": "4NE0084",
    "state": "NE",
    "title": "Lease Space in Scottsbluff, NE",
+   "type": "Presolicitation"
+  },
+  "e7e93a880b5f4104877fca7b54f468e9": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "65982",
+   "deadline": "2026-11-19",
+   "firstSeen": "2026-11-10",
+   "id": "e7e93a880b5f4104877fca7b54f468e9",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/e7e93a880b5f4104877fca7b54f468e9/view",
+   "naics": "531190",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "thomas.roberts@gsa.gov",
+    "name": "Thomas Roberts",
+    "phone": "8172017519"
+   },
+   "posted": "2026-11-10",
+   "setAside": "No Set aside used",
+   "solnum": "6NY0820",
+   "state": "NY",
+   "title": "General Services Administration Lease: Office Space Rochester, New York",
    "type": "Presolicitation"
   },
   "e7eb5c550a9e42a5b038789542725ced": {
@@ -5420,7 +5583,6 @@
    "deadline": "",
    "firstSeen": "2026-11-09",
    "id": "f74a9e50fa934820bd97a431169af64b",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/f74a9e50fa934820bd97a431169af64b/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -5556,5 +5718,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-09T14:09:06+00:00"
+ "updated": "2026-11-10T20:11:34+00:00"
 }
