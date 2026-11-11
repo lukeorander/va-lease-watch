@@ -2393,7 +2393,6 @@
    "deadline": "",
    "firstSeen": "2026-11-10",
    "id": "6ff888112d1e4e13a108c053c5ab25f1",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/6ff888112d1e4e13a108c053c5ab25f1/view",
    "naics": "531120",
    "office": "Pbs R7 Office Of Leasing",
@@ -2465,7 +2464,6 @@
    "deadline": "",
    "firstSeen": "2026-11-10",
    "id": "71aa75bc872645789b0bfaf07ed451cb",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/71aa75bc872645789b0bfaf07ed451cb/view",
    "naics": "531120",
    "office": "Pbs R7 Office Of Leasing",
@@ -3426,7 +3424,6 @@
    "deadline": "2026-11-30",
    "firstSeen": "2026-11-10",
    "id": "a2886b8f473b400a86f8779372156980",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/a2886b8f473b400a86f8779372156980/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -3637,7 +3634,6 @@
    "deadline": "",
    "firstSeen": "2026-11-10",
    "id": "aaf8bcda3a414f6b8fbea35ff2e9667c",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/aaf8bcda3a414f6b8fbea35ff2e9667c/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -4035,7 +4031,6 @@
    "deadline": "",
    "firstSeen": "2026-11-10",
    "id": "bd04f979addc4e42999665085bc0785d",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/bd04f979addc4e42999665085bc0785d/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -4964,6 +4959,30 @@
    "title": "General Services Administration (GSA) seeks to lease office space in Toccoa, GA",
    "type": "Presolicitation"
   },
+  "db7b40b46232427f8131aa9d86b7a37b": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Wilmington",
+   "deadline": "2026-12-21",
+   "firstSeen": "2026-11-11",
+   "id": "db7b40b46232427f8131aa9d86b7a37b",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/db7b40b46232427f8131aa9d86b7a37b/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "timothy.m.mazzucca@gsa.gov",
+    "name": "Tim Mazzucca",
+    "phone": "(202) 652-4199"
+   },
+   "posted": "2026-11-11",
+   "setAside": "No Set aside used",
+   "solnum": "0NC2145-1",
+   "state": "NC",
+   "title": "U.S. Government Seeks to Lease Office and Related Space in Wilmington, NC",
+   "type": "Solicitation"
+  },
   "dca8a2ae11424afebd01a39dff3366a1": {
    "active": true,
    "awardAmount": "",
@@ -5043,7 +5062,6 @@
    "deadline": "2026-12-02",
    "firstSeen": "2026-11-10",
    "id": "e2d17434054a41df938b21fe03d2a41b",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/e2d17434054a41df938b21fe03d2a41b/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -5138,7 +5156,6 @@
    "deadline": "2026-11-19",
    "firstSeen": "2026-11-10",
    "id": "e7e93a880b5f4104877fca7b54f468e9",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/e7e93a880b5f4104877fca7b54f468e9/view",
    "naics": "531190",
    "office": "Pbs Office Of Leasing",
@@ -5314,6 +5331,30 @@
    "state": "FL",
    "title": "Redacted Justification",
    "type": "Justification"
+  },
+  "eb49f9c60cba45b3b6583a7155e0c3ce": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "San Jose",
+   "deadline": "2026-11-16",
+   "firstSeen": "2026-11-11",
+   "id": "eb49f9c60cba45b3b6583a7155e0c3ce",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/eb49f9c60cba45b3b6583a7155e0c3ce/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "john.a.bell@gsa.gov",
+    "name": "JOHN A. BELL",
+    "phone": ""
+   },
+   "posted": "2026-11-10",
+   "setAside": "",
+   "solnum": "3CA1731",
+   "state": "CA",
+   "title": "US GOVERNMENT SEEKS TO LEASE SPACE IN SAN JOSE, CA",
+   "type": "Presolicitation"
   },
   "ebaad6593a0844b9bc9813a99dc013cb": {
    "active": true,
@@ -5718,5 +5759,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-10T20:11:34+00:00"
+ "updated": "2026-11-11T19:59:06+00:00"
 }

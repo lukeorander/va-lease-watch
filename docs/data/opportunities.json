@@ -284,7 +284,6 @@
    "deadline": "2026-12-11",
    "firstSeen": "2026-11-10",
    "id": "1f3f85f41dc04663b708c8b22c75e3eb",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/1f3f85f41dc04663b708c8b22c75e3eb/view",
    "naics": "53112",
    "office": "Rpo West (36C24W)",
@@ -863,7 +862,6 @@
    "deadline": "2027-01-08",
    "firstSeen": "2026-11-10",
    "id": "49da061182204f4396c6af3ee6be9c5a",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/49da061182204f4396c6af3ee6be9c5a/view",
    "naics": "531120",
    "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
@@ -1555,7 +1553,6 @@
    "deadline": "2027-01-11",
    "firstSeen": "2026-11-10",
    "id": "83a6995d3acf462987da47b9b1684e0e",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/83a6995d3acf462987da47b9b1684e0e/view",
    "naics": "531120",
    "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
@@ -1832,7 +1829,6 @@
    "deadline": "2026-12-18",
    "firstSeen": "2026-11-10",
    "id": "9ef17c36d47741be91019a07e5950e16",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/9ef17c36d47741be91019a07e5950e16/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -2109,7 +2105,6 @@
    "deadline": "2026-12-15",
    "firstSeen": "2026-11-10",
    "id": "bbd5a0f3832b495cb82bfe2a7c78dac9",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/bbd5a0f3832b495cb82bfe2a7c78dac9/view",
    "naics": "531120",
    "office": "248-Network Contract Office 8 (36C248)",
@@ -2402,6 +2397,30 @@
    "title": "X1DB--Port St. Lucie, Fl. Outpatient Clinic 142,811 ANSI/BOMA Amendment",
    "type": "Combined Synopsis/Solicitation"
   },
+  "d312d5b0dbbd4f7fab6a2f6ee06b6686": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-12-18",
+   "firstSeen": "2026-11-11",
+   "id": "d312d5b0dbbd4f7fab6a2f6ee06b6686",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/d312d5b0dbbd4f7fab6a2f6ee06b6686/view",
+   "naics": "531120",
+   "office": "255-Network Contract Office 15 (36C255)",
+   "poc": {
+    "email": "terry.martin1@va.gov",
+    "name": "Terry Martin",
+    "phone": ""
+   },
+   "posted": "2026-11-10",
+   "setAside": "No Set aside used",
+   "solnum": "36C25527R0011",
+   "state": "MO",
+   "title": "Lease Medical Space, 19,000 ABOA",
+   "type": "Solicitation"
+  },
   "d57ee60d528f4ae8ae48fdff234d35ab": {
    "active": true,
    "awardAmount": "",
@@ -2654,6 +2673,30 @@
    "state": "",
    "title": "X1DB--San Diego Research and Development Lease",
    "type": "Award Notice"
+  },
+  "ec21f29abaaa4f6898953ff97f08232e": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Tucson",
+   "deadline": "2026-11-18",
+   "firstSeen": "2026-11-11",
+   "id": "ec21f29abaaa4f6898953ff97f08232e",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/ec21f29abaaa4f6898953ff97f08232e/view",
+   "naics": "325120",
+   "office": "262-Network Contract Office 22 (36C262)",
+   "poc": {
+    "email": "naomi.meza@va.gov",
+    "name": "Naomi  Meza",
+    "phone": "(520) 792-1450 x 13785"
+   },
+   "posted": "2026-11-10",
+   "setAside": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
+   "solnum": "36C26227Q0029",
+   "state": "",
+   "title": "W091--NMVAHCS Nitrogen Compressed Lease and Supply",
+   "type": "Combined Synopsis/Solicitation"
   },
   "ed84c8000f244a8fa97ef46328b30b6b": {
    "active": true,
@@ -3047,5 +3090,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-10T20:11:33+00:00"
+ "updated": "2026-11-11T19:59:06+00:00"
 }
