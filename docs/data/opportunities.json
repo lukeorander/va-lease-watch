@@ -461,6 +461,30 @@
    "title": "W066--Olympus Scope Lease & Maintenance in support of the Sioux Falls VA HCS",
    "type": "Award Notice"
   },
+  "3493649c2b4843aaac895bba8ba1cf43": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-12-15",
+   "firstSeen": "2026-11-12",
+   "id": "3493649c2b4843aaac895bba8ba1cf43",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/3493649c2b4843aaac895bba8ba1cf43/view",
+   "naics": "531120",
+   "office": "248-Network Contract Office 8 (36C248)",
+   "poc": {
+    "email": "javier.correaochoa@va.gov",
+    "name": "Javier Correa Ochoa",
+    "phone": "786-299-2659"
+   },
+   "posted": "2026-11-12",
+   "setAside": "",
+   "solnum": "36C24825R0031",
+   "state": "",
+   "title": "X1DB--FY27 New Lease: Primary Care Annex West Palm Beach",
+   "type": "Combined Synopsis/Solicitation"
+  },
   "354cf16166614d0e93a667d215ee4549": {
    "active": true,
    "awardAmount": "106399304.80",
@@ -1129,6 +1153,30 @@
    "state": "IL",
    "title": "Redacted JOTFOC- Bloomington CBOC",
    "type": "Justification"
+  },
+  "60b3bbf7c58b44039d28e6c8590459c8": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "21520",
+   "deadline": "2026-12-18",
+   "firstSeen": "2026-11-12",
+   "id": "60b3bbf7c58b44039d28e6c8590459c8",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/60b3bbf7c58b44039d28e6c8590459c8/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "Patti.Lorensen@va.gov",
+    "name": "Patti Lorensen",
+    "phone": ""
+   },
+   "posted": "2026-11-12",
+   "setAside": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
+   "solnum": "36C24W27R0004",
+   "state": "TX",
+   "title": "El Paso Community Based Outreach Clinic (CBOC)",
+   "type": "Solicitation"
   },
   "618baa9ade94406180285a79426d47c3": {
    "active": true,
@@ -2405,7 +2453,6 @@
    "deadline": "2026-12-18",
    "firstSeen": "2026-11-11",
    "id": "d312d5b0dbbd4f7fab6a2f6ee06b6686",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/d312d5b0dbbd4f7fab6a2f6ee06b6686/view",
    "naics": "531120",
    "office": "255-Network Contract Office 15 (36C255)",
@@ -2682,7 +2729,6 @@
    "deadline": "2026-11-18",
    "firstSeen": "2026-11-11",
    "id": "ec21f29abaaa4f6898953ff97f08232e",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/ec21f29abaaa4f6898953ff97f08232e/view",
    "naics": "325120",
    "office": "262-Network Contract Office 22 (36C262)",
@@ -3090,5 +3136,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-11T19:59:06+00:00"
+ "updated": "2026-11-12T20:37:57+00:00"
 }

@@ -2009,6 +2009,30 @@
    "title": "Lease Space in Los Angeles, CA",
    "type": "Presolicitation"
   },
+  "581ed92189fa4089b75b64d57d0ec872": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "16168",
+   "deadline": "2026-11-25",
+   "firstSeen": "2026-11-12",
+   "id": "581ed92189fa4089b75b64d57d0ec872",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/581ed92189fa4089b75b64d57d0ec872/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "linda.hattersley@gsa.gov",
+    "name": "Linda Hattersley",
+    "phone": "312-209-0137"
+   },
+   "posted": "2026-11-12",
+   "setAside": "No Set aside used",
+   "solnum": "6OH0369",
+   "state": "OH",
+   "title": "General Services Administration (GSA) seeks to lease the following space:",
+   "type": "Presolicitation"
+  },
   "589840c83fe74b66b2053a25ea274974": {
    "active": true,
    "awardAmount": "",
@@ -3323,6 +3347,30 @@
    "title": "The General Services Administration (GSA) is seeking office space in Aurora, CO",
    "type": "Presolicitation"
   },
+  "9b3b7d578af4439c97c1aac008d74dda": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "San Jose",
+   "deadline": "2026-11-16",
+   "firstSeen": "2026-11-12",
+   "id": "9b3b7d578af4439c97c1aac008d74dda",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/9b3b7d578af4439c97c1aac008d74dda/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "john.a.bell@gsa.gov",
+    "name": "JOHN A. BELL",
+    "phone": ""
+   },
+   "posted": "2026-11-12",
+   "setAside": "",
+   "solnum": "3CA1731",
+   "state": "CA",
+   "title": "US GOVERNMENT SEEKS TO LEASE SPACE IN SAN JOSE, CA",
+   "type": "Presolicitation"
+  },
   "9ba7da1947bf4567bff898fbafefcd25": {
    "active": true,
    "awardAmount": "",
@@ -3508,6 +3556,30 @@
    "state": "TX",
    "title": "Lease of Office Space within Houston, TX. Request for Lease Proposals (RLP) #26NAT01",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "a58408aac899484785628863c6c3774e": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Anchorage",
+   "deadline": "",
+   "firstSeen": "2026-11-12",
+   "id": "a58408aac899484785628863c6c3774e",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/a58408aac899484785628863c6c3774e/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "kacy.cameron@gsa.gov",
+    "name": "Kacy Cameron",
+    "phone": "2062495330"
+   },
+   "posted": "2026-11-12",
+   "setAside": "",
+   "solnum": "4AK0306",
+   "state": "AK",
+   "title": "Justification for Lease Extension -9,425 SF of space in Anchorage, AK",
+   "type": "Justification"
   },
   "a71039782f8844faa24986da016435a7": {
    "active": true,
@@ -4090,6 +4162,30 @@
    "solnum": "4TX1001-3",
    "state": "TX",
    "title": "General Services Administration (GSA) Seeks to lease the following space: Solicitation No. 4TX1001",
+   "type": "Presolicitation"
+  },
+  "beb54eeedd234fd4a3c69e5e761bd739": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Austin",
+   "deadline": "2026-12-03",
+   "firstSeen": "2026-11-12",
+   "id": "beb54eeedd234fd4a3c69e5e761bd739",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/beb54eeedd234fd4a3c69e5e761bd739/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "edward.seifert@gsa.gov",
+    "name": "Edward \"Teddy\" H. Seifert",
+    "phone": "2026524189"
+   },
+   "posted": "2026-11-12",
+   "setAside": "",
+   "solnum": "2TX1269-1",
+   "state": "TX",
+   "title": "General Services Administration (GSA) Seeks to lease the following space: Solicitation No. 2TX1269",
    "type": "Presolicitation"
   },
   "c00b2e823cf74966bb2f6b505c33c3f1": {
@@ -4967,7 +5063,6 @@
    "deadline": "2026-12-21",
    "firstSeen": "2026-11-11",
    "id": "db7b40b46232427f8131aa9d86b7a37b",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/db7b40b46232427f8131aa9d86b7a37b/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -5759,5 +5854,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-11T19:59:06+00:00"
+ "updated": "2026-11-12T20:38:19+00:00"
 }
