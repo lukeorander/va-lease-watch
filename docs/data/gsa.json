@@ -1610,6 +1610,30 @@
    "title": "The U.S. General Services Administration seeks to lease the following space:",
    "type": "Presolicitation"
   },
+  "39cd0214a0684009ba4c838aceb57fa9": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Buffalo",
+   "deadline": "2026-12-07",
+   "firstSeen": "2026-11-13",
+   "id": "39cd0214a0684009ba4c838aceb57fa9",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/39cd0214a0684009ba4c838aceb57fa9/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "elizabeth.mccullough@gsa.gov",
+    "name": "Elizabeth McCullough",
+    "phone": "2675932398"
+   },
+   "posted": "2026-11-13",
+   "setAside": "",
+   "solnum": "5NY0814",
+   "state": "NY",
+   "title": "Lease of Office Space within Buffalo/WIlliamsville area, NY Request for Lease Proposals (RLP) #26NAT02",
+   "type": "Combined Synopsis/Solicitation"
+  },
   "3b5e5afea4884de585e66623377aae51": {
    "active": true,
    "awardAmount": "",
@@ -1846,6 +1870,30 @@
    "title": "General Services Administration Lease: Office Space Pearl, TX",
    "type": "Award Notice"
   },
+  "4af7395059444480b44526bc41eaf1a2": {
+   "active": true,
+   "awardAmount": "90042331.25",
+   "awardee": "NBPIV FOXLEY LLC",
+   "city": "Upper Marlboro",
+   "deadline": "",
+   "firstSeen": "2026-11-13",
+   "id": "4af7395059444480b44526bc41eaf1a2",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/4af7395059444480b44526bc41eaf1a2/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "bradford.seifert@gsa.gov",
+    "name": "Brad Seifert",
+    "phone": "2026524192"
+   },
+   "posted": "2026-11-13",
+   "setAside": "",
+   "solnum": "2DC0655",
+   "state": "MD",
+   "title": "Award Notice in Upper Marlboro, MD: Solicitation No. 2DC0655",
+   "type": "Award Notice"
+  },
   "4bbf50953df2450e9d150a0ae572b765": {
    "active": true,
    "awardAmount": "",
@@ -2017,7 +2065,6 @@
    "deadline": "2026-11-25",
    "firstSeen": "2026-11-12",
    "id": "581ed92189fa4089b75b64d57d0ec872",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/581ed92189fa4089b75b64d57d0ec872/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -3355,7 +3402,6 @@
    "deadline": "2026-11-16",
    "firstSeen": "2026-11-12",
    "id": "9b3b7d578af4439c97c1aac008d74dda",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/9b3b7d578af4439c97c1aac008d74dda/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -3565,7 +3611,6 @@
    "deadline": "",
    "firstSeen": "2026-11-12",
    "id": "a58408aac899484785628863c6c3774e",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/a58408aac899484785628863c6c3774e/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -4164,6 +4209,30 @@
    "title": "General Services Administration (GSA) Seeks to lease the following space: Solicitation No. 4TX1001",
    "type": "Presolicitation"
   },
+  "be241405bde7418f90db8c54dece2e59": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-11-27",
+   "firstSeen": "2026-11-13",
+   "id": "be241405bde7418f90db8c54dece2e59",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/be241405bde7418f90db8c54dece2e59/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "gerrit.voogt@gsa.gov",
+    "name": "Gerrit Voogt",
+    "phone": "2028054423"
+   },
+   "posted": "2026-11-13",
+   "setAside": "No Set aside used",
+   "solnum": "6NY0452a",
+   "state": "",
+   "title": "US Government seeks to Lease Office Space in Holtsville, NY",
+   "type": "Presolicitation"
+  },
   "beb54eeedd234fd4a3c69e5e761bd739": {
    "active": true,
    "awardAmount": "",
@@ -4172,7 +4241,6 @@
    "deadline": "2026-12-03",
    "firstSeen": "2026-11-12",
    "id": "beb54eeedd234fd4a3c69e5e761bd739",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/beb54eeedd234fd4a3c69e5e761bd739/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -5102,6 +5170,30 @@
    "title": "Redacted Justification for Atlanta, GA - 6GA0332",
    "type": "Justification"
   },
+  "de45d4d98a094608ae59db2d969e0daa": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Buffalo",
+   "deadline": "2027-01-08",
+   "firstSeen": "2026-11-13",
+   "id": "de45d4d98a094608ae59db2d969e0daa",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/de45d4d98a094608ae59db2d969e0daa/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "Darrin.Hotaling@gsa.gov",
+    "name": "Darrin Hotaling - Lease Contracting Officer",
+    "phone": "(303) 963-6576"
+   },
+   "posted": "2026-11-12",
+   "setAside": "",
+   "solnum": "5WY0078",
+   "state": "WY",
+   "title": "General Services Administration (GSA) seeks to lease Office, Warehouse and Secured Wareyard space in Buffalo, WY",
+   "type": "Solicitation"
+  },
   "e20dd0437c6c4c9bba328c11f09d22a3": {
    "active": true,
    "awardAmount": "",
@@ -5854,5 +5946,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-12T20:38:19+00:00"
+ "updated": "2026-11-13T20:17:18+00:00"
 }

@@ -469,7 +469,6 @@
    "deadline": "2026-12-15",
    "firstSeen": "2026-11-12",
    "id": "3493649c2b4843aaac895bba8ba1cf43",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/3493649c2b4843aaac895bba8ba1cf43/view",
    "naics": "531120",
    "office": "248-Network Contract Office 8 (36C248)",
@@ -1162,7 +1161,6 @@
    "deadline": "2026-12-18",
    "firstSeen": "2026-11-12",
    "id": "60b3bbf7c58b44039d28e6c8590459c8",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/60b3bbf7c58b44039d28e6c8590459c8/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -2051,6 +2049,30 @@
    "solnum": "36C24W25R0073",
    "state": "HI",
    "title": "X1DB - RLP - VA ACC ANNEX | HONOLULU, HI",
+   "type": "Solicitation"
+  },
+  "b709ae3a102b43d39ff9d9079ce82647": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Olympia",
+   "deadline": "2026-12-01",
+   "firstSeen": "2026-11-13",
+   "id": "b709ae3a102b43d39ff9d9079ce82647",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/b709ae3a102b43d39ff9d9079ce82647/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "tpavek@crcre.com",
+    "name": "Timothy Pavek",
+    "phone": "9257902134"
+   },
+   "posted": "2026-11-12",
+   "setAside": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Sole Source (FAR 19.14)",
+   "solnum": "36C24W26R0012",
+   "state": "WA",
+   "title": "Request for Lease Proposals (RLP) for Olympia, WA CBOC",
    "type": "Solicitation"
   },
   "b7d3be4d492243088a6bc2147eba3f93": {
@@ -3136,5 +3158,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-12T20:37:57+00:00"
+ "updated": "2026-11-13T20:17:17+00:00"
 }
