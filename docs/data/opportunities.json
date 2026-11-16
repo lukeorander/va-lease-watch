@@ -1683,6 +1683,30 @@
    "title": "Sources Sought - Gainesville IRMS",
    "type": "Sources Sought"
   },
+  "8919dac078cb4dbbb597529756061d74": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Richland Hills",
+   "deadline": "2026-11-20",
+   "firstSeen": "2026-11-16",
+   "id": "8919dac078cb4dbbb597529756061d74",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/8919dac078cb4dbbb597529756061d74/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "Tashia.Marsh@va.gov",
+    "name": "TaShia Marsh-Brown",
+    "phone": ""
+   },
+   "posted": "2026-11-13",
+   "setAside": "",
+   "solnum": "36C24W26R0055",
+   "state": "TX",
+   "title": "New Lease for VA Clinic (CBOC) Tarrant County, Texas",
+   "type": "Solicitation"
+  },
   "894a17ef73b549989f61f7e9aadd4f56": {
    "active": true,
    "awardAmount": "23531044.24",
@@ -2059,7 +2083,6 @@
    "deadline": "2026-12-01",
    "firstSeen": "2026-11-13",
    "id": "b709ae3a102b43d39ff9d9079ce82647",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/b709ae3a102b43d39ff9d9079ce82647/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -2559,6 +2582,30 @@
    "title": "Request for Lease Proposal for the Fredericksburg Vet Center",
    "type": "Combined Synopsis/Solicitation"
   },
+  "dcdd66931af0439fa95e22724bfde9fb": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Albuquerque",
+   "deadline": "2026-11-18",
+   "firstSeen": "2026-11-16",
+   "id": "dcdd66931af0439fa95e22724bfde9fb",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/dcdd66931af0439fa95e22724bfde9fb/view",
+   "naics": "325120",
+   "office": "262-Network Contract Office 22 (36C262)",
+   "poc": {
+    "email": "naomi.meza@va.gov",
+    "name": "Naomi Meza",
+    "phone": "(520) 792-1450 x 13785"
+   },
+   "posted": "2026-11-16",
+   "setAside": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
+   "solnum": "36C26227Q0029",
+   "state": "",
+   "title": "W091--NMVAHCS Nitrogen Compressed Lease and Supply",
+   "type": "Combined Synopsis/Solicitation"
+  },
   "dce7430ac32a42769066398a441ebe23": {
    "active": true,
    "awardAmount": "",
@@ -2718,6 +2765,30 @@
    "solnum": "36C24W270006",
    "state": "AK",
    "title": "Request for Lease Proposal - Kenai Outstation - Soldotna, Alaska",
+   "type": "Combined Synopsis/Solicitation"
+  },
+  "ea177cc993644ae2877beeafdb3262f6": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Santa Cruz",
+   "deadline": "2026-11-09",
+   "firstSeen": "2026-11-16",
+   "id": "ea177cc993644ae2877beeafdb3262f6",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/ea177cc993644ae2877beeafdb3262f6/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "CCunningham@isiwdc.com",
+    "name": "Catlin Cunningham, Broker",
+    "phone": "(202) 263-0861"
+   },
+   "posted": "2026-11-16",
+   "setAside": "",
+   "solnum": "36C24W26R0077",
+   "state": "CA",
+   "title": "X1DB--Santa Cruz Outpatient Clinic, New Procurement Lease Package",
    "type": "Combined Synopsis/Solicitation"
   },
   "eb54f70d90e142ee8e419318dc7c436b": {
@@ -3158,5 +3229,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-13T20:17:17+00:00"
+ "updated": "2026-11-16T22:42:55+00:00"
 }

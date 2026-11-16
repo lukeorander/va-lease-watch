@@ -373,6 +373,30 @@
    "title": "General Services Administration (GSA) seeks to lease 383,043 ABOA SF of underground storage space in Independence, MO",
    "type": "Presolicitation"
   },
+  "0d5237b3da9041198c848663bcdbd1f8": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Newark",
+   "deadline": "",
+   "firstSeen": "2026-11-16",
+   "id": "0d5237b3da9041198c848663bcdbd1f8",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/0d5237b3da9041198c848663bcdbd1f8/view",
+   "naics": "531120",
+   "office": "Pbs R2 Office Of Leasing",
+   "poc": {
+    "email": "alexander.litvak@gsa.gov",
+    "name": "Alexander Litvak",
+    "phone": "6466595886"
+   },
+   "posted": "2026-11-16",
+   "setAside": "",
+   "solnum": "2NJ0260",
+   "state": "NJ",
+   "title": "2NJ0260 - TSA Airport- Succeeding - Newark, NJ",
+   "type": "Justification"
+  },
   "0da59422b8a34315a09a13cda746c44b": {
    "active": true,
    "awardAmount": "",
@@ -1049,6 +1073,30 @@
    "title": "Award Notice for General Services Administration (GSA): Fort Worth, TX - 4TX0994",
    "type": "Award Notice"
   },
+  "24df2a81b92f42469aa34d9e19f39232": {
+   "active": true,
+   "awardAmount": "284483.00",
+   "awardee": "SMI MARINE EMPORIUM, LLC",
+   "city": "Oxnard",
+   "deadline": "",
+   "firstSeen": "2026-11-16",
+   "id": "24df2a81b92f42469aa34d9e19f39232",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/24df2a81b92f42469aa34d9e19f39232/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "eugene.wright@gsa.gov",
+    "name": "Eugene B. Wright",
+    "phone": "4045800098"
+   },
+   "posted": "2026-11-16",
+   "setAside": "No Set aside used",
+   "solnum": "LCA02309",
+   "state": "CA",
+   "title": "Award Notice/ Posting redacted Justification for Other than Full-and-Open Competition",
+   "type": "Award Notice"
+  },
   "24e4b7c40ee642089e011393a6a56b02": {
    "active": true,
    "awardAmount": "",
@@ -1330,6 +1378,30 @@
    "title": "US Government seeks to Lease Office Space in Poughkeepsie, NY",
    "type": "Solicitation"
   },
+  "2d4fab2f6ba84e5388d9386958e2d640": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Jay",
+   "deadline": "2026-11-18",
+   "firstSeen": "2026-11-16",
+   "id": "2d4fab2f6ba84e5388d9386958e2d640",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/2d4fab2f6ba84e5388d9386958e2d640/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "christopher.wainwright@gsa.gov",
+    "name": "Christopher Wainwright",
+    "phone": "4045109402"
+   },
+   "posted": "2026-11-13",
+   "setAside": "No Set aside used",
+   "solnum": "6FL0849",
+   "state": "FL",
+   "title": "United States Government Seeks To Lease Office Space In Jay, FL",
+   "type": "Presolicitation"
+  },
   "2d571838cc594534b4dc1adbad401ae8": {
    "active": true,
    "awardAmount": "",
@@ -1399,6 +1471,30 @@
    "state": "PR",
    "title": "U.S. Government Seeks to Lease Office Space in San Juan, Puerto Rico",
    "type": "Presolicitation"
+  },
+  "2f4cdd5488b142958247b44c1f89efb1": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "48560",
+   "deadline": "2026-12-07",
+   "firstSeen": "2026-11-16",
+   "id": "2f4cdd5488b142958247b44c1f89efb1",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/2f4cdd5488b142958247b44c1f89efb1/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "linda.hattersley@gsa.gov",
+    "name": "Linda Hattersley",
+    "phone": "3122090137"
+   },
+   "posted": "2026-11-16",
+   "setAside": "",
+   "solnum": "6TN0262",
+   "state": "TN",
+   "title": "Lease of office space within Nashville, TN Request for Lease Proposals (RLP) #26NAT01",
+   "type": "Combined Synopsis/Solicitation"
   },
   "30634b069e0c47d99ffc01ac3bb8904c": {
    "active": true,
@@ -1618,7 +1714,6 @@
    "deadline": "2026-12-07",
    "firstSeen": "2026-11-13",
    "id": "39cd0214a0684009ba4c838aceb57fa9",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/39cd0214a0684009ba4c838aceb57fa9/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1681,6 +1776,30 @@
    "state": "",
    "title": "Seeking Competitive Lease Proposals for Office Space in multiple locations across the United States- Request for Lease Proposals No. 26NAT02",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "3baabc0511d7493a883289b7994b9542": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Philadelphia",
+   "deadline": "2026-12-07",
+   "firstSeen": "2026-11-16",
+   "id": "3baabc0511d7493a883289b7994b9542",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/3baabc0511d7493a883289b7994b9542/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "jennifer.kauffmann@gsa.gov",
+    "name": "jennifer kauffmann",
+    "phone": "2672945227"
+   },
+   "posted": "2026-11-16",
+   "setAside": "",
+   "solnum": "6PA0364",
+   "state": "PA",
+   "title": "Lease of Office Space within Philadelphia, PA. Request for Lease Proposals (RLP) #26NAT02",
+   "type": "Presolicitation"
   },
   "3c1f1d8f83c64701b63f8f75de40bb3c": {
    "active": true,
@@ -1878,7 +1997,6 @@
    "deadline": "",
    "firstSeen": "2026-11-13",
    "id": "4af7395059444480b44526bc41eaf1a2",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/4af7395059444480b44526bc41eaf1a2/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2173,6 +2291,30 @@
    "solnum": "2OK0217",
    "state": "OK",
    "title": "General Services Administration Office Space Pawnee, Oklahoma",
+   "type": "Award Notice"
+  },
+  "5da060ca5f4f4df6a6afa7a7d8a1cf13": {
+   "active": true,
+   "awardAmount": "1187749.00",
+   "awardee": "PORT AUTHORITY OF NEW YORK & NEW JERSEY",
+   "city": "Newark",
+   "deadline": "",
+   "firstSeen": "2026-11-16",
+   "id": "5da060ca5f4f4df6a6afa7a7d8a1cf13",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/5da060ca5f4f4df6a6afa7a7d8a1cf13/view",
+   "naics": "531120",
+   "office": "Pbs R2 Office Of Leasing",
+   "poc": {
+    "email": "alexander.litvak@gsa.gov",
+    "name": "Alexander Litvak",
+    "phone": "6466595886"
+   },
+   "posted": "2026-11-16",
+   "setAside": "",
+   "solnum": "2NJ0260",
+   "state": "NJ",
+   "title": "2NJ0260 - TSA Airport- Succeeding - Newark, NJ",
    "type": "Award Notice"
   },
   "5dcb658d45c94b419a0c9de9acfee9e3": {
@@ -2618,6 +2760,30 @@
    "solnum": "2PR0171-1",
    "state": "PR",
    "title": "Request for Lease Proposals No. 2PR0171-1, U.S. Government Seeks to Lease Warehouse Space in Bayamon, PR",
+   "type": "Solicitation"
+  },
+  "77fc4f9285d84fd2b3db08de52d48aa0": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Nashville",
+   "deadline": "2026-12-10",
+   "firstSeen": "2026-11-16",
+   "id": "77fc4f9285d84fd2b3db08de52d48aa0",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/77fc4f9285d84fd2b3db08de52d48aa0/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "erik.weiss@gsa.gov",
+    "name": "Erik Weiss",
+    "phone": "4045040018"
+   },
+   "posted": "2026-11-13",
+   "setAside": "",
+   "solnum": "4TN0330",
+   "state": "TN",
+   "title": "Solicitation 4TN0330-U.S. Government Seeks Office and Related Space in Nashville and Surrounding Areas",
    "type": "Solicitation"
   },
   "78b07e57904540f0870dfd3d2990e751": {
@@ -4217,7 +4383,6 @@
    "deadline": "2026-11-27",
    "firstSeen": "2026-11-13",
    "id": "be241405bde7418f90db8c54dece2e59",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/be241405bde7418f90db8c54dece2e59/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -5170,6 +5335,30 @@
    "title": "Redacted Justification for Atlanta, GA - 6GA0332",
    "type": "Justification"
   },
+  "dcf5a0b4983246178d12ab1296330592": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-11-20",
+   "firstSeen": "2026-11-16",
+   "id": "dcf5a0b4983246178d12ab1296330592",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/dcf5a0b4983246178d12ab1296330592/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "theodore.prillaman@gsa.gov",
+    "name": "Theodore Prillaman",
+    "phone": "3126232634"
+   },
+   "posted": "2026-11-13",
+   "setAside": "",
+   "solnum": "0TN2112-A",
+   "state": "TN",
+   "title": "0TN2112 - U.S. Government Seeks Office Space in Clarksville, TN",
+   "type": "Presolicitation"
+  },
   "de45d4d98a094608ae59db2d969e0daa": {
    "active": true,
    "awardAmount": "",
@@ -5178,7 +5367,6 @@
    "deadline": "2027-01-08",
    "firstSeen": "2026-11-13",
    "id": "de45d4d98a094608ae59db2d969e0daa",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/de45d4d98a094608ae59db2d969e0daa/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -5946,5 +6134,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-13T20:17:18+00:00"
+ "updated": "2026-11-16T22:42:56+00:00"
 }
