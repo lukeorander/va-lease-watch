@@ -1568,6 +1568,30 @@
    "title": "Request for Lease Proposals (RLP) for Olympia, WA CBOC",
    "type": "Solicitation"
   },
+  "80728c6696a14995b8cb4acb54fa2471": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Homestead",
+   "deadline": "2026-12-21",
+   "firstSeen": "2026-11-17",
+   "id": "80728c6696a14995b8cb4acb54fa2471",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/80728c6696a14995b8cb4acb54fa2471/view",
+   "naics": "531120",
+   "office": "248-Network Contract Office 8 (36C248)",
+   "poc": {
+    "email": "javier.correaochoa@va.gov",
+    "name": "Javier Correa-Ochoa",
+    "phone": "786-299-2659"
+   },
+   "posted": "2026-11-17",
+   "setAside": "",
+   "solnum": "36C24827R0012",
+   "state": "",
+   "title": "X1DB--FY27 New Replacement/Relocation Lease: Homestead CBOC",
+   "type": "Combined Synopsis/Solicitation"
+  },
   "8390958aa88548e2b64fccd38a4eb19a": {
    "active": true,
    "awardAmount": "37095466.08",
@@ -1691,7 +1715,6 @@
    "deadline": "2026-11-20",
    "firstSeen": "2026-11-16",
    "id": "8919dac078cb4dbbb597529756061d74",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/8919dac078cb4dbbb597529756061d74/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -1982,6 +2005,30 @@
    "state": "",
    "title": "X1DB--Department of Veterans Affairs HISTORIC REUSE OPPORTUNITY Robley Rex VAMC located in Louisville, KY Amendment for EXTENSION",
    "type": "Sources Sought"
+  },
+  "abd126a4252e46e3bcd192df3e3489f9": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Honolulu",
+   "deadline": "2026-12-14",
+   "firstSeen": "2026-11-17",
+   "id": "abd126a4252e46e3bcd192df3e3489f9",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/abd126a4252e46e3bcd192df3e3489f9/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "Tseifert@ppwashdc.com",
+    "name": "Teddy Seifert - VA Contracted Broker",
+    "phone": "3158251875"
+   },
+   "posted": "2026-11-17",
+   "setAside": "No Set aside used",
+   "solnum": "36C24W25R0073",
+   "state": "HI",
+   "title": "X1DB - RLP - VA ACC ANNEX | HONOLULU, HI",
+   "type": "Solicitation"
   },
   "ac5e40cc4a7c4eb6b783d88714262f35": {
    "active": true,
@@ -2559,6 +2606,30 @@
    "title": "X1DB--Conroe OPC 229,566 ANSI/BOMA 258,262 RSF",
    "type": "Combined Synopsis/Solicitation"
   },
+  "db52858816c648f5ad1a44cd03e1988d": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Olympia",
+   "deadline": "2026-12-01",
+   "firstSeen": "2026-11-17",
+   "id": "db52858816c648f5ad1a44cd03e1988d",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/db52858816c648f5ad1a44cd03e1988d/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "tpavek@crcre.com",
+    "name": "Timothy Pavek",
+    "phone": "9257902134"
+   },
+   "posted": "2026-11-16",
+   "setAside": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Sole Source (FAR 19.14)",
+   "solnum": "36C24W26R0012",
+   "state": "WA",
+   "title": "Request for Lease Proposals (RLP) for Olympia, WA CBOC",
+   "type": "Solicitation"
+  },
   "dc82d0b059fc40a4be05f69cfa33f72a": {
    "active": true,
    "awardAmount": "",
@@ -2590,7 +2661,6 @@
    "deadline": "2026-11-18",
    "firstSeen": "2026-11-16",
    "id": "dcdd66931af0439fa95e22724bfde9fb",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/dcdd66931af0439fa95e22724bfde9fb/view",
    "naics": "325120",
    "office": "262-Network Contract Office 22 (36C262)",
@@ -2744,6 +2814,30 @@
    "title": "Notice of Award - Cottonwood Succeeding Lease",
    "type": "Award Notice"
   },
+  "e60bfe90c5fd4fc897660c2f9a64c9e2": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2027-01-11",
+   "firstSeen": "2026-11-17",
+   "id": "e60bfe90c5fd4fc897660c2f9a64c9e2",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/e60bfe90c5fd4fc897660c2f9a64c9e2/view",
+   "naics": "531120",
+   "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
+   "poc": {
+    "email": "patricia.restrepo@chartwellenterprises.com",
+    "name": "Patricia Restrepo",
+    "phone": "202-382-2733"
+   },
+   "posted": "2026-11-17",
+   "setAside": "No Set aside used",
+   "solnum": "36C10F25R0057-0001",
+   "state": "",
+   "title": "X1DB--Lease of Outpatient Clinic in Franklin County, OH",
+   "type": "Combined Synopsis/Solicitation"
+  },
   "e6d2e737c25d414b8bb4506fb414f42a": {
    "active": true,
    "awardAmount": "",
@@ -2775,7 +2869,6 @@
    "deadline": "2026-11-09",
    "firstSeen": "2026-11-16",
    "id": "ea177cc993644ae2877beeafdb3262f6",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/ea177cc993644ae2877beeafdb3262f6/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -3229,5 +3322,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-16T22:42:55+00:00"
+ "updated": "2026-11-17T21:29:04+00:00"
 }

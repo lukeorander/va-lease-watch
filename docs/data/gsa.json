@@ -381,7 +381,6 @@
    "deadline": "",
    "firstSeen": "2026-11-16",
    "id": "0d5237b3da9041198c848663bcdbd1f8",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/0d5237b3da9041198c848663bcdbd1f8/view",
    "naics": "531120",
    "office": "Pbs R2 Office Of Leasing",
@@ -630,6 +629,30 @@
    "state": "NC",
    "title": "Awards Sole Source Lease in Asheville, NC",
    "type": "Justification"
+  },
+  "128ad78cfcdf4dfc9eaf43ae59d51db1": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Miami",
+   "deadline": "2026-11-25",
+   "firstSeen": "2026-11-17",
+   "id": "128ad78cfcdf4dfc9eaf43ae59d51db1",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/128ad78cfcdf4dfc9eaf43ae59d51db1/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "bryant.porter@gsa.gov",
+    "name": "Bryant Porter - PRAA-C",
+    "phone": "2026248515"
+   },
+   "posted": "2026-11-17",
+   "setAside": "No Set aside used",
+   "solnum": "6FL0613",
+   "state": "FL",
+   "title": "General Services Administration (GSA) seeks to lease the following space in Miami, FL:",
+   "type": "Solicitation"
   },
   "12aeeb34e3144a09b7a1bfb8d69e5bfe": {
    "active": true,
@@ -1081,7 +1104,6 @@
    "deadline": "",
    "firstSeen": "2026-11-16",
    "id": "24df2a81b92f42469aa34d9e19f39232",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/24df2a81b92f42469aa34d9e19f39232/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1386,7 +1408,6 @@
    "deadline": "2026-11-18",
    "firstSeen": "2026-11-16",
    "id": "2d4fab2f6ba84e5388d9386958e2d640",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/2d4fab2f6ba84e5388d9386958e2d640/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1480,7 +1501,6 @@
    "deadline": "2026-12-07",
    "firstSeen": "2026-11-16",
    "id": "2f4cdd5488b142958247b44c1f89efb1",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/2f4cdd5488b142958247b44c1f89efb1/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1785,7 +1805,6 @@
    "deadline": "2026-12-07",
    "firstSeen": "2026-11-16",
    "id": "3baabc0511d7493a883289b7994b9542",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/3baabc0511d7493a883289b7994b9542/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2301,7 +2320,6 @@
    "deadline": "",
    "firstSeen": "2026-11-16",
    "id": "5da060ca5f4f4df6a6afa7a7d8a1cf13",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/5da060ca5f4f4df6a6afa7a7d8a1cf13/view",
    "naics": "531120",
    "office": "Pbs R2 Office Of Leasing",
@@ -2770,7 +2788,6 @@
    "deadline": "2026-12-10",
    "firstSeen": "2026-11-16",
    "id": "77fc4f9285d84fd2b3db08de52d48aa0",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/77fc4f9285d84fd2b3db08de52d48aa0/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2808,6 +2825,30 @@
    "solnum": "0NV2119-2",
    "state": "NV",
    "title": "The U.S. Government Seeks to Lease Space in North Las Vegas & Las Vegas, NV",
+   "type": "Presolicitation"
+  },
+  "7a853360f0ac43a9a260b9aa5e233a08": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Lexington",
+   "deadline": "2026-12-08",
+   "firstSeen": "2026-11-17",
+   "id": "7a853360f0ac43a9a260b9aa5e233a08",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/7a853360f0ac43a9a260b9aa5e233a08/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "timothy.m.mazzucca@gsa.gov",
+    "name": "Tim Mazzucca",
+    "phone": "2026524199"
+   },
+   "posted": "2026-11-17",
+   "setAside": "No Set aside used",
+   "solnum": "0KY2111",
+   "state": "KY",
+   "title": "U.S. Government Seeks to Lease Office and Related Space in Lexington, KY",
    "type": "Presolicitation"
   },
   "7f142162092a47f5a0e50a1894d217bf": {
@@ -4237,6 +4278,30 @@
    "title": "Notice of Intent to Lease Office Space Using Other Than Full and Open Competition",
    "type": "Presolicitation"
   },
+  "bb7405906ebf43d7906990a319d9888b": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Miami",
+   "deadline": "2026-11-20",
+   "firstSeen": "2026-11-17",
+   "id": "bb7405906ebf43d7906990a319d9888b",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/bb7405906ebf43d7906990a319d9888b/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "bryant.porter@gsa.gov",
+    "name": "Bryant Porter - PRAA-C",
+    "phone": "2026248515"
+   },
+   "posted": "2026-11-17",
+   "setAside": "No Set aside used",
+   "solnum": "6FL0619",
+   "state": "FL",
+   "title": "General Services Administration (GSA) seeks to lease the following space in Miami, FL:",
+   "type": "Solicitation"
+  },
   "bb8325d1814549b5950d774650842786": {
    "active": true,
    "awardAmount": "",
@@ -5343,7 +5408,6 @@
    "deadline": "2026-11-20",
    "firstSeen": "2026-11-16",
    "id": "dcf5a0b4983246178d12ab1296330592",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/dcf5a0b4983246178d12ab1296330592/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -6134,5 +6198,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-16T22:42:56+00:00"
+ "updated": "2026-11-17T21:29:04+00:00"
 }
