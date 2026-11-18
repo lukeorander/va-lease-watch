@@ -638,7 +638,6 @@
    "deadline": "2026-11-25",
    "firstSeen": "2026-11-17",
    "id": "128ad78cfcdf4dfc9eaf43ae59d51db1",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/128ad78cfcdf4dfc9eaf43ae59d51db1/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -1095,6 +1094,30 @@
    "state": "TX",
    "title": "Award Notice for General Services Administration (GSA): Fort Worth, TX - 4TX0994",
    "type": "Award Notice"
+  },
+  "24ab0bcda44347bb9771097e285336fa": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Hudson",
+   "deadline": "2026-12-03",
+   "firstSeen": "2026-11-18",
+   "id": "24ab0bcda44347bb9771097e285336fa",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/24ab0bcda44347bb9771097e285336fa/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "fanni.frankl@gsa.gov",
+    "name": "Fanni Frankl",
+    "phone": "9172739750"
+   },
+   "posted": "2026-11-18",
+   "setAside": "",
+   "solnum": "4NY0720",
+   "state": "NY",
+   "title": "Solicitation for Leased Office Space in Hudson, NY",
+   "type": "Solicitation"
   },
   "24df2a81b92f42469aa34d9e19f39232": {
    "active": true,
@@ -1586,6 +1609,30 @@
    "title": "Post Award Synopsis TSA Vineyard Haven On-Airport Renewal",
    "type": "Award Notice"
   },
+  "361d3db4b4db49f0aab220e4c6c1411d": {
+   "active": true,
+   "awardAmount": "3472350.92",
+   "awardee": "300 SUNRISE LLC",
+   "city": "Melville",
+   "deadline": "",
+   "firstSeen": "2026-11-18",
+   "id": "361d3db4b4db49f0aab220e4c6c1411d",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/361d3db4b4db49f0aab220e4c6c1411d/view",
+   "naics": "531120",
+   "office": "Pbs R2 Office Of Leasing",
+   "poc": {
+    "email": "bena.courville@gsa.gov",
+    "name": "Bena Parker Courville",
+    "phone": "3472370950"
+   },
+   "posted": "2026-11-17",
+   "setAside": "",
+   "solnum": "6NY0732",
+   "state": "NY",
+   "title": "Lease Award Notice for 6NY0732 Long Island, NY",
+   "type": "Award Notice"
+  },
   "3625e04d23334d91a325ba2995c39fa2": {
    "active": true,
    "awardAmount": "",
@@ -1867,6 +1914,54 @@
    "title": "6MS0126 Notice of Intent to Lease Space using other than Full and Open Competition",
    "type": "Sources Sought"
   },
+  "3e7e932c27d14e52b6302e223fcba6d3": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Newark",
+   "deadline": "2026-12-03",
+   "firstSeen": "2026-11-18",
+   "id": "3e7e932c27d14e52b6302e223fcba6d3",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/3e7e932c27d14e52b6302e223fcba6d3/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "richard.downey@gsa.gov",
+    "name": "Richard T. Downey, Jr.",
+    "phone": "2025855664"
+   },
+   "posted": "2026-11-18",
+   "setAside": "",
+   "solnum": "6NJ0225",
+   "state": "NJ",
+   "title": "U.S. Government Seeks to Lease Office, Flex and Related Space in Newark, NJ",
+   "type": "Presolicitation"
+  },
+  "40e387616d7c4a4599ce4decd830a114": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Cheyenne",
+   "deadline": "2026-12-03",
+   "firstSeen": "2026-11-18",
+   "id": "40e387616d7c4a4599ce4decd830a114",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/40e387616d7c4a4599ce4decd830a114/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "dusty.w.griffith@gsa.gov",
+    "name": "Dusty Griffith - PRPB-C",
+    "phone": "8176800641"
+   },
+   "posted": "2026-11-18",
+   "setAside": "No Set aside used",
+   "solnum": "5WY0089",
+   "state": "WY",
+   "title": "General Services Administration (GSA) Seeks To Lease The Following Space:",
+   "type": "Presolicitation"
+  },
   "4333ce08611044efb947213cad57d387": {
    "active": true,
    "awardAmount": "",
@@ -2008,6 +2103,30 @@
    "title": "General Services Administration Lease: Office Space Pearl, TX",
    "type": "Award Notice"
   },
+  "499eac6ed4474f5a9ae64b8883166c22": {
+   "active": true,
+   "awardAmount": "295000.00",
+   "awardee": "COUNTY OF BEAUFORT",
+   "city": "Hilton Head Island",
+   "deadline": "",
+   "firstSeen": "2026-11-18",
+   "id": "499eac6ed4474f5a9ae64b8883166c22",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/499eac6ed4474f5a9ae64b8883166c22/view",
+   "naics": "",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "",
+    "name": "",
+    "phone": ""
+   },
+   "posted": "2026-11-18",
+   "setAside": "",
+   "solnum": "0SC2083",
+   "state": "SC",
+   "title": "Lease Award - On-Airport TSA Lease",
+   "type": "Award Notice"
+  },
   "4af7395059444480b44526bc41eaf1a2": {
    "active": true,
    "awardAmount": "90042331.25",
@@ -2052,6 +2171,30 @@
    "solnum": "6FL0714",
    "state": "FL",
    "title": "Government seeking office space in Lakeland, FL",
+   "type": "Presolicitation"
+  },
+  "4ce527a8a6584bb48e3ea3a8738edb36": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Tulsa",
+   "deadline": "2026-11-27",
+   "firstSeen": "2026-11-18",
+   "id": "4ce527a8a6584bb48e3ea3a8738edb36",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/4ce527a8a6584bb48e3ea3a8738edb36/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "chantal.wells@gsa.gov",
+    "name": "Chantal Wells",
+    "phone": "8179405506"
+   },
+   "posted": "2026-11-18",
+   "setAside": "",
+   "solnum": "4OK0194_",
+   "state": "OK",
+   "title": "General Services Administration (GSA) seeks to lease the following space: Tulsa, Oklahoma",
    "type": "Presolicitation"
   },
   "4ea559121d1743228c82d4fcdb4cef8c": {
@@ -2835,7 +2978,6 @@
    "deadline": "2026-12-08",
    "firstSeen": "2026-11-17",
    "id": "7a853360f0ac43a9a260b9aa5e233a08",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/7a853360f0ac43a9a260b9aa5e233a08/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2873,6 +3015,30 @@
    "solnum": "6GA0317",
    "state": "GA",
    "title": "Seeking Competitive Lease Proposals \u2013 Administrative Office Space in in Atlanta, GA - Request for Lease Proposals No. 26NAT02",
+   "type": "Combined Synopsis/Solicitation"
+  },
+  "7f853fae4b91447ea272fa19a16ae376": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Portland",
+   "deadline": "2026-12-07",
+   "firstSeen": "2026-11-18",
+   "id": "7f853fae4b91447ea272fa19a16ae376",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/7f853fae4b91447ea272fa19a16ae376/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "eduardo.depina@gsa.gov",
+    "name": "Eduardo Depina",
+    "phone": "6179211241"
+   },
+   "posted": "2026-11-18",
+   "setAside": "",
+   "solnum": "6ME0095",
+   "state": "ME",
+   "title": "Lease of Office Space within PORTLAND, MAINE. Request for Lease Proposals (RLP) #26NAT01",
    "type": "Combined Synopsis/Solicitation"
   },
   "7fe4cedbf11749d29d9794220ec565fe": {
@@ -3670,6 +3836,30 @@
    "title": "General Services Administration (GSA) seeks to lease office space in Brunswick, GA",
    "type": "Solicitation"
   },
+  "9e3ff9099bb54bf392a84c2abc303c2f": {
+   "active": true,
+   "awardAmount": "6220995.84",
+   "awardee": "CHEYENNE REGIONAL AIRPORT BOARD",
+   "city": "Cheyenne",
+   "deadline": "",
+   "firstSeen": "2026-11-18",
+   "id": "9e3ff9099bb54bf392a84c2abc303c2f",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/9e3ff9099bb54bf392a84c2abc303c2f/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "ryan.reynolds@gsa.gov",
+    "name": "Ryan Reynolds",
+    "phone": "2023086583"
+   },
+   "posted": "2026-11-18",
+   "setAside": "",
+   "solnum": "0WY2050",
+   "state": "WY",
+   "title": "General Services Administration (GSA) awards 13,139 RSF of office and related space in Cheyenne, WY.",
+   "type": "Award Notice"
+  },
   "9e8217eea0244d618cdd07058250ef88": {
    "active": true,
    "awardAmount": "",
@@ -4286,7 +4476,6 @@
    "deadline": "2026-11-20",
    "firstSeen": "2026-11-17",
    "id": "bb7405906ebf43d7906990a319d9888b",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/bb7405906ebf43d7906990a319d9888b/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -6198,5 +6387,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-17T21:29:04+00:00"
+ "updated": "2026-11-18T21:04:14+00:00"
 }
