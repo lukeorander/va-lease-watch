@@ -123,7 +123,6 @@
    "deadline": "2026-12-28",
    "firstSeen": "2026-11-18",
    "id": "1107efb6aa694c6f938a693109832dfa",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/1107efb6aa694c6f938a693109832dfa/view",
    "naics": "53",
    "office": "Rpo West (36C24W)",
@@ -354,7 +353,6 @@
    "deadline": "",
    "firstSeen": "2026-11-18",
    "id": "238c663bd1974c3fa20816dc222d1025",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/238c663bd1974c3fa20816dc222d1025/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -1409,6 +1407,30 @@
    "title": "Peoria CBOC Succeeding Lease Sources Sought",
    "type": "Sources Sought"
   },
+  "6c0e1405a911478b9df8836333362128": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Clovis",
+   "deadline": "2026-12-11",
+   "firstSeen": "2026-11-19",
+   "id": "6c0e1405a911478b9df8836333362128",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/6c0e1405a911478b9df8836333362128/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "Patti.Lorensen@va.gov",
+    "name": "Patti Lorensen",
+    "phone": ""
+   },
+   "posted": "2026-11-19",
+   "setAside": "",
+   "solnum": "36C24W27Q0017",
+   "state": "NM",
+   "title": "CBOC - Community Based Outpaient Clinic - Clovis, NM",
+   "type": "Sources Sought"
+  },
   "7030a9fdc6f8406bb2a59f4177484333": {
    "active": true,
    "awardAmount": "33922256.23",
@@ -2167,6 +2189,30 @@
    "state": "HI",
    "title": "X1DB - RLP - VA ACC ANNEX | HONOLULU, HI",
    "type": "Solicitation"
+  },
+  "b4e83c60441a408ab63a2d983562a1c8": {
+   "active": true,
+   "awardAmount": "286341.24",
+   "awardee": "G & G LLC",
+   "city": "Logan",
+   "deadline": "",
+   "firstSeen": "2026-11-19",
+   "id": "b4e83c60441a408ab63a2d983562a1c8",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/b4e83c60441a408ab63a2d983562a1c8/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "mati.weiderpass@va.gov",
+    "name": "Mati Weiderpass",
+    "phone": "80158215656680"
+   },
+   "posted": "2026-11-19",
+   "setAside": "",
+   "solnum": "36C25920L0015-P00006",
+   "state": "UT",
+   "title": "3-year lease extension",
+   "type": "Award Notice"
   },
   "b709ae3a102b43d39ff9d9079ce82647": {
    "active": true,
@@ -3366,5 +3412,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-18T21:04:11+00:00"
+ "updated": "2026-11-19T21:09:36+00:00"
 }

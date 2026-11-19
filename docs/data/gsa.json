@@ -1103,7 +1103,6 @@
    "deadline": "2026-12-03",
    "firstSeen": "2026-11-18",
    "id": "24ab0bcda44347bb9771097e285336fa",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/24ab0bcda44347bb9771097e285336fa/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1617,7 +1616,6 @@
    "deadline": "",
    "firstSeen": "2026-11-18",
    "id": "361d3db4b4db49f0aab220e4c6c1411d",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/361d3db4b4db49f0aab220e4c6c1411d/view",
    "naics": "531120",
    "office": "Pbs R2 Office Of Leasing",
@@ -1891,6 +1889,30 @@
    "title": "Justification of Lease Extension, 10,307 ABOA SF of Office space in Wichita Falls, TX",
    "type": "Justification"
   },
+  "3d8718c8300f41c8a5724d5c10301823": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Memphis",
+   "deadline": "2026-12-11",
+   "firstSeen": "2026-11-19",
+   "id": "3d8718c8300f41c8a5724d5c10301823",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/3d8718c8300f41c8a5724d5c10301823/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "edward.seifert@gsa.gov",
+    "name": "Edward \"Teddy\" H. Seifert",
+    "phone": "2026524189"
+   },
+   "posted": "2026-11-19",
+   "setAside": "",
+   "solnum": "6TN0187",
+   "state": "TN",
+   "title": "General Services Administration (GSA) Seeks to lease the following space: Solicitation No. 6TN0187",
+   "type": "Presolicitation"
+  },
   "3d8f64176703404ca736e4859d81123f": {
    "active": true,
    "awardAmount": "",
@@ -1922,7 +1944,6 @@
    "deadline": "2026-12-03",
    "firstSeen": "2026-11-18",
    "id": "3e7e932c27d14e52b6302e223fcba6d3",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/3e7e932c27d14e52b6302e223fcba6d3/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -1946,7 +1967,6 @@
    "deadline": "2026-12-03",
    "firstSeen": "2026-11-18",
    "id": "40e387616d7c4a4599ce4decd830a114",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/40e387616d7c4a4599ce4decd830a114/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2111,7 +2131,6 @@
    "deadline": "",
    "firstSeen": "2026-11-18",
    "id": "499eac6ed4474f5a9ae64b8883166c22",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/499eac6ed4474f5a9ae64b8883166c22/view",
    "naics": "",
    "office": "Pbs Office Of Leasing",
@@ -2181,7 +2200,6 @@
    "deadline": "2026-11-27",
    "firstSeen": "2026-11-18",
    "id": "4ce527a8a6584bb48e3ea3a8738edb36",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/4ce527a8a6584bb48e3ea3a8738edb36/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -3025,7 +3043,6 @@
    "deadline": "2026-12-07",
    "firstSeen": "2026-11-18",
    "id": "7f853fae4b91447ea272fa19a16ae376",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/7f853fae4b91447ea272fa19a16ae376/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -3276,6 +3293,30 @@
    "solnum": "Presolicitation-0DC2413",
    "state": "DC",
    "title": "U.S. Government Seeks to Lease Office and Related Space in Washington, DC",
+   "type": "Presolicitation"
+  },
+  "8c2df4fef6bd418a8d89c583229913e2": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Cleveland",
+   "deadline": "2026-12-23",
+   "firstSeen": "2026-11-19",
+   "id": "8c2df4fef6bd418a8d89c583229913e2",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/8c2df4fef6bd418a8d89c583229913e2/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "richard.downey@gsa.gov",
+    "name": "Richard T. Downey, Jr.",
+    "phone": "2025855664"
+   },
+   "posted": "2026-11-19",
+   "setAside": "",
+   "solnum": "5OH0349",
+   "state": "OH",
+   "title": "U.S. Government Seeks to Lease Office and Related Space in Cleveland, OH",
    "type": "Presolicitation"
   },
   "8c31fb207d884d578bc986a60c5a06fb": {
@@ -3813,6 +3854,30 @@
    "title": "Notice of Intent to Lease Office Space Using Other Than Full And Open Competition",
    "type": "Presolicitation"
   },
+  "9cd28b14d905419c89474625654b7b45": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-11-23",
+   "firstSeen": "2026-11-19",
+   "id": "9cd28b14d905419c89474625654b7b45",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/9cd28b14d905419c89474625654b7b45/view",
+   "naics": "531120",
+   "office": "Pbs R7 Office Of Leasing",
+   "poc": {
+    "email": "adrienne.jackson@gsa.gov",
+    "name": "Adrienne Jackson",
+    "phone": "8179780130"
+   },
+   "posted": "2026-11-19",
+   "setAside": "",
+   "solnum": "6MS0128",
+   "state": "",
+   "title": "General Services Administration (GSA) Lease: Office Space Greenwood, Mississippi",
+   "type": "Presolicitation"
+  },
   "9dbe82ca115549f08a2e39f2fcc6fa70": {
    "active": true,
    "awardAmount": "",
@@ -3844,7 +3909,6 @@
    "deadline": "",
    "firstSeen": "2026-11-18",
    "id": "9e3ff9099bb54bf392a84c2abc303c2f",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/9e3ff9099bb54bf392a84c2abc303c2f/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -4698,6 +4762,30 @@
    "title": "General Services Administration Lease: Office Space Jonesboro, Arkansas",
    "type": "Justification"
   },
+  "c06918cc75e74b95ad4f538bea3fe754": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Philadelphia",
+   "deadline": "2026-12-07",
+   "firstSeen": "2026-11-19",
+   "id": "c06918cc75e74b95ad4f538bea3fe754",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/c06918cc75e74b95ad4f538bea3fe754/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "jennifer.kauffmann@gsa.gov",
+    "name": "jennifer kauffmann",
+    "phone": "2672945227"
+   },
+   "posted": "2026-11-19",
+   "setAside": "",
+   "solnum": "6PA0364",
+   "state": "PA",
+   "title": "Lease of Office Space within Philadelphia, PA. Request for Lease Proposals (RLP) #26NAT02",
+   "type": "Presolicitation"
+  },
   "c06f3c310567458f9fa6287e027e798b": {
    "active": true,
    "awardAmount": "14939649.85",
@@ -5072,6 +5160,30 @@
    "title": "6CA1200 Justification for Other Than Full and Open Competition",
    "type": "Justification"
   },
+  "cd407f90e9584085bf9d44a984a7b624": {
+   "active": true,
+   "awardAmount": "13016203.20",
+   "awardee": "GLENDALE GSA LLC",
+   "city": "Glendale",
+   "deadline": "",
+   "firstSeen": "2026-11-19",
+   "id": "cd407f90e9584085bf9d44a984a7b624",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/cd407f90e9584085bf9d44a984a7b624/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "ryan.reynolds@gsa.gov",
+    "name": "Ryan Reynolds",
+    "phone": "2023086583"
+   },
+   "posted": "2026-11-19",
+   "setAside": "",
+   "solnum": "3AZ0302",
+   "state": "AZ",
+   "title": "General Services Administration (GSA) awards 16,632 RSF of office and related space in Glendale, AZ",
+   "type": "Award Notice"
+  },
   "cde64d4ceca44eaa902bddf57340add6": {
    "active": true,
    "awardAmount": "",
@@ -5236,6 +5348,30 @@
    "state": "FL",
    "title": "Lease of Office Space in Fort Lauderdale, Florida - Request for Lease Proposals (RLP) #26NAT01 - Office Space",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "d45c2f68cf0e4aba82e9d283b251308f": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Washington",
+   "deadline": "2026-12-10",
+   "firstSeen": "2026-11-19",
+   "id": "d45c2f68cf0e4aba82e9d283b251308f",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/d45c2f68cf0e4aba82e9d283b251308f/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "todd.valentine@gsa.gov",
+    "name": "Todd Valentine",
+    "phone": "2026248531"
+   },
+   "posted": "2026-11-18",
+   "setAside": "No Set aside used",
+   "solnum": "3DC0687-A",
+   "state": "DC",
+   "title": "General Services Administration (GSA) seeks to lease the following space:",
+   "type": "Solicitation"
   },
   "d4884d2689b24ecc966a003fbe041b7d": {
    "active": true,
@@ -6387,5 +6523,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-18T21:04:14+00:00"
+ "updated": "2026-11-19T21:09:37+00:00"
 }
