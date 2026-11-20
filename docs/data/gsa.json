@@ -769,6 +769,30 @@
    "title": "US GOVERNMENT WANTS TO LEASE OFFICE SPACE IN SAN ANTONIO, TX",
    "type": "Presolicitation"
   },
+  "18a6d4317e87412b8b75b7614589428e": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Newark",
+   "deadline": "2026-12-03",
+   "firstSeen": "2026-11-20",
+   "id": "18a6d4317e87412b8b75b7614589428e",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/18a6d4317e87412b8b75b7614589428e/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "richard.downey@gsa.gov",
+    "name": "Richard T. Downey, Jr.",
+    "phone": "2025855664"
+   },
+   "posted": "2026-11-20",
+   "setAside": "",
+   "solnum": "6NJ0225",
+   "state": "NJ",
+   "title": "U.S. Government Seeks to Lease Office, Flex and Related Space in Newark, NJ",
+   "type": "Presolicitation"
+  },
   "18d93b1b7f36404eaa4d9c6bd74887b4": {
    "active": true,
    "awardAmount": "",
@@ -1897,7 +1921,6 @@
    "deadline": "2026-12-11",
    "firstSeen": "2026-11-19",
    "id": "3d8718c8300f41c8a5724d5c10301823",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/3d8718c8300f41c8a5724d5c10301823/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2824,6 +2847,30 @@
    "title": "Government Seeking Expressions of Interest in Richmond, Virginia",
    "type": "Presolicitation"
   },
+  "7065138ee3cb4e8a83b8a44dcd860ebc": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Portland",
+   "deadline": "2026-11-27",
+   "firstSeen": "2026-11-20",
+   "id": "7065138ee3cb4e8a83b8a44dcd860ebc",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/7065138ee3cb4e8a83b8a44dcd860ebc/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "eduardo.depina@gsa.gov",
+    "name": "Eduardo Depina",
+    "phone": "6179211241"
+   },
+   "posted": "2026-11-20",
+   "setAside": "",
+   "solnum": "4ME0096",
+   "state": "ME",
+   "title": "The government seeks expression of interest from lessors to lease office space in Portland, Maine",
+   "type": "Presolicitation"
+  },
   "710e555560704331a7eda69ad9091f6b": {
    "active": true,
    "awardAmount": "",
@@ -3303,7 +3350,6 @@
    "deadline": "2026-12-23",
    "firstSeen": "2026-11-19",
    "id": "8c2df4fef6bd418a8d89c583229913e2",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/8c2df4fef6bd418a8d89c583229913e2/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -3862,7 +3908,6 @@
    "deadline": "2026-11-23",
    "firstSeen": "2026-11-19",
    "id": "9cd28b14d905419c89474625654b7b45",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/9cd28b14d905419c89474625654b7b45/view",
    "naics": "531120",
    "office": "Pbs R7 Office Of Leasing",
@@ -4299,6 +4344,30 @@
    "title": "General Services Administration (GSA) seeks to lease office space in Ventura, CA",
    "type": "Presolicitation"
   },
+  "b07cad54c4df456aac24ab86ee169d8a": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Washington",
+   "deadline": "2026-12-08",
+   "firstSeen": "2026-11-20",
+   "id": "b07cad54c4df456aac24ab86ee169d8a",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/b07cad54c4df456aac24ab86ee169d8a/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "todd.valentine@gsa.gov",
+    "name": "Todd Valentine",
+    "phone": "2026248531"
+   },
+   "posted": "2026-11-19",
+   "setAside": "No Set aside used",
+   "solnum": "9DC2719",
+   "state": "DC",
+   "title": "The U.S. General Services Administration seeks to lease the following space:",
+   "type": "Solicitation"
+  },
   "b12813e93bc94dfca84cfafb0a67683f": {
    "active": true,
    "awardAmount": "",
@@ -4415,6 +4484,30 @@
    "state": "DC",
    "title": "U.S. Government Seeks Proposals to Lease 2,405 to 2,605 ABOA SQ FT of Office and Related Space in Washington, DC",
    "type": "Solicitation"
+  },
+  "b7d9f633bc8042a2858738da5bacd231": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Fort Worth",
+   "deadline": "2026-11-27",
+   "firstSeen": "2026-11-20",
+   "id": "b7d9f633bc8042a2858738da5bacd231",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/b7d9f633bc8042a2858738da5bacd231/view",
+   "naics": "531190",
+   "office": "Pbs R7 Office Of Leasing",
+   "poc": {
+    "email": "Chantal.wells@gsa.gov",
+    "name": "Chantal Wells",
+    "phone": ""
+   },
+   "posted": "2026-11-19",
+   "setAside": "",
+   "solnum": "4OK0194",
+   "state": "TX",
+   "title": "General Services Administration Lease: Office Space Tulsa, Oklahoma",
+   "type": "Special Notice"
   },
   "b82383a28c4443bfa5c60569c4aa22e8": {
    "active": true,
@@ -4770,7 +4863,6 @@
    "deadline": "2026-12-07",
    "firstSeen": "2026-11-19",
    "id": "c06918cc75e74b95ad4f538bea3fe754",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/c06918cc75e74b95ad4f538bea3fe754/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -4808,6 +4900,54 @@
    "state": "MA",
    "title": "Award Notice - The Government is seeking 15,000 ANSI BOMA Sq Ft of office/warehouse space in Bedford, MA; Burlington, MA; Billerica, MA; Chelmsford, MA; Tewksbury, MA",
    "type": "Award Notice"
+  },
+  "c0ffbe5bcf074331b6b9ac779172d873": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Capitol Heights",
+   "deadline": "2026-11-27",
+   "firstSeen": "2026-11-20",
+   "id": "c0ffbe5bcf074331b6b9ac779172d873",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/c0ffbe5bcf074331b6b9ac779172d873/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "sherri.choate@gsa.gov",
+    "name": "Sherri Choate",
+    "phone": ""
+   },
+   "posted": "2026-11-20",
+   "setAside": "",
+   "solnum": "6MD0426",
+   "state": "MD",
+   "title": "Expression of Interest (EOI) in Capitol Heights, MD",
+   "type": "Sources Sought"
+  },
+  "c1bd7c304baa40c0b0ff129464b3c11c": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Davie",
+   "deadline": "2026-12-16",
+   "firstSeen": "2026-11-20",
+   "id": "c1bd7c304baa40c0b0ff129464b3c11c",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/c1bd7c304baa40c0b0ff129464b3c11c/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "timothy.m.mazzucca@gsa.gov",
+    "name": "Tim Mazzucca",
+    "phone": "2026524199"
+   },
+   "posted": "2026-11-20",
+   "setAside": "No Set aside used",
+   "solnum": "9FL2517",
+   "state": "FL",
+   "title": "9FL2517 - General Services seeks to Lease Warehouse Space in Miami, FL",
+   "type": "Solicitation"
   },
   "c3461563b2b94dbca9f7535aecf6a325": {
    "active": true,
@@ -5168,7 +5308,6 @@
    "deadline": "",
    "firstSeen": "2026-11-19",
    "id": "cd407f90e9584085bf9d44a984a7b624",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/cd407f90e9584085bf9d44a984a7b624/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -5357,7 +5496,6 @@
    "deadline": "2026-12-10",
    "firstSeen": "2026-11-19",
    "id": "d45c2f68cf0e4aba82e9d283b251308f",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/d45c2f68cf0e4aba82e9d283b251308f/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -6523,5 +6661,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-19T21:09:37+00:00"
+ "updated": "2026-11-20T20:54:04+00:00"
 }

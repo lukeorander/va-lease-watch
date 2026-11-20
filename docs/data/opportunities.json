@@ -1415,7 +1415,6 @@
    "deadline": "2026-12-11",
    "firstSeen": "2026-11-19",
    "id": "6c0e1405a911478b9df8836333362128",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/6c0e1405a911478b9df8836333362128/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -1729,6 +1728,30 @@
    "state": "IN",
    "title": "X1DB--Fort Wayne FY2025 OPC RLP",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "8584aeec6a2947a8994f800939095ca3": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Richland Hills",
+   "deadline": "2026-12-04",
+   "firstSeen": "2026-11-20",
+   "id": "8584aeec6a2947a8994f800939095ca3",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/8584aeec6a2947a8994f800939095ca3/view",
+   "naics": "531120",
+   "office": "Rpo West (36C24W)",
+   "poc": {
+    "email": "Tashia.Marsh@va.gov",
+    "name": "TaShia Marsh-Brown",
+    "phone": ""
+   },
+   "posted": "2026-11-19",
+   "setAside": "",
+   "solnum": "36C24W26R0055",
+   "state": "TX",
+   "title": "New Lease for VA Clinic (CBOC) Tarrant County, Texas",
+   "type": "Solicitation"
   },
   "86c200dc84c840b790d7c2ac962eb9c8": {
    "active": true,
@@ -2198,7 +2221,6 @@
    "deadline": "",
    "firstSeen": "2026-11-19",
    "id": "b4e83c60441a408ab63a2d983562a1c8",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/b4e83c60441a408ab63a2d983562a1c8/view",
    "naics": "531120",
    "office": "Rpo West (36C24W)",
@@ -3412,5 +3434,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-19T21:09:36+00:00"
+ "updated": "2026-11-20T20:54:03+00:00"
 }
