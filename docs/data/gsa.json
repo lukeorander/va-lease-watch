@@ -264,7 +264,6 @@
    "deadline": "2026-12-14",
    "firstSeen": "2026-11-24",
    "id": "09f67f157d3e4ee18b4529f2116b03da",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/09f67f157d3e4ee18b4529f2116b03da/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -278,6 +277,30 @@
    "solnum": "6AL0166",
    "state": "AL",
    "title": "US GOVERNMENT WANTS TO LEASE OFFICE AND RELATED SPACE IN HUNTSVILLE, AL",
+   "type": "Presolicitation"
+  },
+  "0a1c6fe4ef314776ba081a8c2e9504c8": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Sevierville",
+   "deadline": "2026-12-23",
+   "firstSeen": "2026-11-24",
+   "id": "0a1c6fe4ef314776ba081a8c2e9504c8",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/0a1c6fe4ef314776ba081a8c2e9504c8/view",
+   "naics": "",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "linda.hattersley@gsa.gov",
+    "name": "Linda Hattersley",
+    "phone": "3122090137"
+   },
+   "posted": "2026-11-24",
+   "setAside": "",
+   "solnum": "6TN0212",
+   "state": "TN",
+   "title": "General Services Administration (GSA) seeks to lease space in Sevierville, TN",
    "type": "Presolicitation"
   },
   "0a2b2ecb35d6490f9d223428567b8244": {
@@ -372,6 +395,30 @@
    "state": "DC",
    "title": "The U.S. General Services Administration seeks to lease the following space:",
    "type": "Solicitation"
+  },
+  "0cdaeb1047dc47f380bfdc37d2f4c4be": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Fort Worth",
+   "deadline": "2026-12-11",
+   "firstSeen": "2026-11-24",
+   "id": "0cdaeb1047dc47f380bfdc37d2f4c4be",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/0cdaeb1047dc47f380bfdc37d2f4c4be/view",
+   "naics": "53112",
+   "office": "Pbs R7 Office Of Leasing",
+   "poc": {
+    "email": "michael.noye@gsa.gov",
+    "name": "Michael Noye",
+    "phone": "8172019326"
+   },
+   "posted": "2026-11-24",
+   "setAside": "",
+   "solnum": "1TX2748",
+   "state": "TX",
+   "title": "General Services Administration (GSA) seeks to lease the following space: Fort Worth, Texas",
+   "type": "Special Notice"
   },
   "0d165c4320494e449c2dfe415555d289": {
    "active": true,
@@ -559,6 +606,30 @@
    "state": "TX",
    "title": "Cancellation Notice: 1TX2688 - Fort Worth, TX",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "1149a016f442468889f18548734b90d9": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Salt Lake City",
+   "deadline": "2026-12-15",
+   "firstSeen": "2026-11-24",
+   "id": "1149a016f442468889f18548734b90d9",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/1149a016f442468889f18548734b90d9/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "Timothy.Pavek@gsa.gov",
+    "name": "Tim Pavek, Broker Contractor - Carpenter/Robbins Commercial Real Estate, Inc.",
+    "phone": "(925) 790-2134"
+   },
+   "posted": "2026-11-24",
+   "setAside": "",
+   "solnum": "4UT0215",
+   "state": "UT",
+   "title": "General Services Administration (GSA) seeks to lease office space in Salt Lake City, UT",
+   "type": "Presolicitation"
   },
   "115e2e33298a46678a0aea219c0c1632": {
    "active": true,
@@ -965,7 +1036,6 @@
    "deadline": "2026-12-23",
    "firstSeen": "2026-11-24",
    "id": "1c6a6e785ddc412c8de6636b61264aa9",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/1c6a6e785ddc412c8de6636b61264aa9/view",
    "naics": "",
    "office": "Pbs Office Of Leasing",
@@ -1003,6 +1073,30 @@
    "state": "WA",
    "title": "General Services Administration (GSA) seeks to lease two parking spaces in Spokane, WA",
    "type": "Presolicitation"
+  },
+  "1da52277b91f45d0bc4f901fe0563d3e": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Orlando",
+   "deadline": "2026-12-24",
+   "firstSeen": "2026-11-24",
+   "id": "1da52277b91f45d0bc4f901fe0563d3e",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/1da52277b91f45d0bc4f901fe0563d3e/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "eugene.wright@gsa.gov",
+    "name": "Eugene B. Wright",
+    "phone": "4045800098"
+   },
+   "posted": "2026-11-24",
+   "setAside": "No Set aside used",
+   "solnum": "6FL0658-3",
+   "state": "FL",
+   "title": "6FL0658 - GSA seeks to lease Office Space in Orlando, FL",
+   "type": "Solicitation"
   },
   "1f0bb29ee1a0477292f8b56395c0fb73": {
    "active": true,
@@ -1197,7 +1291,6 @@
    "deadline": "2026-12-23",
    "firstSeen": "2026-11-24",
    "id": "24dcdb82564043bd8f85df748acf13f6",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/24dcdb82564043bd8f85df748acf13f6/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1330,6 +1423,30 @@
    "title": "General Services Administration Lease: Office Space Baton Rouge, Louisiana",
    "type": "Award Notice"
   },
+  "2627e1292ecb41cba2ce95b01e90cf73": {
+   "active": true,
+   "awardAmount": "21002913.10",
+   "awardee": "BRAKER METRIC BUSINESS PARKS LLC",
+   "city": "Austin",
+   "deadline": "",
+   "firstSeen": "2026-11-24",
+   "id": "2627e1292ecb41cba2ce95b01e90cf73",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/2627e1292ecb41cba2ce95b01e90cf73/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "jason.lichty@gsa.gov",
+    "name": "Jason Lichty",
+    "phone": "9727392213"
+   },
+   "posted": "2026-11-24",
+   "setAside": "",
+   "solnum": "4TX1005",
+   "state": "TX",
+   "title": "Lease Award - Austin, TX",
+   "type": "Award Notice"
+  },
   "272528a5b1004d3a94c35e1a08e5c558": {
    "active": true,
    "awardAmount": "",
@@ -1408,7 +1525,6 @@
    "deadline": "",
    "firstSeen": "2026-11-24",
    "id": "29bb79758bed45e5be7ff94ea12d2d03",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/29bb79758bed45e5be7ff94ea12d2d03/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2201,7 +2317,6 @@
    "deadline": "2026-12-07",
    "firstSeen": "2026-11-24",
    "id": "446c6338e2ec40fb9859498ad1b549ff",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/446c6338e2ec40fb9859498ad1b549ff/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2288,6 +2403,30 @@
    "title": "Lease Award - On-Airport TSA Lease",
    "type": "Award Notice"
   },
+  "49b94e65c4a0452fb2a6db69e74ef4b7": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Orlando",
+   "deadline": "2026-12-22",
+   "firstSeen": "2026-11-24",
+   "id": "49b94e65c4a0452fb2a6db69e74ef4b7",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/49b94e65c4a0452fb2a6db69e74ef4b7/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "edward.seifert@gsa.gov",
+    "name": "Edward \"Teddy\" H. Seifert",
+    "phone": "2026524189"
+   },
+   "posted": "2026-11-24",
+   "setAside": "",
+   "solnum": "0FL2316-1",
+   "state": "FL",
+   "title": "General Services Administration (GSA) Seeks to lease the following space: Solicitation No. 0FL2316",
+   "type": "Presolicitation"
+  },
   "4af7395059444480b44526bc41eaf1a2": {
    "active": true,
    "awardAmount": "90042331.25",
@@ -2333,6 +2472,30 @@
    "state": "FL",
    "title": "Government seeking office space in Lakeland, FL",
    "type": "Presolicitation"
+  },
+  "4c3baef5e4f54206a91711403b575070": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "San Jose",
+   "deadline": "2026-12-14",
+   "firstSeen": "2026-11-24",
+   "id": "4c3baef5e4f54206a91711403b575070",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/4c3baef5e4f54206a91711403b575070/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "john.a.bell@gsa.gov",
+    "name": "JOHN A. BELL",
+    "phone": ""
+   },
+   "posted": "2026-11-24",
+   "setAside": "",
+   "solnum": "3CA1731",
+   "state": "CA",
+   "title": "US GOVERNMENT SEEKS TO LEASE SPACE IN SAN JOSE, CA (RLP Package)",
+   "type": "Solicitation"
   },
   "4ce527a8a6584bb48e3ea3a8738edb36": {
    "active": true,
@@ -3161,7 +3324,6 @@
    "deadline": "2026-11-25",
    "firstSeen": "2026-11-24",
    "id": "78cfc036b8ea442386992a44a865fc5e",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/78cfc036b8ea442386992a44a865fc5e/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -4375,7 +4537,6 @@
    "deadline": "2026-11-23",
    "firstSeen": "2026-11-24",
    "id": "aa14e3bb53b243558ca340fc789d8b89",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/aa14e3bb53b243558ca340fc789d8b89/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -6198,7 +6359,6 @@
    "deadline": "2026-12-14",
    "firstSeen": "2026-11-24",
    "id": "e58cc00c3c1046f1b99c8acc218501ba",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/e58cc00c3c1046f1b99c8acc218501ba/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -6469,6 +6629,30 @@
    "state": "CA",
    "title": "Redacted JOTFOC - 11,943 ABOA SF / 12,543 RSF of office and related space",
    "type": "Justification"
+  },
+  "ebe5cbd52ab14a69a0796b62faaa26e1": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Buffalo",
+   "deadline": "2026-12-07",
+   "firstSeen": "2026-11-24",
+   "id": "ebe5cbd52ab14a69a0796b62faaa26e1",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/ebe5cbd52ab14a69a0796b62faaa26e1/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "elizabeth.mccullough@gsa.gov",
+    "name": "Elizabeth McCullough",
+    "phone": "2675932398"
+   },
+   "posted": "2026-11-24",
+   "setAside": "",
+   "solnum": "6NY0814",
+   "state": "NY",
+   "title": "Lease of Office Space within Buffalo/Williamsville area, NY. Request for Lease Proposals (RLP) #26NAT02",
+   "type": "Presolicitation"
   },
   "ec08630ffb834d00a82b5febec911aa3": {
    "active": true,
@@ -6849,5 +7033,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-24T00:33:42+00:00"
+ "updated": "2026-11-24T22:53:40+00:00"
 }

@@ -1,5 +1,29 @@
 {
  "items": {
+  "0012be90042b488eb38e770cf2841450": {
+   "active": true,
+   "awardAmount": "36144.00",
+   "awardee": "VANTIVE US HEALTHCARE LLC",
+   "city": "",
+   "deadline": "",
+   "firstSeen": "2026-11-24",
+   "id": "0012be90042b488eb38e770cf2841450",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/0012be90042b488eb38e770cf2841450/view",
+   "naics": "532490",
+   "office": "246-Network Contracting Office 6 (36C246)",
+   "poc": {
+    "email": "ruth.morris@va.gov",
+    "name": "Ruth A. Morris",
+    "phone": "757-251-4296"
+   },
+   "posted": "2026-11-24",
+   "setAside": "",
+   "solnum": "36C24627Q0107",
+   "state": "",
+   "title": "W065--AMIA CYCLER LEASE DIALYSIS",
+   "type": "Award Notice"
+  },
   "01faf1f2149a4d7ab715dafedd29dd44": {
    "active": true,
    "awardAmount": "",
@@ -230,6 +254,30 @@
    "title": "X1DB--New Flint CBOC",
    "type": "Sources Sought"
   },
+  "17b546f26508488eb114d7c20233c9a4": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Mitchell",
+   "deadline": "2026-12-08",
+   "firstSeen": "2026-11-24",
+   "id": "17b546f26508488eb114d7c20233c9a4",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/17b546f26508488eb114d7c20233c9a4/view",
+   "naics": "531120",
+   "office": "Network Contract Office 23 (36C263)",
+   "poc": {
+    "email": "kelsey.schulzetenberg@va.gov",
+    "name": "Kelsey Schulzetenberg",
+    "phone": ""
+   },
+   "posted": "2026-11-24",
+   "setAside": "",
+   "solnum": "36C26327R0010",
+   "state": "SD",
+   "title": "Expression of Interest - New Replacing Lease - Mitchell CBOC",
+   "type": "Sources Sought"
+  },
   "1ba80acb6926475f9ff9087fb6f8d576": {
    "active": true,
    "awardAmount": "",
@@ -392,6 +440,30 @@
    "title": "VHA seeking 20,250 RSF for a Community Based Outreach Clinic in Twin Falls, ID",
    "type": "Solicitation"
   },
+  "26542ec6a47445a7a0e3b5525ce74f58": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Augusta",
+   "deadline": "2026-12-01",
+   "firstSeen": "2026-11-24",
+   "id": "26542ec6a47445a7a0e3b5525ce74f58",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/26542ec6a47445a7a0e3b5525ce74f58/view",
+   "naics": "531120",
+   "office": "242-Network Contract Office 02 (36C242)",
+   "poc": {
+    "email": "nicholas.griffaton@va.gov",
+    "name": "Nicholas Griffaton",
+    "phone": ""
+   },
+   "posted": "2026-11-24",
+   "setAside": "",
+   "solnum": "36C24227Q0140",
+   "state": "GA",
+   "title": "Sources Sought - Augusta GA Vet Center",
+   "type": "Sources Sought"
+  },
   "28eb3daea92e44479a12c0011b608e00": {
    "active": true,
    "awardAmount": "",
@@ -469,7 +541,6 @@
    "deadline": "2026-12-07",
    "firstSeen": "2026-11-24",
    "id": "2d4a64e46c1a41bf85297b8fc73b423a",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/2d4a64e46c1a41bf85297b8fc73b423a/view",
    "naics": "531120",
    "office": "260-Network Contract Office 20 (36C260)",
@@ -1025,7 +1096,6 @@
    "deadline": "2026-12-18",
    "firstSeen": "2026-11-24",
    "id": "4bd06b883e8449f8ab471a3a7fb55b1d",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/4bd06b883e8449f8ab471a3a7fb55b1d/view",
    "naics": "531120",
    "office": "255-Network Contract Office 15 (36C255)",
@@ -3506,5 +3576,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-24T00:33:41+00:00"
+ "updated": "2026-11-24T22:53:39+00:00"
 }
