@@ -461,6 +461,30 @@
    "title": "Conway CBOC Superseding Lease",
    "type": "Award Notice"
   },
+  "2d4a64e46c1a41bf85297b8fc73b423a": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Soldotna",
+   "deadline": "2026-12-07",
+   "firstSeen": "2026-11-24",
+   "id": "2d4a64e46c1a41bf85297b8fc73b423a",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/2d4a64e46c1a41bf85297b8fc73b423a/view",
+   "naics": "531120",
+   "office": "260-Network Contract Office 20 (36C260)",
+   "poc": {
+    "email": "garry.alexander@va.gov",
+    "name": "Garry J Alexander",
+    "phone": ""
+   },
+   "posted": "2026-11-23",
+   "setAside": "No Set aside used",
+   "solnum": "36C24W270006",
+   "state": "AK",
+   "title": "Request for Lease Proposal - Kenai Outstation - Soldotna, Alaska",
+   "type": "Combined Synopsis/Solicitation"
+  },
   "3075333ce7574cce93fb2d190c04194a": {
    "active": true,
    "awardAmount": "",
@@ -643,6 +667,30 @@
    "solnum": "36C24227Q0081",
    "state": "NY",
    "title": "Middletown NY Vet Center New/Replacing Lease",
+   "type": "Sources Sought"
+  },
+  "408de9936a124779b0173e8deb642764": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Mitchell",
+   "deadline": "2026-12-08",
+   "firstSeen": "2026-11-24",
+   "id": "408de9936a124779b0173e8deb642764",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/408de9936a124779b0173e8deb642764/view",
+   "naics": "531120",
+   "office": "Network Contract Office 23 (36C263)",
+   "poc": {
+    "email": "kelsey.schulzetenberg@va.gov",
+    "name": "Kelsey Schulzetenberg",
+    "phone": ""
+   },
+   "posted": "2026-11-23",
+   "setAside": "",
+   "solnum": "36C26327R0010",
+   "state": "SD",
+   "title": "Expression of Interest - New Replacing Lease - Mitchell CBOC",
    "type": "Sources Sought"
   },
   "412cca448a904315bfbf918dd0827b81": {
@@ -968,6 +1016,30 @@
    "state": "MO",
    "title": "WoundScout Lease and Service",
    "type": "Special Notice"
+  },
+  "4bd06b883e8449f8ab471a3a7fb55b1d": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-12-18",
+   "firstSeen": "2026-11-24",
+   "id": "4bd06b883e8449f8ab471a3a7fb55b1d",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/4bd06b883e8449f8ab471a3a7fb55b1d/view",
+   "naics": "531120",
+   "office": "255-Network Contract Office 15 (36C255)",
+   "poc": {
+    "email": "terry.martin1@va.gov",
+    "name": "Terry Martin",
+    "phone": ""
+   },
+   "posted": "2026-11-23",
+   "setAside": "No Set aside used",
+   "solnum": "36C25527R0011",
+   "state": "MO",
+   "title": "Lease Medical Space, 19,000 ABOA",
+   "type": "Solicitation"
   },
   "4f293229cdae418bad222ae16ad946d5": {
    "active": true,
@@ -3434,5 +3506,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-20T20:54:03+00:00"
+ "updated": "2026-11-24T00:33:41+00:00"
 }

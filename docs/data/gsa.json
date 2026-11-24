@@ -256,6 +256,30 @@
    "title": "General Services Administration (GSA) seeks to lease the following space in Miami, FL:",
    "type": "Solicitation"
   },
+  "09f67f157d3e4ee18b4529f2116b03da": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Huntsville",
+   "deadline": "2026-12-14",
+   "firstSeen": "2026-11-24",
+   "id": "09f67f157d3e4ee18b4529f2116b03da",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/09f67f157d3e4ee18b4529f2116b03da/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "jason.lichty@gsa.gov",
+    "name": "Jason Lichty",
+    "phone": "9727392213"
+   },
+   "posted": "2026-11-23",
+   "setAside": "",
+   "solnum": "6AL0166",
+   "state": "AL",
+   "title": "US GOVERNMENT WANTS TO LEASE OFFICE AND RELATED SPACE IN HUNTSVILLE, AL",
+   "type": "Presolicitation"
+  },
   "0a2b2ecb35d6490f9d223428567b8244": {
    "active": true,
    "awardAmount": "",
@@ -777,7 +801,6 @@
    "deadline": "2026-12-03",
    "firstSeen": "2026-11-20",
    "id": "18a6d4317e87412b8b75b7614589428e",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/18a6d4317e87412b8b75b7614589428e/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -933,6 +956,30 @@
    "state": "DC",
    "title": "Award Notice: General Services Administration (GSA) seeks to lease the following space in Washington, DC:",
    "type": "Award Notice"
+  },
+  "1c6a6e785ddc412c8de6636b61264aa9": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-12-23",
+   "firstSeen": "2026-11-24",
+   "id": "1c6a6e785ddc412c8de6636b61264aa9",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/1c6a6e785ddc412c8de6636b61264aa9/view",
+   "naics": "",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "linda.hattersley@gsa.gov",
+    "name": "Linda Hattersley",
+    "phone": "3122090137"
+   },
+   "posted": "2026-11-23",
+   "setAside": "",
+   "solnum": "5TN0264",
+   "state": "TN",
+   "title": "Lease of office space within Knoxville, TN request for Lease proposals (RLP)",
+   "type": "Presolicitation"
   },
   "1d38ecb45e2d451f8f3dddccccf5233f": {
    "active": true,
@@ -1142,6 +1189,30 @@
    "title": "Solicitation for Leased Office Space in Hudson, NY",
    "type": "Solicitation"
   },
+  "24dcdb82564043bd8f85df748acf13f6": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Birmingham",
+   "deadline": "2026-12-23",
+   "firstSeen": "2026-11-24",
+   "id": "24dcdb82564043bd8f85df748acf13f6",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/24dcdb82564043bd8f85df748acf13f6/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "alvin.jackson@gsa.gov",
+    "name": "Alvin Jackson",
+    "phone": "4043165636"
+   },
+   "posted": "2026-11-23",
+   "setAside": "",
+   "solnum": "6AL0157",
+   "state": "AL",
+   "title": "US GOVERNMENT WANTS TO LEASE OFFICE AND RELATED SPACE IN BIRMINGHAM, AL",
+   "type": "Presolicitation"
+  },
   "24df2a81b92f42469aa34d9e19f39232": {
    "active": true,
    "awardAmount": "284483.00",
@@ -1328,6 +1399,30 @@
    "state": "NY",
    "title": "Government Seeks Warehouse Space in Nassau and Suffolk County, NY",
    "type": "Presolicitation"
+  },
+  "29bb79758bed45e5be7ff94ea12d2d03": {
+   "active": true,
+   "awardAmount": "1390868.40",
+   "awardee": "SUDLEY TOWER PARTNERS LLC",
+   "city": "Manassas",
+   "deadline": "",
+   "firstSeen": "2026-11-24",
+   "id": "29bb79758bed45e5be7ff94ea12d2d03",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/29bb79758bed45e5be7ff94ea12d2d03/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "edward.brennan@gsa.gov",
+    "name": "Edward Brennan",
+    "phone": ""
+   },
+   "posted": "2026-11-23",
+   "setAside": "",
+   "solnum": "5VA0702",
+   "state": "VA",
+   "title": "Award Notice for General Services Administration (GSA): 5VA0702",
+   "type": "Award Notice"
   },
   "29e406cf282045119b53675b03981fda": {
    "active": true,
@@ -2098,6 +2193,30 @@
    "title": "6ME0094 - JOFOC Extension Bangor, ME",
    "type": "Justification"
   },
+  "446c6338e2ec40fb9859498ad1b549ff": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Atlanta",
+   "deadline": "2026-12-07",
+   "firstSeen": "2026-11-24",
+   "id": "446c6338e2ec40fb9859498ad1b549ff",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/446c6338e2ec40fb9859498ad1b549ff/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "paul.koch@gsa.gov",
+    "name": "Paul Koch",
+    "phone": "2122649388"
+   },
+   "posted": "2026-11-23",
+   "setAside": "",
+   "solnum": "6GA0317",
+   "state": "GA",
+   "title": "Seeking Competitive Lease Proposals \u2013 Administrative Office Space in in Atlanta, GA - Request for Lease Proposals No. 26NAT02",
+   "type": "Combined Synopsis/Solicitation"
+  },
   "45ecdae69fc14c0295a9228d5588845c": {
    "active": true,
    "awardAmount": "",
@@ -2855,7 +2974,6 @@
    "deadline": "2026-11-27",
    "firstSeen": "2026-11-20",
    "id": "7065138ee3cb4e8a83b8a44dcd860ebc",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/7065138ee3cb4e8a83b8a44dcd860ebc/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -3033,6 +3151,30 @@
    "solnum": "0NV2119-2",
    "state": "NV",
    "title": "The U.S. Government Seeks to Lease Space in North Las Vegas & Las Vegas, NV",
+   "type": "Presolicitation"
+  },
+  "78cfc036b8ea442386992a44a865fc5e": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Baton Rouge",
+   "deadline": "2026-11-25",
+   "firstSeen": "2026-11-24",
+   "id": "78cfc036b8ea442386992a44a865fc5e",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/78cfc036b8ea442386992a44a865fc5e/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "patrick.staley@gsa.gov",
+    "name": "Patrick Staley",
+    "phone": ""
+   },
+   "posted": "2026-11-20",
+   "setAside": "",
+   "solnum": "4LA0289",
+   "state": "LA",
+   "title": "Notice of Intent to Award Sole Source Lease Space Baton Rouge 4LA0289",
    "type": "Presolicitation"
   },
   "7a853360f0ac43a9a260b9aa5e233a08": {
@@ -4225,6 +4367,30 @@
    "title": "General Services Administration (GSA) seeks to lease office space in Port Angeles, WA and Sequim, WA",
    "type": "Combined Synopsis/Solicitation"
   },
+  "aa14e3bb53b243558ca340fc789d8b89": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "",
+   "deadline": "2026-11-23",
+   "firstSeen": "2026-11-24",
+   "id": "aa14e3bb53b243558ca340fc789d8b89",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/aa14e3bb53b243558ca340fc789d8b89/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "william.korchak@gsa.gov",
+    "name": "William Korchak",
+    "phone": "2128125818"
+   },
+   "posted": "2026-11-23",
+   "setAside": "",
+   "solnum": "4NJ0299-1",
+   "state": "",
+   "title": "SOLICITATION: RLP PACKAGE: The Government is seeking to lease office and related space in FT. LEE, NEW JERSEY for a minimum of 24,936 ANSI/BOMA (ABOA) to a maximum of 26,183 ABOA square feet.",
+   "type": "Solicitation"
+  },
   "aa5e4bbb05074076af449b0e64549b7c": {
    "active": true,
    "awardAmount": "",
@@ -4909,7 +5075,6 @@
    "deadline": "2026-11-27",
    "firstSeen": "2026-11-20",
    "id": "c0ffbe5bcf074331b6b9ac779172d873",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/c0ffbe5bcf074331b6b9ac779172d873/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -4933,7 +5098,6 @@
    "deadline": "2026-12-16",
    "firstSeen": "2026-11-20",
    "id": "c1bd7c304baa40c0b0ff129464b3c11c",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/c1bd7c304baa40c0b0ff129464b3c11c/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -6026,6 +6190,30 @@
    "title": "4FL0686 Presolicitation Notice, Lease of Office Space in Tampa, FL",
    "type": "Presolicitation"
   },
+  "e58cc00c3c1046f1b99c8acc218501ba": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Missoula",
+   "deadline": "2026-12-14",
+   "firstSeen": "2026-11-24",
+   "id": "e58cc00c3c1046f1b99c8acc218501ba",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/e58cc00c3c1046f1b99c8acc218501ba/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "Frank.Whiting@gsa.gov",
+    "name": "Frank Whiting - Lease Contracting Officer",
+    "phone": "(816) 446-4909"
+   },
+   "posted": "2026-11-20",
+   "setAside": "",
+   "solnum": "4MT0212",
+   "state": "MT",
+   "title": "General Services Administration (GSA) seeks to lease office space in Missoula, MT",
+   "type": "Solicitation"
+  },
   "e5c578821b1447a2b99a7a90951f3bed": {
    "active": true,
    "awardAmount": "",
@@ -6661,5 +6849,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-20T20:54:04+00:00"
+ "updated": "2026-11-24T00:33:42+00:00"
 }
