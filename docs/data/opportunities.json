@@ -8,7 +8,6 @@
    "deadline": "",
    "firstSeen": "2026-11-24",
    "id": "0012be90042b488eb38e770cf2841450",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/0012be90042b488eb38e770cf2841450/view",
    "naics": "532490",
    "office": "246-Network Contracting Office 6 (36C246)",
@@ -262,7 +261,6 @@
    "deadline": "2026-12-08",
    "firstSeen": "2026-11-24",
    "id": "17b546f26508488eb114d7c20233c9a4",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/17b546f26508488eb114d7c20233c9a4/view",
    "naics": "531120",
    "office": "Network Contract Office 23 (36C263)",
@@ -448,7 +446,6 @@
    "deadline": "2026-12-01",
    "firstSeen": "2026-11-24",
    "id": "26542ec6a47445a7a0e3b5525ce74f58",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/26542ec6a47445a7a0e3b5525ce74f58/view",
    "naics": "531120",
    "office": "242-Network Contract Office 02 (36C242)",
@@ -555,6 +552,30 @@
    "state": "AK",
    "title": "Request for Lease Proposal - Kenai Outstation - Soldotna, Alaska",
    "type": "Combined Synopsis/Solicitation"
+  },
+  "30577cf9003244ddab244aa9be116443": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Fayetteville",
+   "deadline": "2026-12-04",
+   "firstSeen": "2026-11-25",
+   "id": "30577cf9003244ddab244aa9be116443",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/30577cf9003244ddab244aa9be116443/view",
+   "naics": "531120",
+   "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
+   "poc": {
+    "email": "nicholas.griffaton@va.gov",
+    "name": "Nicholas Griffaton",
+    "phone": ""
+   },
+   "posted": "2026-11-25",
+   "setAside": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
+   "solnum": "36C10F27Q0005",
+   "state": "NC",
+   "title": "Sources Sought Fayetteville NC Vet Center New/Replacing Lease",
+   "type": "Sources Sought"
   },
   "3075333ce7574cce93fb2d190c04194a": {
    "active": true,
@@ -3576,5 +3597,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-24T22:53:39+00:00"
+ "updated": "2026-11-25T22:07:13+00:00"
 }

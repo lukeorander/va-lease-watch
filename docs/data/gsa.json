@@ -287,7 +287,6 @@
    "deadline": "2026-12-23",
    "firstSeen": "2026-11-24",
    "id": "0a1c6fe4ef314776ba081a8c2e9504c8",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/0a1c6fe4ef314776ba081a8c2e9504c8/view",
    "naics": "",
    "office": "Pbs Office Of Leasing",
@@ -404,7 +403,6 @@
    "deadline": "2026-12-11",
    "firstSeen": "2026-11-24",
    "id": "0cdaeb1047dc47f380bfdc37d2f4c4be",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/0cdaeb1047dc47f380bfdc37d2f4c4be/view",
    "naics": "53112",
    "office": "Pbs R7 Office Of Leasing",
@@ -615,7 +613,6 @@
    "deadline": "2026-12-15",
    "firstSeen": "2026-11-24",
    "id": "1149a016f442468889f18548734b90d9",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/1149a016f442468889f18548734b90d9/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -1082,7 +1079,6 @@
    "deadline": "2026-12-24",
    "firstSeen": "2026-11-24",
    "id": "1da52277b91f45d0bc4f901fe0563d3e",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/1da52277b91f45d0bc4f901fe0563d3e/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -1431,7 +1427,6 @@
    "deadline": "",
    "firstSeen": "2026-11-24",
    "id": "2627e1292ecb41cba2ce95b01e90cf73",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/2627e1292ecb41cba2ce95b01e90cf73/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2411,7 +2406,6 @@
    "deadline": "2026-12-22",
    "firstSeen": "2026-11-24",
    "id": "49b94e65c4a0452fb2a6db69e74ef4b7",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/49b94e65c4a0452fb2a6db69e74ef4b7/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2481,7 +2475,6 @@
    "deadline": "2026-12-14",
    "firstSeen": "2026-11-24",
    "id": "4c3baef5e4f54206a91711403b575070",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/4c3baef5e4f54206a91711403b575070/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -2588,6 +2581,30 @@
    "solnum": "6FL0665",
    "state": "FL",
    "title": "GSA Pre-solicitation Notice for Sole Source in Marathon FL (6FL0665)",
+   "type": "Presolicitation"
+  },
+  "51abf108167649e88e4eed70425fd611": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Albany",
+   "deadline": "2026-12-08",
+   "firstSeen": "2026-11-25",
+   "id": "51abf108167649e88e4eed70425fd611",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/51abf108167649e88e4eed70425fd611/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "elizabeth.mccullough@gsa.gov",
+    "name": "Elizabeth McCullough",
+    "phone": "2675932398"
+   },
+   "posted": "2026-11-25",
+   "setAside": "No Set aside used",
+   "solnum": "3NY0919",
+   "state": "NY",
+   "title": "US Government Notice of Lease Requirement in Albany, NY",
    "type": "Presolicitation"
   },
   "51bc00398c804e34b3441eeb2ceb7088": {
@@ -2918,6 +2935,30 @@
    "state": "AR",
    "title": "Lease of Office Space within Region 7. Request for Lease Proposals (RLP) #25REG07",
    "type": "Special Notice"
+  },
+  "6266597afc0e469faffd18e8eaeea9e6": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Ocala",
+   "deadline": "2027-01-07",
+   "firstSeen": "2026-11-25",
+   "id": "6266597afc0e469faffd18e8eaeea9e6",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/6266597afc0e469faffd18e8eaeea9e6/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "stephen.love@gsa.gov",
+    "name": "Stephen Love",
+    "phone": "405-482-9936"
+   },
+   "posted": "2026-11-25",
+   "setAside": "",
+   "solnum": "4FL0566-1",
+   "state": "FL",
+   "title": "Lease of Office Space within Ocala, FL. Request for Lease Proposals (RLP) #26NAT01 - Office Space",
+   "type": "Combined Synopsis/Solicitation"
   },
   "675ac6e4766842dca1f43df8c2b5cb29": {
    "active": true,
@@ -5578,6 +5619,30 @@
    "title": "Lease of Office Space. Request for Lease Proposals (RLP) #26NAT01 - Office Space",
    "type": "Combined Synopsis/Solicitation"
   },
+  "cc8e41015c3045bfa795c2e8719a550c": {
+   "active": true,
+   "awardAmount": "2461115.64",
+   "awardee": "550 CORPORATE OWNER LLC",
+   "city": "San Diego",
+   "deadline": "",
+   "firstSeen": "2026-11-25",
+   "id": "cc8e41015c3045bfa795c2e8719a550c",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/cc8e41015c3045bfa795c2e8719a550c/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "john.a.bell@gsa.gov",
+    "name": "JOHN A. BELL",
+    "phone": ""
+   },
+   "posted": "2026-11-24",
+   "setAside": "",
+   "solnum": "5CA1633",
+   "state": "CA",
+   "title": "US Government Awards Extension in San Diego, CA",
+   "type": "Award Notice"
+  },
   "ccb80719bb4249b29ff28942ec554761": {
    "active": true,
    "awardAmount": "",
@@ -6164,6 +6229,30 @@
    "title": "U.S. Government Seeks to Lease Office and Related Space in Wilmington, NC",
    "type": "Solicitation"
   },
+  "dc44a557165141a6b0c29ad82191119c": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "San Diego",
+   "deadline": "",
+   "firstSeen": "2026-11-25",
+   "id": "dc44a557165141a6b0c29ad82191119c",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/dc44a557165141a6b0c29ad82191119c/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "john.a.bell@gsa.gov",
+    "name": "JOHN A. BELL",
+    "phone": ""
+   },
+   "posted": "2026-11-24",
+   "setAside": "",
+   "solnum": "5CA1633",
+   "state": "CA",
+   "title": "US Government Awards Extension in San Diego, CA - Redacted JOTFOC",
+   "type": "Justification"
+  },
   "dca8a2ae11424afebd01a39dff3366a1": {
    "active": true,
    "awardAmount": "",
@@ -6638,7 +6727,6 @@
    "deadline": "2026-12-07",
    "firstSeen": "2026-11-24",
    "id": "ebe5cbd52ab14a69a0796b62faaa26e1",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/ebe5cbd52ab14a69a0796b62faaa26e1/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -6817,6 +6905,30 @@
    "solnum": "2TN0427-2",
    "state": "TN",
    "title": "General Services Administration (GSA) Seeks to lease the following space: Solicitation No. 2TN0427",
+   "type": "Presolicitation"
+  },
+  "f5bc157c9179428b96c35dd62120dc03": {
+   "active": true,
+   "awardAmount": "",
+   "awardee": "",
+   "city": "Newark",
+   "deadline": "2026-12-03",
+   "firstSeen": "2026-11-25",
+   "id": "f5bc157c9179428b96c35dd62120dc03",
+   "isUpdate": true,
+   "link": "https://sam.gov/workspace/contract/opp/f5bc157c9179428b96c35dd62120dc03/view",
+   "naics": "531120",
+   "office": "Pbs R00 Center For Broker Services",
+   "poc": {
+    "email": "richard.downey@gsa.gov",
+    "name": "Richard T. Downey, Jr.",
+    "phone": "2025855664"
+   },
+   "posted": "2026-11-25",
+   "setAside": "",
+   "solnum": "6NJ0225",
+   "state": "NJ",
+   "title": "U.S. Government Seeks to Lease Office, Flex and Related Space in Newark, NJ",
    "type": "Presolicitation"
   },
   "f65575bf54684c07a10dfab18d1a937d": {
@@ -7033,5 +7145,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-24T22:53:40+00:00"
+ "updated": "2026-11-25T22:07:14+00:00"
 }
