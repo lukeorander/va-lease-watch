@@ -561,7 +561,6 @@
    "deadline": "2026-12-04",
    "firstSeen": "2026-11-25",
    "id": "30577cf9003244ddab244aa9be116443",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/30577cf9003244ddab244aa9be116443/view",
    "naics": "531120",
    "office": "Office Of Construction &  Facilities Mgmt (36C10F)",
@@ -3597,5 +3596,5 @@
    "type": "Special Notice"
   }
  },
- "updated": "2026-11-25T22:07:13+00:00"
+ "updated": "2026-11-26T22:05:27+00:00"
 }

@@ -2591,7 +2591,6 @@
    "deadline": "2026-12-08",
    "firstSeen": "2026-11-25",
    "id": "51abf108167649e88e4eed70425fd611",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/51abf108167649e88e4eed70425fd611/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -2944,7 +2943,6 @@
    "deadline": "2027-01-07",
    "firstSeen": "2026-11-25",
    "id": "6266597afc0e469faffd18e8eaeea9e6",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/6266597afc0e469faffd18e8eaeea9e6/view",
    "naics": "531120",
    "office": "Pbs Office Of Leasing",
@@ -5627,7 +5625,6 @@
    "deadline": "",
    "firstSeen": "2026-11-25",
    "id": "cc8e41015c3045bfa795c2e8719a550c",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/cc8e41015c3045bfa795c2e8719a550c/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -6237,7 +6234,6 @@
    "deadline": "",
    "firstSeen": "2026-11-25",
    "id": "dc44a557165141a6b0c29ad82191119c",
-   "isUpdate": false,
    "link": "https://sam.gov/workspace/contract/opp/dc44a557165141a6b0c29ad82191119c/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -6915,7 +6911,6 @@
    "deadline": "2026-12-03",
    "firstSeen": "2026-11-25",
    "id": "f5bc157c9179428b96c35dd62120dc03",
-   "isUpdate": true,
    "link": "https://sam.gov/workspace/contract/opp/f5bc157c9179428b96c35dd62120dc03/view",
    "naics": "531120",
    "office": "Pbs R00 Center For Broker Services",
@@ -7145,5 +7140,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-25T22:07:14+00:00"
+ "updated": "2026-11-26T22:05:28+00:00"
 }
