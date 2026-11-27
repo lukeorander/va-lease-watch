@@ -4591,6 +4591,30 @@
    "title": "SOLICITATION: RLP PACKAGE: The Government is seeking to lease office and related space in FT. LEE, NEW JERSEY for a minimum of 24,936 ANSI/BOMA (ABOA) to a maximum of 26,183 ABOA square feet.",
    "type": "Solicitation"
   },
+  "aa574f2781ff4d49822744e9b34e566e": {
+   "active": true,
+   "awardAmount": "317400.00",
+   "awardee": "INTERSTATE PARKING COMPANY OF INDIANA LLC",
+   "city": "Indianapolis",
+   "deadline": "",
+   "firstSeen": "2026-11-27",
+   "id": "aa574f2781ff4d49822744e9b34e566e",
+   "isUpdate": false,
+   "link": "https://sam.gov/workspace/contract/opp/aa574f2781ff4d49822744e9b34e566e/view",
+   "naics": "531120",
+   "office": "Pbs Office Of Leasing",
+   "poc": {
+    "email": "henry.hargrove@gsa.gov",
+    "name": "Henry Hargrove III",
+    "phone": ""
+   },
+   "posted": "2026-11-27",
+   "setAside": "No Set aside used",
+   "solnum": "6IN0216",
+   "state": "IN",
+   "title": "Award Notice / Posting Redacted Justification for Other than Full and Open Competition",
+   "type": "Award Notice"
+  },
   "aa5e4bbb05074076af449b0e64549b7c": {
    "active": true,
    "awardAmount": "",
@@ -7140,5 +7164,5 @@
    "type": "Solicitation"
   }
  },
- "updated": "2026-11-26T22:05:28+00:00"
+ "updated": "2026-11-27T21:47:17+00:00"
 }
